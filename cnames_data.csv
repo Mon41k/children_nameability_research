@@ -1,0 +1,4812 @@
+﻿experiment;subject;condition;conditionC;totalTrialNum;totalTrialNumC;blockNum;imageName;isRight
+1A;p1105;high;0.5;0;;1;ha1.png;1
+1A;p1105;high;0.5;2;;1;ha1.png;1
+1A;p1105;high;0.5;4;;1;ha2.png;0
+1A;p1105;high;0.5;5;;1;ha3.png;1
+1A;p1105;high;0.5;1;;1;hb1.png;1
+1A;p1105;high;0.5;7;;1;hb1.png;1
+1A;p1105;high;0.5;3;;1;hb2.png;1
+1A;p1105;high;0.5;6;;1;hb3.png;1
+1A;p1105;high;0.5;15;;2;ha1.png;1
+1A;p1105;high;0.5;13;;2;ha1.png;0
+1A;p1105;high;0.5;11;;2;ha2.png;1
+1A;p1105;high;0.5;8;;2;ha3.png;1
+1A;p1105;high;0.5;9;;2;hb1.png;1
+1A;p1105;high;0.5;14;;2;hb1.png;1
+1A;p1105;high;0.5;10;;2;hb2.png;1
+1A;p1105;high;0.5;12;;2;hb3.png;0
+1A;p1105;high;0.5;23;;3;ha1.png;1
+1A;p1105;high;0.5;17;;3;ha1.png;1
+1A;p1105;high;0.5;21;;3;ha2.png;0
+1A;p1105;high;0.5;20;;3;ha3.png;1
+1A;p1105;high;0.5;16;;3;hb1.png;1
+1A;p1105;high;0.5;19;;3;hb1.png;1
+1A;p1105;high;0.5;18;;3;hb2.png;1
+1A;p1105;high;0.5;22;;3;hb3.png;1
+1A;p1106;low;-0.5;7;;1;ha1.png;1
+1A;p1106;low;-0.5;1;;1;ha1.png;1
+1A;p1106;low;-0.5;2;;1;ha2.png;1
+1A;p1106;low;-0.5;5;;1;ha3.png;1
+1A;p1106;low;-0.5;0;;1;hb1.png;0
+1A;p1106;low;-0.5;3;;1;hb1.png;1
+1A;p1106;low;-0.5;4;;1;hb2.png;1
+1A;p1106;low;-0.5;6;;1;hb3.png;1
+1A;p1106;low;-0.5;10;;2;ha1.png;1
+1A;p1106;low;-0.5;15;;2;ha1.png;1
+1A;p1106;low;-0.5;11;;2;ha2.png;1
+1A;p1106;low;-0.5;9;;2;ha3.png;1
+1A;p1106;low;-0.5;14;;2;hb1.png;1
+1A;p1106;low;-0.5;8;;2;hb1.png;1
+1A;p1106;low;-0.5;13;;2;hb2.png;1
+1A;p1106;low;-0.5;12;;2;hb3.png;1
+1A;p1106;low;-0.5;20;;3;ha1.png;1
+1A;p1106;low;-0.5;21;;3;ha1.png;1
+1A;p1106;low;-0.5;22;;3;ha2.png;1
+1A;p1106;low;-0.5;19;;3;ha3.png;1
+1A;p1106;low;-0.5;17;;3;hb1.png;1
+1A;p1106;low;-0.5;18;;3;hb1.png;1
+1A;p1106;low;-0.5;16;;3;hb2.png;1
+1A;p1106;low;-0.5;23;;3;hb3.png;1
+1A;p1119;high;0.5;6;;1;ha1.png;1
+1A;p1119;high;0.5;3;;1;ha1.png;1
+1A;p1119;high;0.5;7;;1;ha2.png;1
+1A;p1119;high;0.5;2;;1;ha3.png;1
+1A;p1119;high;0.5;0;;1;hb1.png;0
+1A;p1119;high;0.5;5;;1;hb1.png;1
+1A;p1119;high;0.5;1;;1;hb2.png;0
+1A;p1119;high;0.5;4;;1;hb3.png;1
+1A;p1119;high;0.5;14;;2;ha1.png;1
+1A;p1119;high;0.5;13;;2;ha1.png;1
+1A;p1119;high;0.5;15;;2;ha2.png;1
+1A;p1119;high;0.5;9;;2;ha3.png;1
+1A;p1119;high;0.5;12;;2;hb1.png;1
+1A;p1119;high;0.5;8;;2;hb1.png;1
+1A;p1119;high;0.5;11;;2;hb2.png;1
+1A;p1119;high;0.5;10;;2;hb3.png;1
+1A;p1119;high;0.5;23;;3;ha1.png;1
+1A;p1119;high;0.5;19;;3;ha1.png;1
+1A;p1119;high;0.5;20;;3;ha2.png;1
+1A;p1119;high;0.5;21;;3;ha3.png;1
+1A;p1119;high;0.5;22;;3;hb1.png;1
+1A;p1119;high;0.5;18;;3;hb1.png;1
+1A;p1119;high;0.5;16;;3;hb2.png;1
+1A;p1119;high;0.5;17;;3;hb3.png;1
+1A;p1118;low;-0.5;0;;1;ha1.png;1
+1A;p1118;low;-0.5;3;;1;ha1.png;1
+1A;p1118;low;-0.5;5;;1;ha2.png;0
+1A;p1118;low;-0.5;7;;1;ha3.png;0
+1A;p1118;low;-0.5;4;;1;hb1.png;1
+1A;p1118;low;-0.5;1;;1;hb1.png;0
+1A;p1118;low;-0.5;6;;1;hb2.png;0
+1A;p1118;low;-0.5;2;;1;hb3.png;1
+1A;p1118;low;-0.5;10;;2;ha1.png;1
+1A;p1118;low;-0.5;15;;2;ha1.png;1
+1A;p1118;low;-0.5;14;;2;ha2.png;1
+1A;p1118;low;-0.5;9;;2;ha3.png;1
+1A;p1118;low;-0.5;8;;2;hb1.png;1
+1A;p1118;low;-0.5;13;;2;hb1.png;1
+1A;p1118;low;-0.5;12;;2;hb2.png;0
+1A;p1118;low;-0.5;11;;2;hb3.png;1
+1A;p1118;low;-0.5;17;;3;ha1.png;1
+1A;p1118;low;-0.5;23;;3;ha1.png;1
+1A;p1118;low;-0.5;18;;3;ha2.png;1
+1A;p1118;low;-0.5;19;;3;ha3.png;1
+1A;p1118;low;-0.5;16;;3;hb1.png;1
+1A;p1118;low;-0.5;20;;3;hb1.png;1
+1A;p1118;low;-0.5;21;;3;hb2.png;0
+1A;p1118;low;-0.5;22;;3;hb3.png;0
+1A;p1138;high;0.5;0;;1;ha1.png;1
+1A;p1138;high;0.5;1;;1;ha1.png;1
+1A;p1138;high;0.5;4;;1;ha2.png;1
+1A;p1138;high;0.5;2;;1;ha3.png;0
+1A;p1138;high;0.5;7;;1;hb1.png;1
+1A;p1138;high;0.5;3;;1;hb1.png;1
+1A;p1138;high;0.5;6;;1;hb2.png;1
+1A;p1138;high;0.5;5;;1;hb3.png;1
+1A;p1138;high;0.5;12;;2;ha1.png;1
+1A;p1138;high;0.5;8;;2;ha1.png;1
+1A;p1138;high;0.5;10;;2;ha2.png;1
+1A;p1138;high;0.5;13;;2;ha3.png;0
+1A;p1138;high;0.5;11;;2;hb1.png;1
+1A;p1138;high;0.5;15;;2;hb1.png;1
+1A;p1138;high;0.5;9;;2;hb2.png;1
+1A;p1138;high;0.5;14;;2;hb3.png;1
+1A;p1138;high;0.5;18;;3;ha1.png;1
+1A;p1138;high;0.5;22;;3;ha1.png;1
+1A;p1138;high;0.5;21;;3;ha2.png;1
+1A;p1138;high;0.5;20;;3;ha3.png;1
+1A;p1138;high;0.5;17;;3;hb1.png;1
+1A;p1138;high;0.5;19;;3;hb1.png;1
+1A;p1138;high;0.5;23;;3;hb2.png;1
+1A;p1138;high;0.5;16;;3;hb3.png;1
+1A;p1136;low;-0.5;7;;1;ha1.png;1
+1A;p1136;low;-0.5;0;;1;ha1.png;1
+1A;p1136;low;-0.5;3;;1;ha2.png;1
+1A;p1136;low;-0.5;2;;1;ha3.png;0
+1A;p1136;low;-0.5;4;;1;hb1.png;1
+1A;p1136;low;-0.5;1;;1;hb1.png;1
+1A;p1136;low;-0.5;5;;1;hb2.png;0
+1A;p1136;low;-0.5;6;;1;hb3.png;0
+1A;p1136;low;-0.5;10;;2;ha1.png;1
+1A;p1136;low;-0.5;11;;2;ha1.png;1
+1A;p1136;low;-0.5;8;;2;ha2.png;0
+1A;p1136;low;-0.5;9;;2;ha3.png;1
+1A;p1136;low;-0.5;15;;2;hb1.png;1
+1A;p1136;low;-0.5;14;;2;hb1.png;1
+1A;p1136;low;-0.5;12;;2;hb2.png;1
+1A;p1136;low;-0.5;13;;2;hb3.png;1
+1A;p1136;low;-0.5;22;;3;ha1.png;1
+1A;p1136;low;-0.5;18;;3;ha1.png;1
+1A;p1136;low;-0.5;23;;3;ha2.png;0
+1A;p1136;low;-0.5;20;;3;ha3.png;1
+1A;p1136;low;-0.5;16;;3;hb1.png;1
+1A;p1136;low;-0.5;17;;3;hb1.png;1
+1A;p1136;low;-0.5;19;;3;hb2.png;0
+1A;p1136;low;-0.5;21;;3;hb3.png;0
+1A;ppp1201;high;0.5;0;;1;ha1.png;1
+1A;ppp1201;high;0.5;4;;1;ha1.png;1
+1A;ppp1201;high;0.5;2;;1;ha2.png;0
+1A;ppp1201;high;0.5;1;;1;ha3.png;1
+1A;ppp1201;high;0.5;7;;1;hb1.png;1
+1A;ppp1201;high;0.5;5;;1;hb1.png;1
+1A;ppp1201;high;0.5;3;;1;hb2.png;1
+1A;ppp1201;high;0.5;6;;1;hb3.png;0
+1A;ppp1201;high;0.5;12;;2;ha1.png;1
+1A;ppp1201;high;0.5;14;;2;ha1.png;1
+1A;ppp1201;high;0.5;9;;2;ha2.png;1
+1A;ppp1201;high;0.5;15;;2;ha3.png;0
+1A;ppp1201;high;0.5;11;;2;hb1.png;1
+1A;ppp1201;high;0.5;13;;2;hb1.png;1
+1A;ppp1201;high;0.5;10;;2;hb2.png;1
+1A;ppp1201;high;0.5;8;;2;hb3.png;1
+1A;ppp1201;high;0.5;23;;3;ha1.png;1
+1A;ppp1201;high;0.5;20;;3;ha1.png;1
+1A;ppp1201;high;0.5;22;;3;ha2.png;1
+1A;ppp1201;high;0.5;21;;3;ha3.png;1
+1A;ppp1201;high;0.5;16;;3;hb1.png;1
+1A;ppp1201;high;0.5;17;;3;hb1.png;1
+1A;ppp1201;high;0.5;18;;3;hb2.png;1
+1A;ppp1201;high;0.5;19;;3;hb3.png;1
+1A;p1203;low;-0.5;0;;1;ha1.png;1
+1A;p1203;low;-0.5;2;;1;ha1.png;1
+1A;p1203;low;-0.5;5;;1;ha2.png;0
+1A;p1203;low;-0.5;7;;1;ha3.png;0
+1A;p1203;low;-0.5;1;;1;hb1.png;1
+1A;p1203;low;-0.5;3;;1;hb1.png;1
+1A;p1203;low;-0.5;6;;1;hb2.png;1
+1A;p1203;low;-0.5;4;;1;hb3.png;1
+1A;p1203;low;-0.5;13;;2;ha1.png;1
+1A;p1203;low;-0.5;15;;2;ha1.png;1
+1A;p1203;low;-0.5;10;;2;ha2.png;0
+1A;p1203;low;-0.5;14;;2;ha3.png;1
+1A;p1203;low;-0.5;8;;2;hb1.png;1
+1A;p1203;low;-0.5;11;;2;hb1.png;1
+1A;p1203;low;-0.5;12;;2;hb2.png;1
+1A;p1203;low;-0.5;9;;2;hb3.png;1
+1A;p1203;low;-0.5;17;;3;ha1.png;1
+1A;p1203;low;-0.5;23;;3;ha1.png;1
+1A;p1203;low;-0.5;19;;3;ha2.png;0
+1A;p1203;low;-0.5;18;;3;ha3.png;1
+1A;p1203;low;-0.5;16;;3;hb1.png;1
+1A;p1203;low;-0.5;20;;3;hb1.png;1
+1A;p1203;low;-0.5;22;;3;hb2.png;1
+1A;p1203;low;-0.5;21;;3;hb3.png;1
+1A;p1229;high;0.5;6;;1;ha1.png;1
+1A;p1229;high;0.5;2;;1;ha1.png;1
+1A;p1229;high;0.5;3;;1;ha2.png;1
+1A;p1229;high;0.5;7;;1;ha3.png;1
+1A;p1229;high;0.5;1;;1;hb1.png;1
+1A;p1229;high;0.5;0;;1;hb1.png;0
+1A;p1229;high;0.5;5;;1;hb2.png;1
+1A;p1229;high;0.5;4;;1;hb3.png;0
+1A;p1229;high;0.5;11;;2;ha1.png;1
+1A;p1229;high;0.5;10;;2;ha1.png;1
+1A;p1229;high;0.5;14;;2;ha2.png;1
+1A;p1229;high;0.5;9;;2;ha3.png;1
+1A;p1229;high;0.5;15;;2;hb1.png;1
+1A;p1229;high;0.5;8;;2;hb1.png;1
+1A;p1229;high;0.5;13;;2;hb2.png;1
+1A;p1229;high;0.5;12;;2;hb3.png;1
+1A;p1229;high;0.5;17;;3;ha1.png;1
+1A;p1229;high;0.5;18;;3;ha1.png;1
+1A;p1229;high;0.5;16;;3;ha2.png;1
+1A;p1229;high;0.5;21;;3;ha3.png;1
+1A;p1229;high;0.5;22;;3;hb1.png;1
+1A;p1229;high;0.5;23;;3;hb1.png;1
+1A;p1229;high;0.5;19;;3;hb2.png;1
+1A;p1229;high;0.5;20;;3;hb3.png;1
+1A;p1213;low;-0.5;2;;1;ha1.png;0
+1A;p1213;low;-0.5;6;;1;ha1.png;1
+1A;p1213;low;-0.5;5;;1;ha2.png;1
+1A;p1213;low;-0.5;7;;1;ha3.png;0
+1A;p1213;low;-0.5;3;;1;hb1.png;1
+1A;p1213;low;-0.5;4;;1;hb1.png;1
+1A;p1213;low;-0.5;1;;1;hb2.png;0
+1A;p1213;low;-0.5;0;;1;hb3.png;0
+1A;p1213;low;-0.5;15;;2;ha1.png;1
+1A;p1213;low;-0.5;12;;2;ha1.png;1
+1A;p1213;low;-0.5;11;;2;ha2.png;1
+1A;p1213;low;-0.5;8;;2;ha3.png;1
+1A;p1213;low;-0.5;13;;2;hb1.png;1
+1A;p1213;low;-0.5;10;;2;hb1.png;1
+1A;p1213;low;-0.5;14;;2;hb2.png;1
+1A;p1213;low;-0.5;9;;2;hb3.png;1
+1A;p1213;low;-0.5;20;;3;ha1.png;1
+1A;p1213;low;-0.5;23;;3;ha1.png;1
+1A;p1213;low;-0.5;19;;3;ha2.png;1
+1A;p1213;low;-0.5;17;;3;ha3.png;1
+1A;p1213;low;-0.5;22;;3;hb1.png;1
+1A;p1213;low;-0.5;16;;3;hb1.png;1
+1A;p1213;low;-0.5;21;;3;hb2.png;1
+1A;p1213;low;-0.5;18;;3;hb3.png;1
+1A;p1233;high;0.5;3;;1;ha1.png;1
+1A;p1233;high;0.5;1;;1;ha1.png;1
+1A;p1233;high;0.5;5;;1;ha2.png;1
+1A;p1233;high;0.5;4;;1;ha3.png;0
+1A;p1233;high;0.5;0;;1;hb1.png;0
+1A;p1233;high;0.5;6;;1;hb1.png;1
+1A;p1233;high;0.5;7;;1;hb2.png;1
+1A;p1233;high;0.5;2;;1;hb3.png;0
+1A;p1233;high;0.5;11;;2;ha1.png;1
+1A;p1233;high;0.5;14;;2;ha1.png;1
+1A;p1233;high;0.5;10;;2;ha2.png;1
+1A;p1233;high;0.5;8;;2;ha3.png;1
+1A;p1233;high;0.5;12;;2;hb1.png;1
+1A;p1233;high;0.5;15;;2;hb1.png;1
+1A;p1233;high;0.5;9;;2;hb2.png;1
+1A;p1233;high;0.5;13;;2;hb3.png;1
+1A;p1233;high;0.5;18;;3;ha1.png;1
+1A;p1233;high;0.5;22;;3;ha1.png;1
+1A;p1233;high;0.5;21;;3;ha2.png;1
+1A;p1233;high;0.5;19;;3;ha3.png;1
+1A;p1233;high;0.5;20;;3;hb1.png;1
+1A;p1233;high;0.5;17;;3;hb1.png;1
+1A;p1233;high;0.5;23;;3;hb2.png;1
+1A;p1233;high;0.5;16;;3;hb3.png;1
+1A;p1245;low;-0.5;4;;1;ha1.png;0
+1A;p1245;low;-0.5;0;;1;ha1.png;1
+1A;p1245;low;-0.5;3;;1;ha2.png;1
+1A;p1245;low;-0.5;6;;1;ha3.png;1
+1A;p1245;low;-0.5;7;;1;hb1.png;1
+1A;p1245;low;-0.5;5;;1;hb1.png;1
+1A;p1245;low;-0.5;2;;1;hb2.png;0
+1A;p1245;low;-0.5;1;;1;hb3.png;0
+1A;p1245;low;-0.5;8;;2;ha1.png;1
+1A;p1245;low;-0.5;10;;2;ha1.png;1
+1A;p1245;low;-0.5;15;;2;ha2.png;0
+1A;p1245;low;-0.5;14;;2;ha3.png;0
+1A;p1245;low;-0.5;12;;2;hb1.png;1
+1A;p1245;low;-0.5;13;;2;hb1.png;1
+1A;p1245;low;-0.5;11;;2;hb2.png;0
+1A;p1245;low;-0.5;9;;2;hb3.png;1
+1A;p1245;low;-0.5;23;;3;ha1.png;1
+1A;p1245;low;-0.5;18;;3;ha1.png;1
+1A;p1245;low;-0.5;21;;3;ha2.png;1
+1A;p1245;low;-0.5;22;;3;ha3.png;0
+1A;p1245;low;-0.5;16;;3;hb1.png;1
+1A;p1245;low;-0.5;17;;3;hb1.png;1
+1A;p1245;low;-0.5;20;;3;hb2.png;0
+1A;p1245;low;-0.5;19;;3;hb3.png;0
+1A;p1321;high;0.5;4;;1;ha1.png;1
+1A;p1321;high;0.5;6;;1;ha1.png;1
+1A;p1321;high;0.5;2;;1;ha2.png;1
+1A;p1321;high;0.5;0;;1;ha3.png;1
+1A;p1321;high;0.5;1;;1;hb1.png;0
+1A;p1321;high;0.5;5;;1;hb1.png;1
+1A;p1321;high;0.5;7;;1;hb2.png;1
+1A;p1321;high;0.5;3;;1;hb3.png;0
+1A;p1321;high;0.5;8;;2;ha1.png;1
+1A;p1321;high;0.5;14;;2;ha1.png;1
+1A;p1321;high;0.5;13;;2;ha2.png;1
+1A;p1321;high;0.5;15;;2;ha3.png;1
+1A;p1321;high;0.5;11;;2;hb1.png;1
+1A;p1321;high;0.5;12;;2;hb1.png;1
+1A;p1321;high;0.5;10;;2;hb2.png;1
+1A;p1321;high;0.5;9;;2;hb3.png;1
+1A;p1321;high;0.5;18;;3;ha1.png;1
+1A;p1321;high;0.5;21;;3;ha1.png;1
+1A;p1321;high;0.5;23;;3;ha2.png;1
+1A;p1321;high;0.5;16;;3;ha3.png;1
+1A;p1321;high;0.5;22;;3;hb1.png;1
+1A;p1321;high;0.5;19;;3;hb1.png;1
+1A;p1321;high;0.5;17;;3;hb2.png;1
+1A;p1321;high;0.5;20;;3;hb3.png;1
+1A;p1254;low;-0.5;3;;1;ha1.png;1
+1A;p1254;low;-0.5;4;;1;ha1.png;1
+1A;p1254;low;-0.5;5;;1;ha2.png;1
+1A;p1254;low;-0.5;6;;1;ha3.png;1
+1A;p1254;low;-0.5;1;;1;hb1.png;1
+1A;p1254;low;-0.5;7;;1;hb1.png;1
+1A;p1254;low;-0.5;2;;1;hb2.png;1
+1A;p1254;low;-0.5;0;;1;hb3.png;0
+1A;p1254;low;-0.5;13;;2;ha1.png;1
+1A;p1254;low;-0.5;8;;2;ha1.png;1
+1A;p1254;low;-0.5;12;;2;ha2.png;1
+1A;p1254;low;-0.5;15;;2;ha3.png;1
+1A;p1254;low;-0.5;9;;2;hb1.png;1
+1A;p1254;low;-0.5;10;;2;hb1.png;1
+1A;p1254;low;-0.5;14;;2;hb2.png;1
+1A;p1254;low;-0.5;11;;2;hb3.png;1
+1A;p1254;low;-0.5;20;;3;ha1.png;1
+1A;p1254;low;-0.5;22;;3;ha1.png;1
+1A;p1254;low;-0.5;17;;3;ha2.png;1
+1A;p1254;low;-0.5;19;;3;ha3.png;1
+1A;p1254;low;-0.5;16;;3;hb1.png;1
+1A;p1254;low;-0.5;21;;3;hb1.png;1
+1A;p1254;low;-0.5;18;;3;hb2.png;1
+1A;p1254;low;-0.5;23;;3;hb3.png;1
+1A;p1328;high;0.5;5;;1;ha1.png;1
+1A;p1328;high;0.5;3;;1;ha1.png;1
+1A;p1328;high;0.5;0;;1;ha2.png;1
+1A;p1328;high;0.5;1;;1;ha3.png;1
+1A;p1328;high;0.5;2;;1;hb1.png;0
+1A;p1328;high;0.5;7;;1;hb1.png;1
+1A;p1328;high;0.5;4;;1;hb2.png;1
+1A;p1328;high;0.5;6;;1;hb3.png;1
+1A;p1328;high;0.5;9;;2;ha1.png;1
+1A;p1328;high;0.5;15;;2;ha1.png;1
+1A;p1328;high;0.5;13;;2;ha2.png;1
+1A;p1328;high;0.5;14;;2;ha3.png;1
+1A;p1328;high;0.5;12;;2;hb1.png;1
+1A;p1328;high;0.5;11;;2;hb1.png;1
+1A;p1328;high;0.5;10;;2;hb2.png;1
+1A;p1328;high;0.5;8;;2;hb3.png;1
+1A;p1328;high;0.5;23;;3;ha1.png;1
+1A;p1328;high;0.5;19;;3;ha1.png;1
+1A;p1328;high;0.5;20;;3;ha2.png;1
+1A;p1328;high;0.5;17;;3;ha3.png;1
+1A;p1328;high;0.5;18;;3;hb1.png;1
+1A;p1328;high;0.5;16;;3;hb1.png;1
+1A;p1328;high;0.5;21;;3;hb2.png;1
+1A;p1328;high;0.5;22;;3;hb3.png;1
+1A;p1357;high;0.5;4;;1;ha1.png;0
+1A;p1357;high;0.5;6;;1;ha1.png;1
+1A;p1357;high;0.5;2;;1;ha2.png;1
+1A;p1357;high;0.5;1;;1;ha3.png;0
+1A;p1357;high;0.5;3;;1;hb1.png;0
+1A;p1357;high;0.5;7;;1;hb1.png;0
+1A;p1357;high;0.5;0;;1;hb2.png;0
+1A;p1357;high;0.5;5;;1;hb3.png;1
+1A;p1357;high;0.5;15;;2;ha1.png;1
+1A;p1357;high;0.5;8;;2;ha1.png;1
+1A;p1357;high;0.5;14;;2;ha2.png;1
+1A;p1357;high;0.5;11;;2;ha3.png;1
+1A;p1357;high;0.5;13;;2;hb1.png;1
+1A;p1357;high;0.5;10;;2;hb1.png;0
+1A;p1357;high;0.5;9;;2;hb2.png;1
+1A;p1357;high;0.5;12;;2;hb3.png;1
+1A;p1357;high;0.5;23;;3;ha1.png;1
+1A;p1357;high;0.5;21;;3;ha1.png;1
+1A;p1357;high;0.5;17;;3;ha2.png;0
+1A;p1357;high;0.5;20;;3;ha3.png;1
+1A;p1357;high;0.5;18;;3;hb1.png;1
+1A;p1357;high;0.5;16;;3;hb1.png;1
+1A;p1357;high;0.5;19;;3;hb2.png;0
+1A;p1357;high;0.5;22;;3;hb3.png;1
+1A;p1137;high;0.5;2;;1;ha1.png;0
+1A;p1137;high;0.5;6;;1;ha1.png;1
+1A;p1137;high;0.5;3;;1;ha2.png;1
+1A;p1137;high;0.5;0;;1;ha3.png;1
+1A;p1137;high;0.5;1;;1;hb1.png;1
+1A;p1137;high;0.5;5;;1;hb1.png;1
+1A;p1137;high;0.5;7;;1;hb2.png;1
+1A;p1137;high;0.5;4;;1;hb3.png;0
+1A;p1137;high;0.5;13;;2;ha1.png;1
+1A;p1137;high;0.5;9;;2;ha1.png;1
+1A;p1137;high;0.5;12;;2;ha2.png;1
+1A;p1137;high;0.5;15;;2;ha3.png;1
+1A;p1137;high;0.5;14;;2;hb1.png;1
+1A;p1137;high;0.5;10;;2;hb1.png;1
+1A;p1137;high;0.5;11;;2;hb2.png;1
+1A;p1137;high;0.5;8;;2;hb3.png;0
+1A;p1137;high;0.5;22;;3;ha1.png;1
+1A;p1137;high;0.5;19;;3;ha1.png;1
+1A;p1137;high;0.5;23;;3;ha2.png;0
+1A;p1137;high;0.5;21;;3;ha3.png;0
+1A;p1137;high;0.5;18;;3;hb1.png;1
+1A;p1137;high;0.5;20;;3;hb1.png;1
+1A;p1137;high;0.5;16;;3;hb2.png;1
+1A;p1137;high;0.5;17;;3;hb3.png;1
+1A;p1101;low;-0.5;5;;1;ha1.png;1
+1A;p1101;low;-0.5;7;;1;ha1.png;1
+1A;p1101;low;-0.5;2;;1;ha2.png;0
+1A;p1101;low;-0.5;6;;1;ha3.png;1
+1A;p1101;low;-0.5;0;;1;hb1.png;0
+1A;p1101;low;-0.5;3;;1;hb1.png;0
+1A;p1101;low;-0.5;4;;1;hb2.png;0
+1A;p1101;low;-0.5;1;;1;hb3.png;0
+1A;p1101;low;-0.5;10;;2;ha1.png;1
+1A;p1101;low;-0.5;8;;2;ha1.png;1
+1A;p1101;low;-0.5;9;;2;ha2.png;0
+1A;p1101;low;-0.5;14;;2;ha3.png;1
+1A;p1101;low;-0.5;13;;2;hb1.png;1
+1A;p1101;low;-0.5;15;;2;hb1.png;1
+1A;p1101;low;-0.5;11;;2;hb2.png;1
+1A;p1101;low;-0.5;12;;2;hb3.png;1
+1A;p1101;low;-0.5;16;;3;ha1.png;1
+1A;p1101;low;-0.5;22;;3;ha1.png;1
+1A;p1101;low;-0.5;19;;3;ha2.png;0
+1A;p1101;low;-0.5;21;;3;ha3.png;1
+1A;p1101;low;-0.5;23;;3;hb1.png;1
+1A;p1101;low;-0.5;18;;3;hb1.png;1
+1A;p1101;low;-0.5;17;;3;hb2.png;0
+1A;p1101;low;-0.5;20;;3;hb3.png;1
+1A;pp1118;high;0.5;7;;1;ha1.png;1
+1A;pp1118;high;0.5;2;;1;ha1.png;1
+1A;pp1118;high;0.5;6;;1;ha2.png;1
+1A;pp1118;high;0.5;3;;1;ha3.png;1
+1A;pp1118;high;0.5;5;;1;hb1.png;1
+1A;pp1118;high;0.5;0;;1;hb1.png;1
+1A;pp1118;high;0.5;1;;1;hb2.png;0
+1A;pp1118;high;0.5;4;;1;hb3.png;0
+1A;pp1118;high;0.5;14;;2;ha1.png;1
+1A;pp1118;high;0.5;15;;2;ha1.png;1
+1A;pp1118;high;0.5;13;;2;ha2.png;1
+1A;pp1118;high;0.5;12;;2;ha3.png;1
+1A;pp1118;high;0.5;9;;2;hb1.png;1
+1A;pp1118;high;0.5;8;;2;hb1.png;1
+1A;pp1118;high;0.5;11;;2;hb2.png;1
+1A;pp1118;high;0.5;10;;2;hb3.png;1
+1A;pp1118;high;0.5;18;;3;ha1.png;1
+1A;pp1118;high;0.5;19;;3;ha1.png;1
+1A;pp1118;high;0.5;23;;3;ha2.png;1
+1A;pp1118;high;0.5;16;;3;ha3.png;1
+1A;pp1118;high;0.5;20;;3;hb1.png;1
+1A;pp1118;high;0.5;17;;3;hb1.png;1
+1A;pp1118;high;0.5;22;;3;hb2.png;0
+1A;pp1118;high;0.5;21;;3;hb3.png;0
+1A;p1125;low;-0.5;0;;1;ha1.png;0
+1A;p1125;low;-0.5;4;;1;ha1.png;1
+1A;p1125;low;-0.5;3;;1;ha2.png;1
+1A;p1125;low;-0.5;1;;1;ha3.png;1
+1A;p1125;low;-0.5;7;;1;hb1.png;1
+1A;p1125;low;-0.5;2;;1;hb1.png;1
+1A;p1125;low;-0.5;5;;1;hb2.png;1
+1A;p1125;low;-0.5;6;;1;hb3.png;1
+1A;p1125;low;-0.5;9;;2;ha1.png;1
+1A;p1125;low;-0.5;14;;2;ha1.png;1
+1A;p1125;low;-0.5;13;;2;ha2.png;1
+1A;p1125;low;-0.5;8;;2;ha3.png;1
+1A;p1125;low;-0.5;11;;2;hb1.png;1
+1A;p1125;low;-0.5;12;;2;hb1.png;1
+1A;p1125;low;-0.5;15;;2;hb2.png;1
+1A;p1125;low;-0.5;10;;2;hb3.png;1
+1A;p1125;low;-0.5;23;;3;ha1.png;1
+1A;p1125;low;-0.5;20;;3;ha1.png;1
+1A;p1125;low;-0.5;21;;3;ha2.png;1
+1A;p1125;low;-0.5;18;;3;ha3.png;1
+1A;p1125;low;-0.5;22;;3;hb1.png;1
+1A;p1125;low;-0.5;16;;3;hb1.png;1
+1A;p1125;low;-0.5;17;;3;hb2.png;1
+1A;p1125;low;-0.5;19;;3;hb3.png;1
+1A;p1128;low;-0.5;0;;1;ha1.png;1
+1A;p1128;low;-0.5;2;;1;ha1.png;1
+1A;p1128;low;-0.5;5;;1;ha2.png;1
+1A;p1128;low;-0.5;4;;1;ha3.png;1
+1A;p1128;low;-0.5;6;;1;hb1.png;1
+1A;p1128;low;-0.5;1;;1;hb1.png;0
+1A;p1128;low;-0.5;3;;1;hb2.png;1
+1A;p1128;low;-0.5;7;;1;hb3.png;0
+1A;p1128;low;-0.5;13;;2;ha1.png;1
+1A;p1128;low;-0.5;11;;2;ha1.png;1
+1A;p1128;low;-0.5;9;;2;ha2.png;1
+1A;p1128;low;-0.5;8;;2;ha3.png;1
+1A;p1128;low;-0.5;15;;2;hb1.png;1
+1A;p1128;low;-0.5;14;;2;hb1.png;1
+1A;p1128;low;-0.5;10;;2;hb2.png;1
+1A;p1128;low;-0.5;12;;2;hb3.png;1
+1A;p1128;low;-0.5;23;;3;ha1.png;1
+1A;p1128;low;-0.5;22;;3;ha1.png;1
+1A;p1128;low;-0.5;21;;3;ha2.png;1
+1A;p1128;low;-0.5;19;;3;ha3.png;1
+1A;p1128;low;-0.5;17;;3;hb1.png;1
+1A;p1128;low;-0.5;20;;3;hb1.png;1
+1A;p1128;low;-0.5;18;;3;hb2.png;0
+1A;p1128;low;-0.5;16;;3;hb3.png;1
+1A;p1136;low;-0.5;3;;1;ha1.png;0
+1A;p1136;low;-0.5;4;;1;ha1.png;1
+1A;p1136;low;-0.5;6;;1;ha2.png;1
+1A;p1136;low;-0.5;2;;1;ha3.png;0
+1A;p1136;low;-0.5;0;;1;hb1.png;1
+1A;p1136;low;-0.5;1;;1;hb1.png;0
+1A;p1136;low;-0.5;7;;1;hb2.png;0
+1A;p1136;low;-0.5;5;;1;hb3.png;0
+1A;p1136;low;-0.5;10;;2;ha1.png;0
+1A;p1136;low;-0.5;13;;2;ha1.png;1
+1A;p1136;low;-0.5;9;;2;ha2.png;1
+1A;p1136;low;-0.5;11;;2;ha3.png;1
+1A;p1136;low;-0.5;15;;2;hb1.png;1
+1A;p1136;low;-0.5;14;;2;hb1.png;1
+1A;p1136;low;-0.5;8;;2;hb2.png;1
+1A;p1136;low;-0.5;12;;2;hb3.png;1
+1A;p1136;low;-0.5;22;;3;ha1.png;1
+1A;p1136;low;-0.5;19;;3;ha1.png;1
+1A;p1136;low;-0.5;21;;3;ha2.png;0
+1A;p1136;low;-0.5;18;;3;ha3.png;0
+1A;p1136;low;-0.5;17;;3;hb1.png;0
+1A;p1136;low;-0.5;16;;3;hb1.png;0
+1A;p1136;low;-0.5;20;;3;hb2.png;0
+1A;p1136;low;-0.5;23;;3;hb3.png;1
+1A;p1138;high;0.5;5;;1;ha1.png;0
+1A;p1138;high;0.5;1;;1;ha1.png;0
+1A;p1138;high;0.5;0;;1;ha2.png;1
+1A;p1138;high;0.5;6;;1;ha3.png;0
+1A;p1138;high;0.5;2;;1;hb1.png;0
+1A;p1138;high;0.5;4;;1;hb1.png;1
+1A;p1138;high;0.5;7;;1;hb2.png;0
+1A;p1138;high;0.5;3;;1;hb3.png;0
+1A;p1138;high;0.5;9;;2;ha1.png;1
+1A;p1138;high;0.5;14;;2;ha1.png;1
+1A;p1138;high;0.5;13;;2;ha2.png;0
+1A;p1138;high;0.5;12;;2;ha3.png;1
+1A;p1138;high;0.5;15;;2;hb1.png;1
+1A;p1138;high;0.5;8;;2;hb1.png;1
+1A;p1138;high;0.5;10;;2;hb2.png;0
+1A;p1138;high;0.5;11;;2;hb3.png;1
+1A;p1138;high;0.5;22;;3;ha1.png;1
+1A;p1138;high;0.5;21;;3;ha1.png;1
+1A;p1138;high;0.5;16;;3;ha2.png;1
+1A;p1138;high;0.5;23;;3;ha3.png;1
+1A;p1138;high;0.5;20;;3;hb1.png;1
+1A;p1138;high;0.5;18;;3;hb1.png;1
+1A;p1138;high;0.5;19;;3;hb2.png;1
+1A;p1138;high;0.5;17;;3;hb3.png;1
+1A;p1149;high;0.5;3;;1;ha1.png;1
+1A;p1149;high;0.5;2;;1;ha1.png;1
+1A;p1149;high;0.5;7;;1;ha2.png;1
+1A;p1149;high;0.5;4;;1;ha3.png;0
+1A;p1149;high;0.5;0;;1;hb1.png;1
+1A;p1149;high;0.5;1;;1;hb1.png;1
+1A;p1149;high;0.5;5;;1;hb2.png;1
+1A;p1149;high;0.5;6;;1;hb3.png;0
+1A;p1149;high;0.5;11;;2;ha1.png;1
+1A;p1149;high;0.5;14;;2;ha1.png;1
+1A;p1149;high;0.5;13;;2;ha2.png;1
+1A;p1149;high;0.5;8;;2;ha3.png;0
+1A;p1149;high;0.5;15;;2;hb1.png;1
+1A;p1149;high;0.5;9;;2;hb1.png;1
+1A;p1149;high;0.5;10;;2;hb2.png;1
+1A;p1149;high;0.5;12;;2;hb3.png;1
+1A;p1149;high;0.5;22;;3;ha1.png;1
+1A;p1149;high;0.5;19;;3;ha1.png;1
+1A;p1149;high;0.5;20;;3;ha2.png;1
+1A;p1149;high;0.5;17;;3;ha3.png;1
+1A;p1149;high;0.5;21;;3;hb1.png;1
+1A;p1149;high;0.5;23;;3;hb1.png;1
+1A;p1149;high;0.5;18;;3;hb2.png;1
+1A;p1149;high;0.5;16;;3;hb3.png;1
+1A;pp1149;low;-0.5;5;;1;ha1.png;1
+1A;pp1149;low;-0.5;2;;1;ha1.png;1
+1A;pp1149;low;-0.5;4;;1;ha2.png;1
+1A;pp1149;low;-0.5;3;;1;ha3.png;1
+1A;pp1149;low;-0.5;6;;1;hb1.png;1
+1A;pp1149;low;-0.5;0;;1;hb1.png;0
+1A;pp1149;low;-0.5;1;;1;hb2.png;1
+1A;pp1149;low;-0.5;7;;1;hb3.png;1
+1A;pp1149;low;-0.5;8;;2;ha1.png;1
+1A;pp1149;low;-0.5;15;;2;ha1.png;1
+1A;pp1149;low;-0.5;9;;2;ha2.png;1
+1A;pp1149;low;-0.5;13;;2;ha3.png;1
+1A;pp1149;low;-0.5;14;;2;hb1.png;1
+1A;pp1149;low;-0.5;10;;2;hb1.png;1
+1A;pp1149;low;-0.5;12;;2;hb2.png;1
+1A;pp1149;low;-0.5;11;;2;hb3.png;1
+1A;pp1149;low;-0.5;20;;3;ha1.png;1
+1A;pp1149;low;-0.5;17;;3;ha1.png;1
+1A;pp1149;low;-0.5;16;;3;ha2.png;1
+1A;pp1149;low;-0.5;21;;3;ha3.png;1
+1A;pp1149;low;-0.5;23;;3;hb1.png;1
+1A;pp1149;low;-0.5;22;;3;hb1.png;1
+1A;pp1149;low;-0.5;18;;3;hb2.png;1
+1A;pp1149;low;-0.5;19;;3;hb3.png;1
+1A;p1201;low;-0.5;4;;1;ha1.png;1
+1A;p1201;low;-0.5;5;;1;ha1.png;1
+1A;p1201;low;-0.5;6;;1;ha2.png;1
+1A;p1201;low;-0.5;7;;1;ha3.png;1
+1A;p1201;low;-0.5;1;;1;hb1.png;1
+1A;p1201;low;-0.5;0;;1;hb1.png;1
+1A;p1201;low;-0.5;2;;1;hb2.png;0
+1A;p1201;low;-0.5;3;;1;hb3.png;1
+1A;p1201;low;-0.5;9;;2;ha1.png;1
+1A;p1201;low;-0.5;15;;2;ha1.png;1
+1A;p1201;low;-0.5;13;;2;ha2.png;1
+1A;p1201;low;-0.5;14;;2;ha3.png;1
+1A;p1201;low;-0.5;11;;2;hb1.png;1
+1A;p1201;low;-0.5;12;;2;hb1.png;1
+1A;p1201;low;-0.5;10;;2;hb2.png;0
+1A;p1201;low;-0.5;8;;2;hb3.png;1
+1A;p1201;low;-0.5;18;;3;ha1.png;1
+1A;p1201;low;-0.5;21;;3;ha1.png;1
+1A;p1201;low;-0.5;23;;3;ha2.png;1
+1A;p1201;low;-0.5;17;;3;ha3.png;1
+1A;p1201;low;-0.5;20;;3;hb1.png;1
+1A;p1201;low;-0.5;22;;3;hb1.png;1
+1A;p1201;low;-0.5;19;;3;hb2.png;1
+1A;p1201;low;-0.5;16;;3;hb3.png;1
+1A;pp1201;high;0.5;2;;1;ha1.png;1
+1A;pp1201;high;0.5;6;;1;ha1.png;0
+1A;pp1201;high;0.5;4;;1;ha2.png;0
+1A;pp1201;high;0.5;1;;1;ha3.png;1
+1A;pp1201;high;0.5;7;;1;hb1.png;0
+1A;pp1201;high;0.5;3;;1;hb1.png;1
+1A;pp1201;high;0.5;5;;1;hb2.png;1
+1A;pp1201;high;0.5;0;;1;hb3.png;1
+1A;pp1201;high;0.5;8;;2;ha1.png;0
+1A;pp1201;high;0.5;10;;2;ha1.png;1
+1A;pp1201;high;0.5;14;;2;ha2.png;0
+1A;pp1201;high;0.5;13;;2;ha3.png;0
+1A;pp1201;high;0.5;11;;2;hb1.png;1
+1A;pp1201;high;0.5;9;;2;hb1.png;0
+1A;pp1201;high;0.5;12;;2;hb2.png;1
+1A;pp1201;high;0.5;15;;2;hb3.png;0
+1A;pp1201;high;0.5;19;;3;ha1.png;1
+1A;pp1201;high;0.5;17;;3;ha1.png;1
+1A;pp1201;high;0.5;22;;3;ha2.png;1
+1A;pp1201;high;0.5;18;;3;ha3.png;1
+1A;pp1201;high;0.5;16;;3;hb1.png;1
+1A;pp1201;high;0.5;21;;3;hb1.png;1
+1A;pp1201;high;0.5;23;;3;hb2.png;0
+1A;pp1201;high;0.5;20;;3;hb3.png;1
+1A;p1211;high;0.5;1;;1;ha1.png;1
+1A;p1211;high;0.5;4;;1;ha1.png;1
+1A;p1211;high;0.5;6;;1;ha2.png;1
+1A;p1211;high;0.5;7;;1;ha3.png;1
+1A;p1211;high;0.5;2;;1;hb1.png;1
+1A;p1211;high;0.5;5;;1;hb1.png;1
+1A;p1211;high;0.5;0;;1;hb2.png;1
+1A;p1211;high;0.5;3;;1;hb3.png;1
+1A;p1211;high;0.5;13;;2;ha1.png;1
+1A;p1211;high;0.5;8;;2;ha1.png;1
+1A;p1211;high;0.5;12;;2;ha2.png;1
+1A;p1211;high;0.5;9;;2;ha3.png;0
+1A;p1211;high;0.5;14;;2;hb1.png;1
+1A;p1211;high;0.5;15;;2;hb1.png;1
+1A;p1211;high;0.5;10;;2;hb2.png;1
+1A;p1211;high;0.5;11;;2;hb3.png;1
+1A;p1211;high;0.5;19;;3;ha1.png;1
+1A;p1211;high;0.5;22;;3;ha1.png;1
+1A;p1211;high;0.5;20;;3;ha2.png;1
+1A;p1211;high;0.5;21;;3;ha3.png;1
+1A;p1211;high;0.5;17;;3;hb1.png;1
+1A;p1211;high;0.5;23;;3;hb1.png;1
+1A;p1211;high;0.5;16;;3;hb2.png;1
+1A;p1211;high;0.5;18;;3;hb3.png;1
+1A;p1212;low;-0.5;4;;1;ha1.png;1
+1A;p1212;low;-0.5;7;;1;ha1.png;1
+1A;p1212;low;-0.5;0;;1;ha2.png;0
+1A;p1212;low;-0.5;1;;1;ha3.png;1
+1A;p1212;low;-0.5;6;;1;hb1.png;1
+1A;p1212;low;-0.5;2;;1;hb1.png;0
+1A;p1212;low;-0.5;3;;1;hb2.png;0
+1A;p1212;low;-0.5;5;;1;hb3.png;1
+1A;p1212;low;-0.5;9;;2;ha1.png;1
+1A;p1212;low;-0.5;13;;2;ha1.png;1
+1A;p1212;low;-0.5;8;;2;ha2.png;1
+1A;p1212;low;-0.5;12;;2;ha3.png;1
+1A;p1212;low;-0.5;10;;2;hb1.png;1
+1A;p1212;low;-0.5;11;;2;hb1.png;1
+1A;p1212;low;-0.5;15;;2;hb2.png;1
+1A;p1212;low;-0.5;14;;2;hb3.png;1
+1A;p1212;low;-0.5;20;;3;ha1.png;1
+1A;p1212;low;-0.5;18;;3;ha1.png;1
+1A;p1212;low;-0.5;21;;3;ha2.png;1
+1A;p1212;low;-0.5;17;;3;ha3.png;1
+1A;p1212;low;-0.5;16;;3;hb1.png;1
+1A;p1212;low;-0.5;22;;3;hb1.png;1
+1A;p1212;low;-0.5;23;;3;hb2.png;1
+1A;p1212;low;-0.5;19;;3;hb3.png;1
+1A;p1221;low;-0.5;3;;1;ha1.png;0
+1A;p1221;low;-0.5;5;;1;ha1.png;0
+1A;p1221;low;-0.5;4;;1;ha2.png;1
+1A;p1221;low;-0.5;1;;1;ha3.png;1
+1A;p1221;low;-0.5;2;;1;hb1.png;0
+1A;p1221;low;-0.5;6;;1;hb1.png;0
+1A;p1221;low;-0.5;0;;1;hb2.png;1
+1A;p1221;low;-0.5;7;;1;hb3.png;1
+1A;p1221;low;-0.5;9;;2;ha1.png;1
+1A;p1221;low;-0.5;12;;2;ha1.png;1
+1A;p1221;low;-0.5;13;;2;ha2.png;1
+1A;p1221;low;-0.5;10;;2;ha3.png;1
+1A;p1221;low;-0.5;8;;2;hb1.png;1
+1A;p1221;low;-0.5;14;;2;hb1.png;1
+1A;p1221;low;-0.5;15;;2;hb2.png;0
+1A;p1221;low;-0.5;11;;2;hb3.png;1
+1A;p1221;low;-0.5;23;;3;ha1.png;1
+1A;p1221;low;-0.5;19;;3;ha1.png;1
+1A;p1221;low;-0.5;21;;3;ha2.png;1
+1A;p1221;low;-0.5;16;;3;ha3.png;1
+1A;p1221;low;-0.5;20;;3;hb1.png;1
+1A;p1221;low;-0.5;18;;3;hb1.png;1
+1A;p1221;low;-0.5;22;;3;hb2.png;1
+1A;p1221;low;-0.5;17;;3;hb3.png;1
+1A;p1229;high;0.5;7;;1;ha1.png;1
+1A;p1229;high;0.5;1;;1;ha1.png;1
+1A;p1229;high;0.5;5;;1;ha2.png;1
+1A;p1229;high;0.5;6;;1;ha3.png;0
+1A;p1229;high;0.5;0;;1;hb1.png;1
+1A;p1229;high;0.5;3;;1;hb1.png;1
+1A;p1229;high;0.5;2;;1;hb2.png;1
+1A;p1229;high;0.5;4;;1;hb3.png;1
+1A;p1229;high;0.5;13;;2;ha1.png;1
+1A;p1229;high;0.5;15;;2;ha1.png;1
+1A;p1229;high;0.5;8;;2;ha2.png;1
+1A;p1229;high;0.5;9;;2;ha3.png;0
+1A;p1229;high;0.5;14;;2;hb1.png;1
+1A;p1229;high;0.5;10;;2;hb1.png;1
+1A;p1229;high;0.5;12;;2;hb2.png;1
+1A;p1229;high;0.5;11;;2;hb3.png;1
+1A;p1229;high;0.5;21;;3;ha1.png;1
+1A;p1229;high;0.5;20;;3;ha1.png;1
+1A;p1229;high;0.5;17;;3;ha2.png;1
+1A;p1229;high;0.5;18;;3;ha3.png;1
+1A;p1229;high;0.5;16;;3;hb1.png;1
+1A;p1229;high;0.5;22;;3;hb1.png;1
+1A;p1229;high;0.5;19;;3;hb2.png;1
+1A;p1229;high;0.5;23;;3;hb3.png;0
+1A;p1230;high;0.5;5;;1;ha1.png;1
+1A;p1230;high;0.5;3;;1;ha1.png;0
+1A;p1230;high;0.5;1;;1;ha2.png;0
+1A;p1230;high;0.5;6;;1;ha3.png;1
+1A;p1230;high;0.5;2;;1;hb1.png;1
+1A;p1230;high;0.5;0;;1;hb1.png;0
+1A;p1230;high;0.5;4;;1;hb2.png;1
+1A;p1230;high;0.5;7;;1;hb3.png;1
+1A;p1230;high;0.5;9;;2;ha1.png;1
+1A;p1230;high;0.5;15;;2;ha1.png;1
+1A;p1230;high;0.5;14;;2;ha2.png;0
+1A;p1230;high;0.5;8;;2;ha3.png;1
+1A;p1230;high;0.5;10;;2;hb1.png;1
+1A;p1230;high;0.5;13;;2;hb1.png;1
+1A;p1230;high;0.5;12;;2;hb2.png;1
+1A;p1230;high;0.5;11;;2;hb3.png;1
+1A;p1230;high;0.5;22;;3;ha1.png;1
+1A;p1230;high;0.5;19;;3;ha1.png;1
+1A;p1230;high;0.5;23;;3;ha2.png;1
+1A;p1230;high;0.5;18;;3;ha3.png;1
+1A;p1230;high;0.5;20;;3;hb1.png;1
+1A;p1230;high;0.5;17;;3;hb1.png;1
+1A;p1230;high;0.5;16;;3;hb2.png;1
+1A;p1230;high;0.5;21;;3;hb3.png;1
+1A;p1242;low;-0.5;1;;1;ha1.png;1
+1A;p1242;low;-0.5;3;;1;ha1.png;0
+1A;p1242;low;-0.5;6;;1;ha2.png;0
+1A;p1242;low;-0.5;2;;1;ha3.png;1
+1A;p1242;low;-0.5;4;;1;hb1.png;1
+1A;p1242;low;-0.5;0;;1;hb1.png;1
+1A;p1242;low;-0.5;7;;1;hb2.png;0
+1A;p1242;low;-0.5;5;;1;hb3.png;1
+1A;p1242;low;-0.5;14;;2;ha1.png;1
+1A;p1242;low;-0.5;9;;2;ha1.png;1
+1A;p1242;low;-0.5;12;;2;ha2.png;1
+1A;p1242;low;-0.5;15;;2;ha3.png;0
+1A;p1242;low;-0.5;11;;2;hb1.png;1
+1A;p1242;low;-0.5;10;;2;hb1.png;1
+1A;p1242;low;-0.5;13;;2;hb2.png;0
+1A;p1242;low;-0.5;8;;2;hb3.png;1
+1A;p1242;low;-0.5;18;;3;ha1.png;1
+1A;p1242;low;-0.5;16;;3;ha1.png;1
+1A;p1242;low;-0.5;19;;3;ha2.png;1
+1A;p1242;low;-0.5;20;;3;ha3.png;0
+1A;p1242;low;-0.5;17;;3;hb1.png;1
+1A;p1242;low;-0.5;22;;3;hb1.png;1
+1A;p1242;low;-0.5;23;;3;hb2.png;1
+1A;p1242;low;-0.5;21;;3;hb3.png;1
+1A;p1248;high;0.5;5;;1;ha1.png;0
+1A;p1248;high;0.5;6;;1;ha1.png;1
+1A;p1248;high;0.5;1;;1;ha2.png;1
+1A;p1248;high;0.5;0;;1;ha3.png;0
+1A;p1248;high;0.5;2;;1;hb1.png;0
+1A;p1248;high;0.5;4;;1;hb1.png;1
+1A;p1248;high;0.5;3;;1;hb2.png;0
+1A;p1248;high;0.5;7;;1;hb3.png;0
+1A;p1248;high;0.5;12;;2;ha1.png;0
+1A;p1248;high;0.5;9;;2;ha1.png;0
+1A;p1248;high;0.5;13;;2;ha2.png;1
+1A;p1248;high;0.5;15;;2;ha3.png;1
+1A;p1248;high;0.5;11;;2;hb1.png;1
+1A;p1248;high;0.5;14;;2;hb1.png;1
+1A;p1248;high;0.5;8;;2;hb2.png;1
+1A;p1248;high;0.5;10;;2;hb3.png;1
+1A;p1248;high;0.5;18;;3;ha1.png;1
+1A;p1248;high;0.5;16;;3;ha1.png;1
+1A;p1248;high;0.5;21;;3;ha2.png;1
+1A;p1248;high;0.5;19;;3;ha3.png;1
+1A;p1248;high;0.5;22;;3;hb1.png;1
+1A;p1248;high;0.5;20;;3;hb1.png;1
+1A;p1248;high;0.5;23;;3;hb2.png;1
+1A;p1248;high;0.5;17;;3;hb3.png;1
+1A;p1317;high;0.5;2;;1;ha1.png;1
+1A;p1317;high;0.5;4;;1;ha1.png;1
+1A;p1317;high;0.5;3;;1;ha2.png;1
+1A;p1317;high;0.5;7;;1;ha3.png;0
+1A;p1317;high;0.5;0;;1;hb1.png;1
+1A;p1317;high;0.5;1;;1;hb1.png;1
+1A;p1317;high;0.5;6;;1;hb2.png;1
+1A;p1317;high;0.5;5;;1;hb3.png;1
+1A;p1317;high;0.5;15;;2;ha1.png;1
+1A;p1317;high;0.5;13;;2;ha1.png;1
+1A;p1317;high;0.5;9;;2;ha2.png;0
+1A;p1317;high;0.5;14;;2;ha3.png;1
+1A;p1317;high;0.5;8;;2;hb1.png;1
+1A;p1317;high;0.5;10;;2;hb1.png;1
+1A;p1317;high;0.5;12;;2;hb2.png;1
+1A;p1317;high;0.5;11;;2;hb3.png;1
+1A;p1317;high;0.5;19;;3;ha1.png;1
+1A;p1317;high;0.5;16;;3;ha1.png;1
+1A;p1317;high;0.5;17;;3;ha2.png;1
+1A;p1317;high;0.5;23;;3;ha3.png;1
+1A;p1317;high;0.5;21;;3;hb1.png;1
+1A;p1317;high;0.5;18;;3;hb1.png;1
+1A;p1317;high;0.5;20;;3;hb2.png;1
+1A;p1317;high;0.5;22;;3;hb3.png;1
+1A;p1300;low;-0.5;3;;1;ha1.png;1
+1A;p1300;low;-0.5;6;;1;ha1.png;1
+1A;p1300;low;-0.5;1;;1;ha2.png;1
+1A;p1300;low;-0.5;4;;1;ha3.png;1
+1A;p1300;low;-0.5;5;;1;hb1.png;1
+1A;p1300;low;-0.5;2;;1;hb1.png;0
+1A;p1300;low;-0.5;0;;1;hb2.png;1
+1A;p1300;low;-0.5;7;;1;hb3.png;1
+1A;p1300;low;-0.5;15;;2;ha1.png;1
+1A;p1300;low;-0.5;13;;2;ha1.png;1
+1A;p1300;low;-0.5;14;;2;ha2.png;1
+1A;p1300;low;-0.5;11;;2;ha3.png;1
+1A;p1300;low;-0.5;10;;2;hb1.png;1
+1A;p1300;low;-0.5;12;;2;hb1.png;1
+1A;p1300;low;-0.5;8;;2;hb2.png;1
+1A;p1300;low;-0.5;9;;2;hb3.png;1
+1A;p1300;low;-0.5;18;;3;ha1.png;1
+1A;p1300;low;-0.5;23;;3;ha1.png;1
+1A;p1300;low;-0.5;17;;3;ha2.png;1
+1A;p1300;low;-0.5;16;;3;ha3.png;1
+1A;p1300;low;-0.5;19;;3;hb1.png;1
+1A;p1300;low;-0.5;22;;3;hb1.png;1
+1A;p1300;low;-0.5;20;;3;hb2.png;1
+1A;p1300;low;-0.5;21;;3;hb3.png;1
+1A;p1316;high;0.5;2;;1;ha1.png;1
+1A;p1316;high;0.5;0;;1;ha1.png;0
+1A;p1316;high;0.5;6;;1;ha2.png;1
+1A;p1316;high;0.5;1;;1;ha3.png;0
+1A;p1316;high;0.5;7;;1;hb1.png;1
+1A;p1316;high;0.5;5;;1;hb1.png;1
+1A;p1316;high;0.5;3;;1;hb2.png;1
+1A;p1316;high;0.5;4;;1;hb3.png;0
+1A;p1316;high;0.5;11;;2;ha1.png;1
+1A;p1316;high;0.5;12;;2;ha1.png;1
+1A;p1316;high;0.5;9;;2;ha2.png;1
+1A;p1316;high;0.5;10;;2;ha3.png;1
+1A;p1316;high;0.5;14;;2;hb1.png;1
+1A;p1316;high;0.5;8;;2;hb1.png;1
+1A;p1316;high;0.5;15;;2;hb2.png;1
+1A;p1316;high;0.5;13;;2;hb3.png;0
+1A;p1316;high;0.5;21;;3;ha1.png;1
+1A;p1316;high;0.5;23;;3;ha1.png;1
+1A;p1316;high;0.5;19;;3;ha2.png;1
+1A;p1316;high;0.5;17;;3;ha3.png;1
+1A;p1316;high;0.5;22;;3;hb1.png;1
+1A;p1316;high;0.5;18;;3;hb1.png;1
+1A;p1316;high;0.5;16;;3;hb2.png;1
+1A;p1316;high;0.5;20;;3;hb3.png;1
+1A;p1330;high;0.5;5;;1;ha1.png;1
+1A;p1330;high;0.5;4;;1;ha1.png;1
+1A;p1330;high;0.5;3;;1;ha2.png;1
+1A;p1330;high;0.5;2;;1;ha3.png;1
+1A;p1330;high;0.5;7;;1;hb1.png;1
+1A;p1330;high;0.5;6;;1;hb1.png;1
+1A;p1330;high;0.5;1;;1;hb2.png;0
+1A;p1330;high;0.5;0;;1;hb3.png;1
+1A;p1330;high;0.5;9;;2;ha1.png;1
+1A;p1330;high;0.5;14;;2;ha1.png;1
+1A;p1330;high;0.5;13;;2;ha2.png;1
+1A;p1330;high;0.5;15;;2;ha3.png;1
+1A;p1330;high;0.5;12;;2;hb1.png;1
+1A;p1330;high;0.5;11;;2;hb1.png;1
+1A;p1330;high;0.5;10;;2;hb2.png;1
+1A;p1330;high;0.5;8;;2;hb3.png;1
+1A;p1330;high;0.5;18;;3;ha1.png;1
+1A;p1330;high;0.5;19;;3;ha1.png;1
+1A;p1330;high;0.5;22;;3;ha2.png;1
+1A;p1330;high;0.5;16;;3;ha3.png;1
+1A;p1330;high;0.5;20;;3;hb1.png;1
+1A;p1330;high;0.5;21;;3;hb1.png;1
+1A;p1330;high;0.5;23;;3;hb2.png;1
+1A;p1330;high;0.5;17;;3;hb3.png;1
+1A;p1333;low;-0.5;7;;1;ha1.png;1
+1A;p1333;low;-0.5;1;;1;ha1.png;0
+1A;p1333;low;-0.5;5;;1;ha2.png;1
+1A;p1333;low;-0.5;4;;1;ha3.png;1
+1A;p1333;low;-0.5;6;;1;hb1.png;1
+1A;p1333;low;-0.5;3;;1;hb1.png;0
+1A;p1333;low;-0.5;2;;1;hb2.png;0
+1A;p1333;low;-0.5;0;;1;hb3.png;0
+1A;p1333;low;-0.5;12;;2;ha1.png;1
+1A;p1333;low;-0.5;15;;2;ha1.png;1
+1A;p1333;low;-0.5;10;;2;ha2.png;1
+1A;p1333;low;-0.5;9;;2;ha3.png;1
+1A;p1333;low;-0.5;8;;2;hb1.png;1
+1A;p1333;low;-0.5;11;;2;hb1.png;1
+1A;p1333;low;-0.5;13;;2;hb2.png;0
+1A;p1333;low;-0.5;14;;2;hb3.png;0
+1A;p1333;low;-0.5;17;;3;ha1.png;1
+1A;p1333;low;-0.5;23;;3;ha1.png;1
+1A;p1333;low;-0.5;22;;3;ha2.png;1
+1A;p1333;low;-0.5;18;;3;ha3.png;1
+1A;p1333;low;-0.5;16;;3;hb1.png;1
+1A;p1333;low;-0.5;21;;3;hb1.png;1
+1A;p1333;low;-0.5;20;;3;hb2.png;0
+1A;p1333;low;-0.5;19;;3;hb3.png;1
+1A;p1343;high;0.5;0;;1;ha1.png;0
+1A;p1343;high;0.5;7;;1;ha1.png;1
+1A;p1343;high;0.5;4;;1;ha2.png;1
+1A;p1343;high;0.5;1;;1;ha3.png;1
+1A;p1343;high;0.5;2;;1;hb1.png;1
+1A;p1343;high;0.5;5;;1;hb1.png;1
+1A;p1343;high;0.5;3;;1;hb2.png;1
+1A;p1343;high;0.5;6;;1;hb3.png;1
+1A;p1343;high;0.5;11;;2;ha1.png;1
+1A;p1343;high;0.5;10;;2;ha1.png;1
+1A;p1343;high;0.5;14;;2;ha2.png;1
+1A;p1343;high;0.5;12;;2;ha3.png;1
+1A;p1343;high;0.5;13;;2;hb1.png;1
+1A;p1343;high;0.5;8;;2;hb1.png;1
+1A;p1343;high;0.5;15;;2;hb2.png;1
+1A;p1343;high;0.5;9;;2;hb3.png;1
+1A;p1343;high;0.5;16;;3;ha1.png;1
+1A;p1343;high;0.5;20;;3;ha1.png;1
+1A;p1343;high;0.5;18;;3;ha2.png;1
+1A;p1343;high;0.5;17;;3;ha3.png;1
+1A;p1343;high;0.5;23;;3;hb1.png;1
+1A;p1343;high;0.5;21;;3;hb1.png;1
+1A;p1343;high;0.5;19;;3;hb2.png;1
+1A;p1343;high;0.5;22;;3;hb3.png;1
+1A;p1355;low;-0.5;1;;1;ha1.png;0
+1A;p1355;low;-0.5;2;;1;ha1.png;1
+1A;p1355;low;-0.5;0;;1;ha2.png;0
+1A;p1355;low;-0.5;3;;1;ha3.png;1
+1A;p1355;low;-0.5;5;;1;hb1.png;1
+1A;p1355;low;-0.5;7;;1;hb1.png;1
+1A;p1355;low;-0.5;4;;1;hb2.png;0
+1A;p1355;low;-0.5;6;;1;hb3.png;1
+1A;p1355;low;-0.5;14;;2;ha1.png;0
+1A;p1355;low;-0.5;8;;2;ha1.png;1
+1A;p1355;low;-0.5;10;;2;ha2.png;1
+1A;p1355;low;-0.5;15;;2;ha3.png;1
+1A;p1355;low;-0.5;11;;2;hb1.png;1
+1A;p1355;low;-0.5;9;;2;hb1.png;1
+1A;p1355;low;-0.5;13;;2;hb2.png;0
+1A;p1355;low;-0.5;12;;2;hb3.png;0
+1A;p1355;low;-0.5;18;;3;ha1.png;1
+1A;p1355;low;-0.5;19;;3;ha1.png;1
+1A;p1355;low;-0.5;17;;3;ha2.png;1
+1A;p1355;low;-0.5;21;;3;ha3.png;0
+1A;p1355;low;-0.5;16;;3;hb1.png;1
+1A;p1355;low;-0.5;23;;3;hb1.png;1
+1A;p1355;low;-0.5;20;;3;hb2.png;1
+1A;p1355;low;-0.5;22;;3;hb3.png;1
+1A;p1345;high;0.5;3;;1;ha1.png;0
+1A;p1345;high;0.5;5;;1;ha1.png;0
+1A;p1345;high;0.5;2;;1;ha2.png;0
+1A;p1345;high;0.5;1;;1;ha3.png;1
+1A;p1345;high;0.5;4;;1;hb1.png;0
+1A;p1345;high;0.5;7;;1;hb1.png;1
+1A;p1345;high;0.5;6;;1;hb2.png;1
+1A;p1345;high;0.5;0;;1;hb3.png;0
+1A;p1345;high;0.5;8;;2;ha1.png;1
+1A;p1345;high;0.5;12;;2;ha1.png;1
+1A;p1345;high;0.5;10;;2;ha2.png;1
+1A;p1345;high;0.5;11;;2;ha3.png;0
+1A;p1345;high;0.5;15;;2;hb1.png;1
+1A;p1345;high;0.5;13;;2;hb1.png;1
+1A;p1345;high;0.5;9;;2;hb2.png;1
+1A;p1345;high;0.5;14;;2;hb3.png;1
+1A;p1345;high;0.5;19;;3;ha1.png;1
+1A;p1345;high;0.5;21;;3;ha1.png;1
+1A;p1345;high;0.5;17;;3;ha2.png;1
+1A;p1345;high;0.5;20;;3;ha3.png;0
+1A;p1345;high;0.5;23;;3;hb1.png;1
+1A;p1345;high;0.5;22;;3;hb1.png;1
+1A;p1345;high;0.5;16;;3;hb2.png;1
+1A;p1345;high;0.5;18;;3;hb3.png;1
+1A;p1356;low;-0.5;2;;1;ha1.png;1
+1A;p1356;low;-0.5;6;;1;ha1.png;1
+1A;p1356;low;-0.5;7;;1;ha2.png;0
+1A;p1356;low;-0.5;4;;1;ha3.png;1
+1A;p1356;low;-0.5;5;;1;hb1.png;1
+1A;p1356;low;-0.5;1;;1;hb1.png;0
+1A;p1356;low;-0.5;0;;1;hb2.png;0
+1A;p1356;low;-0.5;3;;1;hb3.png;0
+1A;p1356;low;-0.5;12;;2;ha1.png;1
+1A;p1356;low;-0.5;14;;2;ha1.png;1
+1A;p1356;low;-0.5;15;;2;ha2.png;0
+1A;p1356;low;-0.5;8;;2;ha3.png;1
+1A;p1356;low;-0.5;11;;2;hb1.png;1
+1A;p1356;low;-0.5;9;;2;hb1.png;1
+1A;p1356;low;-0.5;13;;2;hb2.png;1
+1A;p1356;low;-0.5;10;;2;hb3.png;1
+1A;p1356;low;-0.5;20;;3;ha1.png;1
+1A;p1356;low;-0.5;21;;3;ha1.png;1
+1A;p1356;low;-0.5;22;;3;ha2.png;0
+1A;p1356;low;-0.5;17;;3;ha3.png;1
+1A;p1356;low;-0.5;18;;3;hb1.png;1
+1A;p1356;low;-0.5;19;;3;hb1.png;1
+1A;p1356;low;-0.5;16;;3;hb2.png;1
+1A;p1356;low;-0.5;23;;3;hb3.png;1
+1A;p1405;high;0.5;5;;1;ha1.png;1
+1A;p1405;high;0.5;3;;1;ha1.png;1
+1A;p1405;high;0.5;2;;1;ha2.png;1
+1A;p1405;high;0.5;1;;1;ha3.png;1
+1A;p1405;high;0.5;6;;1;hb1.png;1
+1A;p1405;high;0.5;0;;1;hb1.png;1
+1A;p1405;high;0.5;7;;1;hb2.png;1
+1A;p1405;high;0.5;4;;1;hb3.png;1
+1A;p1405;high;0.5;15;;2;ha1.png;1
+1A;p1405;high;0.5;10;;2;ha1.png;1
+1A;p1405;high;0.5;8;;2;ha2.png;1
+1A;p1405;high;0.5;13;;2;ha3.png;1
+1A;p1405;high;0.5;11;;2;hb1.png;1
+1A;p1405;high;0.5;12;;2;hb1.png;1
+1A;p1405;high;0.5;9;;2;hb2.png;1
+1A;p1405;high;0.5;14;;2;hb3.png;1
+1A;p1405;high;0.5;19;;3;ha1.png;1
+1A;p1405;high;0.5;18;;3;ha1.png;1
+1A;p1405;high;0.5;23;;3;ha2.png;1
+1A;p1405;high;0.5;17;;3;ha3.png;1
+1A;p1405;high;0.5;20;;3;hb1.png;1
+1A;p1405;high;0.5;21;;3;hb1.png;1
+1A;p1405;high;0.5;22;;3;hb2.png;1
+1A;p1405;high;0.5;16;;3;hb3.png;1
+1A;p1406;low;-0.5;4;;1;ha1.png;1
+1A;p1406;low;-0.5;5;;1;ha1.png;1
+1A;p1406;low;-0.5;1;;1;ha2.png;1
+1A;p1406;low;-0.5;6;;1;ha3.png;0
+1A;p1406;low;-0.5;2;;1;hb1.png;1
+1A;p1406;low;-0.5;7;;1;hb1.png;1
+1A;p1406;low;-0.5;3;;1;hb2.png;0
+1A;p1406;low;-0.5;0;;1;hb3.png;1
+1A;p1406;low;-0.5;11;;2;ha1.png;1
+1A;p1406;low;-0.5;8;;2;ha1.png;1
+1A;p1406;low;-0.5;9;;2;ha2.png;0
+1A;p1406;low;-0.5;10;;2;ha3.png;0
+1A;p1406;low;-0.5;13;;2;hb1.png;1
+1A;p1406;low;-0.5;15;;2;hb1.png;1
+1A;p1406;low;-0.5;12;;2;hb2.png;0
+1A;p1406;low;-0.5;14;;2;hb3.png;1
+1A;p1406;low;-0.5;19;;3;ha1.png;1
+1A;p1406;low;-0.5;17;;3;ha1.png;1
+1A;p1406;low;-0.5;22;;3;ha2.png;0
+1A;p1406;low;-0.5;23;;3;ha3.png;1
+1A;p1406;low;-0.5;20;;3;hb1.png;1
+1A;p1406;low;-0.5;16;;3;hb1.png;1
+1A;p1406;low;-0.5;18;;3;hb2.png;0
+1A;p1406;low;-0.5;21;;3;hb3.png;1
+1A;p1432;high;0.5;0;;1;ha1.png;1
+1A;p1432;high;0.5;7;;1;ha1.png;1
+1A;p1432;high;0.5;4;;1;ha2.png;0
+1A;p1432;high;0.5;2;;1;ha3.png;1
+1A;p1432;high;0.5;5;;1;hb1.png;1
+1A;p1432;high;0.5;6;;1;hb1.png;1
+1A;p1432;high;0.5;3;;1;hb2.png;1
+1A;p1432;high;0.5;1;;1;hb3.png;1
+1A;p1432;high;0.5;14;;2;ha1.png;1
+1A;p1432;high;0.5;11;;2;ha1.png;1
+1A;p1432;high;0.5;8;;2;ha2.png;1
+1A;p1432;high;0.5;13;;2;ha3.png;1
+1A;p1432;high;0.5;12;;2;hb1.png;1
+1A;p1432;high;0.5;10;;2;hb1.png;1
+1A;p1432;high;0.5;15;;2;hb2.png;1
+1A;p1432;high;0.5;9;;2;hb3.png;1
+1A;p1432;high;0.5;16;;3;ha1.png;1
+1A;p1432;high;0.5;17;;3;ha1.png;1
+1A;p1432;high;0.5;23;;3;ha2.png;0
+1A;p1432;high;0.5;22;;3;ha3.png;1
+1A;p1432;high;0.5;21;;3;hb1.png;1
+1A;p1432;high;0.5;20;;3;hb1.png;1
+1A;p1432;high;0.5;18;;3;hb2.png;1
+1A;p1432;high;0.5;19;;3;hb3.png;1
+1A;p1417;low;-0.5;4;;1;ha1.png;1
+1A;p1417;low;-0.5;7;;1;ha1.png;1
+1A;p1417;low;-0.5;0;;1;ha2.png;0
+1A;p1417;low;-0.5;2;;1;ha3.png;1
+1A;p1417;low;-0.5;3;;1;hb1.png;0
+1A;p1417;low;-0.5;5;;1;hb1.png;1
+1A;p1417;low;-0.5;6;;1;hb2.png;0
+1A;p1417;low;-0.5;1;;1;hb3.png;0
+1A;p1417;low;-0.5;15;;2;ha1.png;0
+1A;p1417;low;-0.5;12;;2;ha1.png;1
+1A;p1417;low;-0.5;8;;2;ha2.png;0
+1A;p1417;low;-0.5;14;;2;ha3.png;1
+1A;p1417;low;-0.5;11;;2;hb1.png;1
+1A;p1417;low;-0.5;10;;2;hb1.png;1
+1A;p1417;low;-0.5;13;;2;hb2.png;1
+1A;p1417;low;-0.5;9;;2;hb3.png;1
+1A;p1417;low;-0.5;19;;3;ha1.png;1
+1A;p1417;low;-0.5;22;;3;ha1.png;1
+1A;p1417;low;-0.5;20;;3;ha2.png;0
+1A;p1417;low;-0.5;23;;3;ha3.png;1
+1A;p1417;low;-0.5;18;;3;hb1.png;1
+1A;p1417;low;-0.5;17;;3;hb1.png;1
+1A;p1417;low;-0.5;16;;3;hb2.png;0
+1A;p1417;low;-0.5;21;;3;hb3.png;0
+1A;p1422;high;0.5;6;;1;ha1.png;1
+1A;p1422;high;0.5;4;;1;ha1.png;1
+1A;p1422;high;0.5;0;;1;ha2.png;0
+1A;p1422;high;0.5;7;;1;ha3.png;1
+1A;p1422;high;0.5;1;;1;hb1.png;1
+1A;p1422;high;0.5;5;;1;hb1.png;1
+1A;p1422;high;0.5;2;;1;hb2.png;1
+1A;p1422;high;0.5;3;;1;hb3.png;1
+1A;p1422;high;0.5;12;;2;ha1.png;0
+1A;p1422;high;0.5;9;;2;ha1.png;1
+1A;p1422;high;0.5;11;;2;ha2.png;1
+1A;p1422;high;0.5;8;;2;ha3.png;1
+1A;p1422;high;0.5;15;;2;hb1.png;1
+1A;p1422;high;0.5;13;;2;hb1.png;1
+1A;p1422;high;0.5;14;;2;hb2.png;0
+1A;p1422;high;0.5;10;;2;hb3.png;1
+1A;p1422;high;0.5;21;;3;ha1.png;1
+1A;p1422;high;0.5;19;;3;ha1.png;1
+1A;p1422;high;0.5;17;;3;ha2.png;1
+1A;p1422;high;0.5;23;;3;ha3.png;1
+1A;p1422;high;0.5;16;;3;hb1.png;1
+1A;p1422;high;0.5;20;;3;hb1.png;1
+1A;p1422;high;0.5;22;;3;hb2.png;1
+1A;p1422;high;0.5;18;;3;hb3.png;1
+1A;p1428;low;-0.5;3;;1;ha1.png;1
+1A;p1428;low;-0.5;0;;1;ha1.png;0
+1A;p1428;low;-0.5;5;;1;ha2.png;1
+1A;p1428;low;-0.5;2;;1;ha3.png;1
+1A;p1428;low;-0.5;1;;1;hb1.png;1
+1A;p1428;low;-0.5;4;;1;hb1.png;1
+1A;p1428;low;-0.5;6;;1;hb2.png;0
+1A;p1428;low;-0.5;7;;1;hb3.png;1
+1A;p1428;low;-0.5;9;;2;ha1.png;1
+1A;p1428;low;-0.5;12;;2;ha1.png;1
+1A;p1428;low;-0.5;10;;2;ha2.png;1
+1A;p1428;low;-0.5;15;;2;ha3.png;1
+1A;p1428;low;-0.5;11;;2;hb1.png;1
+1A;p1428;low;-0.5;8;;2;hb1.png;1
+1A;p1428;low;-0.5;13;;2;hb2.png;1
+1A;p1428;low;-0.5;14;;2;hb3.png;1
+1A;p1428;low;-0.5;19;;3;ha1.png;1
+1A;p1428;low;-0.5;21;;3;ha1.png;1
+1A;p1428;low;-0.5;16;;3;ha2.png;1
+1A;p1428;low;-0.5;23;;3;ha3.png;1
+1A;p1428;low;-0.5;18;;3;hb1.png;1
+1A;p1428;low;-0.5;20;;3;hb1.png;1
+1A;p1428;low;-0.5;17;;3;hb2.png;1
+1A;p1428;low;-0.5;22;;3;hb3.png;1
+1A;p1445;high;0.5;7;;1;ha1.png;1
+1A;p1445;high;0.5;1;;1;ha1.png;1
+1A;p1445;high;0.5;0;;1;ha2.png;1
+1A;p1445;high;0.5;4;;1;ha3.png;0
+1A;p1445;high;0.5;2;;1;hb1.png;1
+1A;p1445;high;0.5;3;;1;hb1.png;1
+1A;p1445;high;0.5;5;;1;hb2.png;0
+1A;p1445;high;0.5;6;;1;hb3.png;0
+1A;p1445;high;0.5;15;;2;ha1.png;1
+1A;p1445;high;0.5;12;;2;ha1.png;1
+1A;p1445;high;0.5;8;;2;ha2.png;1
+1A;p1445;high;0.5;14;;2;ha3.png;1
+1A;p1445;high;0.5;9;;2;hb1.png;1
+1A;p1445;high;0.5;13;;2;hb1.png;1
+1A;p1445;high;0.5;10;;2;hb2.png;1
+1A;p1445;high;0.5;11;;2;hb3.png;0
+1A;p1445;high;0.5;21;;3;ha1.png;1
+1A;p1445;high;0.5;23;;3;ha1.png;1
+1A;p1445;high;0.5;17;;3;ha2.png;1
+1A;p1445;high;0.5;22;;3;ha3.png;1
+1A;p1445;high;0.5;19;;3;hb1.png;1
+1A;p1445;high;0.5;18;;3;hb1.png;1
+1A;p1445;high;0.5;20;;3;hb2.png;1
+1A;p1445;high;0.5;16;;3;hb3.png;1
+1A;p1439;low;-0.5;7;;1;ha1.png;1
+1A;p1439;low;-0.5;1;;1;ha1.png;1
+1A;p1439;low;-0.5;2;;1;ha2.png;0
+1A;p1439;low;-0.5;4;;1;ha3.png;0
+1A;p1439;low;-0.5;6;;1;hb1.png;1
+1A;p1439;low;-0.5;5;;1;hb1.png;1
+1A;p1439;low;-0.5;3;;1;hb2.png;1
+1A;p1439;low;-0.5;0;;1;hb3.png;0
+1A;p1439;low;-0.5;12;;2;ha1.png;1
+1A;p1439;low;-0.5;11;;2;ha1.png;1
+1A;p1439;low;-0.5;9;;2;ha2.png;0
+1A;p1439;low;-0.5;10;;2;ha3.png;1
+1A;p1439;low;-0.5;8;;2;hb1.png;1
+1A;p1439;low;-0.5;15;;2;hb1.png;1
+1A;p1439;low;-0.5;13;;2;hb2.png;1
+1A;p1439;low;-0.5;14;;2;hb3.png;1
+1A;p1439;low;-0.5;18;;3;ha1.png;1
+1A;p1439;low;-0.5;20;;3;ha1.png;1
+1A;p1439;low;-0.5;22;;3;ha2.png;1
+1A;p1439;low;-0.5;23;;3;ha3.png;0
+1A;p1439;low;-0.5;19;;3;hb1.png;1
+1A;p1439;low;-0.5;16;;3;hb1.png;1
+1A;p1439;low;-0.5;21;;3;hb2.png;1
+1A;p1439;low;-0.5;17;;3;hb3.png;1
+1A;p1459;low;-0.5;6;;1;ha1.png;1
+1A;p1459;low;-0.5;2;;1;ha1.png;1
+1A;p1459;low;-0.5;3;;1;ha2.png;0
+1A;p1459;low;-0.5;4;;1;ha3.png;1
+1A;p1459;low;-0.5;0;;1;hb1.png;0
+1A;p1459;low;-0.5;1;;1;hb1.png;1
+1A;p1459;low;-0.5;7;;1;hb2.png;1
+1A;p1459;low;-0.5;5;;1;hb3.png;0
+1A;p1459;low;-0.5;9;;2;ha1.png;1
+1A;p1459;low;-0.5;11;;2;ha1.png;1
+1A;p1459;low;-0.5;10;;2;ha2.png;0
+1A;p1459;low;-0.5;14;;2;ha3.png;1
+1A;p1459;low;-0.5;8;;2;hb1.png;1
+1A;p1459;low;-0.5;12;;2;hb1.png;1
+1A;p1459;low;-0.5;15;;2;hb2.png;1
+1A;p1459;low;-0.5;13;;2;hb3.png;0
+1A;p1459;low;-0.5;23;;3;ha1.png;1
+1A;p1459;low;-0.5;18;;3;ha1.png;1
+1A;p1459;low;-0.5;16;;3;ha2.png;1
+1A;p1459;low;-0.5;22;;3;ha3.png;1
+1A;p1459;low;-0.5;17;;3;hb1.png;1
+1A;p1459;low;-0.5;19;;3;hb1.png;1
+1A;p1459;low;-0.5;20;;3;hb2.png;1
+1A;p1459;low;-0.5;21;;3;hb3.png;0
+1A;pp1459;high;0.5;1;;1;ha1.png;1
+1A;pp1459;high;0.5;2;;1;ha1.png;1
+1A;pp1459;high;0.5;7;;1;ha2.png;1
+1A;pp1459;high;0.5;3;;1;ha3.png;0
+1A;pp1459;high;0.5;6;;1;hb1.png;1
+1A;pp1459;high;0.5;5;;1;hb1.png;1
+1A;pp1459;high;0.5;4;;1;hb2.png;0
+1A;pp1459;high;0.5;0;;1;hb3.png;1
+1A;pp1459;high;0.5;10;;2;ha1.png;1
+1A;pp1459;high;0.5;13;;2;ha1.png;1
+1A;pp1459;high;0.5;12;;2;ha2.png;1
+1A;pp1459;high;0.5;14;;2;ha3.png;0
+1A;pp1459;high;0.5;9;;2;hb1.png;1
+1A;pp1459;high;0.5;11;;2;hb1.png;1
+1A;pp1459;high;0.5;8;;2;hb2.png;1
+1A;pp1459;high;0.5;15;;2;hb3.png;1
+1A;pp1459;high;0.5;20;;3;ha1.png;1
+1A;pp1459;high;0.5;17;;3;ha1.png;1
+1A;pp1459;high;0.5;22;;3;ha2.png;1
+1A;pp1459;high;0.5;23;;3;ha3.png;1
+1A;pp1459;high;0.5;16;;3;hb1.png;1
+1A;pp1459;high;0.5;18;;3;hb1.png;1
+1A;pp1459;high;0.5;19;;3;hb2.png;0
+1A;pp1459;high;0.5;21;;3;hb3.png;1
+1A;p1510;low;-0.5;0;;1;ha1.png;1
+1A;p1510;low;-0.5;1;;1;ha1.png;1
+1A;p1510;low;-0.5;3;;1;ha2.png;1
+1A;p1510;low;-0.5;2;;1;ha3.png;1
+1A;p1510;low;-0.5;4;;1;hb1.png;1
+1A;p1510;low;-0.5;6;;1;hb1.png;1
+1A;p1510;low;-0.5;7;;1;hb2.png;1
+1A;p1510;low;-0.5;5;;1;hb3.png;0
+1A;p1510;low;-0.5;8;;2;ha1.png;1
+1A;p1510;low;-0.5;13;;2;ha1.png;1
+1A;p1510;low;-0.5;15;;2;ha2.png;1
+1A;p1510;low;-0.5;11;;2;ha3.png;1
+1A;p1510;low;-0.5;9;;2;hb1.png;1
+1A;p1510;low;-0.5;12;;2;hb1.png;1
+1A;p1510;low;-0.5;10;;2;hb2.png;1
+1A;p1510;low;-0.5;14;;2;hb3.png;0
+1A;p1510;low;-0.5;22;;3;ha1.png;1
+1A;p1510;low;-0.5;18;;3;ha1.png;1
+1A;p1510;low;-0.5;23;;3;ha2.png;1
+1A;p1510;low;-0.5;17;;3;ha3.png;1
+1A;p1510;low;-0.5;20;;3;hb1.png;1
+1A;p1510;low;-0.5;21;;3;hb1.png;1
+1A;p1510;low;-0.5;19;;3;hb2.png;1
+1A;p1510;low;-0.5;16;;3;hb3.png;1
+1A;p1511;high;0.5;4;;1;ha1.png;1
+1A;p1511;high;0.5;7;;1;ha1.png;1
+1A;p1511;high;0.5;1;;1;ha2.png;1
+1A;p1511;high;0.5;2;;1;ha3.png;1
+1A;p1511;high;0.5;3;;1;hb1.png;1
+1A;p1511;high;0.5;0;;1;hb1.png;1
+1A;p1511;high;0.5;6;;1;hb2.png;1
+1A;p1511;high;0.5;5;;1;hb3.png;1
+1A;p1511;high;0.5;13;;2;ha1.png;1
+1A;p1511;high;0.5;14;;2;ha1.png;1
+1A;p1511;high;0.5;9;;2;ha2.png;1
+1A;p1511;high;0.5;15;;2;ha3.png;1
+1A;p1511;high;0.5;8;;2;hb1.png;1
+1A;p1511;high;0.5;11;;2;hb1.png;1
+1A;p1511;high;0.5;10;;2;hb2.png;1
+1A;p1511;high;0.5;12;;2;hb3.png;0
+1A;p1511;high;0.5;22;;3;ha1.png;1
+1A;p1511;high;0.5;17;;3;ha1.png;1
+1A;p1511;high;0.5;16;;3;ha2.png;1
+1A;p1511;high;0.5;18;;3;ha3.png;1
+1A;p1511;high;0.5;20;;3;hb1.png;1
+1A;p1511;high;0.5;21;;3;hb1.png;1
+1A;p1511;high;0.5;23;;3;hb2.png;1
+1A;p1511;high;0.5;19;;3;hb3.png;1
+1A;p1449;high;0.5;7;;1;ha1.png;1
+1A;p1449;high;0.5;3;;1;ha1.png;1
+1A;p1449;high;0.5;6;;1;ha2.png;1
+1A;p1449;high;0.5;0;;1;ha3.png;0
+1A;p1449;high;0.5;5;;1;hb1.png;1
+1A;p1449;high;0.5;2;;1;hb1.png;1
+1A;p1449;high;0.5;1;;1;hb2.png;1
+1A;p1449;high;0.5;4;;1;hb3.png;1
+1A;p1449;high;0.5;12;;2;ha1.png;1
+1A;p1449;high;0.5;13;;2;ha1.png;1
+1A;p1449;high;0.5;11;;2;ha2.png;1
+1A;p1449;high;0.5;9;;2;ha3.png;1
+1A;p1449;high;0.5;15;;2;hb1.png;1
+1A;p1449;high;0.5;8;;2;hb1.png;1
+1A;p1449;high;0.5;10;;2;hb2.png;1
+1A;p1449;high;0.5;14;;2;hb3.png;1
+1A;p1449;high;0.5;20;;3;ha1.png;1
+1A;p1449;high;0.5;23;;3;ha1.png;1
+1A;p1449;high;0.5;21;;3;ha2.png;1
+1A;p1449;high;0.5;18;;3;ha3.png;1
+1A;p1449;high;0.5;19;;3;hb1.png;1
+1A;p1449;high;0.5;22;;3;hb1.png;1
+1A;p1449;high;0.5;16;;3;hb2.png;0
+1A;p1449;high;0.5;17;;3;hb3.png;1
+1A;p1521;high;0.5;0;;1;ha1.png;1
+1A;p1521;high;0.5;2;;1;ha1.png;1
+1A;p1521;high;0.5;6;;1;ha2.png;1
+1A;p1521;high;0.5;3;;1;ha3.png;1
+1A;p1521;high;0.5;1;;1;hb1.png;1
+1A;p1521;high;0.5;7;;1;hb1.png;1
+1A;p1521;high;0.5;5;;1;hb2.png;1
+1A;p1521;high;0.5;4;;1;hb3.png;1
+1A;p1521;high;0.5;11;;2;ha1.png;1
+1A;p1521;high;0.5;15;;2;ha1.png;1
+1A;p1521;high;0.5;8;;2;ha2.png;1
+1A;p1521;high;0.5;10;;2;ha3.png;1
+1A;p1521;high;0.5;9;;2;hb1.png;1
+1A;p1521;high;0.5;13;;2;hb1.png;1
+1A;p1521;high;0.5;12;;2;hb2.png;1
+1A;p1521;high;0.5;14;;2;hb3.png;1
+1A;p1521;high;0.5;17;;3;ha1.png;1
+1A;p1521;high;0.5;21;;3;ha1.png;1
+1A;p1521;high;0.5;16;;3;ha2.png;1
+1A;p1521;high;0.5;23;;3;ha3.png;1
+1A;p1521;high;0.5;19;;3;hb1.png;1
+1A;p1521;high;0.5;20;;3;hb1.png;1
+1A;p1521;high;0.5;18;;3;hb2.png;1
+1A;p1521;high;0.5;22;;3;hb3.png;1
+1A;p1524;low;-0.5;4;;1;ha1.png;1
+1A;p1524;low;-0.5;6;;1;ha1.png;1
+1A;p1524;low;-0.5;2;;1;ha2.png;1
+1A;p1524;low;-0.5;7;;1;ha3.png;0
+1A;p1524;low;-0.5;0;;1;hb1.png;0
+1A;p1524;low;-0.5;5;;1;hb1.png;1
+1A;p1524;low;-0.5;3;;1;hb2.png;1
+1A;p1524;low;-0.5;1;;1;hb3.png;1
+1A;p1524;low;-0.5;14;;2;ha1.png;1
+1A;p1524;low;-0.5;8;;2;ha1.png;1
+1A;p1524;low;-0.5;12;;2;ha2.png;0
+1A;p1524;low;-0.5;9;;2;ha3.png;0
+1A;p1524;low;-0.5;10;;2;hb1.png;1
+1A;p1524;low;-0.5;11;;2;hb1.png;1
+1A;p1524;low;-0.5;15;;2;hb2.png;0
+1A;p1524;low;-0.5;13;;2;hb3.png;1
+1A;p1524;low;-0.5;17;;3;ha1.png;1
+1A;p1524;low;-0.5;16;;3;ha1.png;1
+1A;p1524;low;-0.5;19;;3;ha2.png;1
+1A;p1524;low;-0.5;21;;3;ha3.png;0
+1A;p1524;low;-0.5;22;;3;hb1.png;1
+1A;p1524;low;-0.5;23;;3;hb1.png;1
+1A;p1524;low;-0.5;20;;3;hb2.png;1
+1A;p1524;low;-0.5;18;;3;hb3.png;1
+1A;p1530;low;-0.5;3;;1;ha1.png;1
+1A;p1530;low;-0.5;1;;1;ha1.png;0
+1A;p1530;low;-0.5;5;;1;ha2.png;0
+1A;p1530;low;-0.5;2;;1;ha3.png;1
+1A;p1530;low;-0.5;7;;1;hb1.png;1
+1A;p1530;low;-0.5;6;;1;hb1.png;1
+1A;p1530;low;-0.5;0;;1;hb2.png;0
+1A;p1530;low;-0.5;4;;1;hb3.png;1
+1A;p1530;low;-0.5;14;;2;ha1.png;1
+1A;p1530;low;-0.5;13;;2;ha1.png;1
+1A;p1530;low;-0.5;15;;2;ha2.png;0
+1A;p1530;low;-0.5;11;;2;ha3.png;1
+1A;p1530;low;-0.5;9;;2;hb1.png;1
+1A;p1530;low;-0.5;12;;2;hb1.png;1
+1A;p1530;low;-0.5;8;;2;hb2.png;0
+1A;p1530;low;-0.5;10;;2;hb3.png;1
+1A;p1530;low;-0.5;18;;3;ha1.png;1
+1A;p1530;low;-0.5;20;;3;ha1.png;1
+1A;p1530;low;-0.5;21;;3;ha2.png;1
+1A;p1530;low;-0.5;17;;3;ha3.png;1
+1A;p1530;low;-0.5;23;;3;hb1.png;1
+1A;p1530;low;-0.5;19;;3;hb1.png;1
+1A;p1530;low;-0.5;16;;3;hb2.png;0
+1A;p1530;low;-0.5;22;;3;hb3.png;1
+1A;p1541;low;-0.5;0;;1;ha1.png;0
+1A;p1541;low;-0.5;6;;1;ha1.png;1
+1A;p1541;low;-0.5;5;;1;ha2.png;1
+1A;p1541;low;-0.5;7;;1;ha3.png;1
+1A;p1541;low;-0.5;2;;1;hb1.png;1
+1A;p1541;low;-0.5;1;;1;hb1.png;1
+1A;p1541;low;-0.5;3;;1;hb2.png;1
+1A;p1541;low;-0.5;4;;1;hb3.png;1
+1A;p1541;low;-0.5;14;;2;ha1.png;1
+1A;p1541;low;-0.5;15;;2;ha1.png;1
+1A;p1541;low;-0.5;9;;2;ha2.png;1
+1A;p1541;low;-0.5;13;;2;ha3.png;1
+1A;p1541;low;-0.5;10;;2;hb1.png;1
+1A;p1541;low;-0.5;11;;2;hb1.png;1
+1A;p1541;low;-0.5;8;;2;hb2.png;1
+1A;p1541;low;-0.5;12;;2;hb3.png;1
+1A;p1541;low;-0.5;17;;3;ha1.png;1
+1A;p1541;low;-0.5;19;;3;ha1.png;1
+1A;p1541;low;-0.5;21;;3;ha2.png;1
+1A;p1541;low;-0.5;16;;3;ha3.png;1
+1A;p1541;low;-0.5;23;;3;hb1.png;1
+1A;p1541;low;-0.5;22;;3;hb1.png;1
+1A;p1541;low;-0.5;18;;3;hb2.png;1
+1A;p1541;low;-0.5;20;;3;hb3.png;1
+1A;p1549;low;-0.5;2;;1;ha1.png;1
+1A;p1549;low;-0.5;6;;1;ha1.png;1
+1A;p1549;low;-0.5;7;;1;ha2.png;0
+1A;p1549;low;-0.5;0;;1;ha3.png;0
+1A;p1549;low;-0.5;3;;1;hb1.png;1
+1A;p1549;low;-0.5;1;;1;hb1.png;1
+1A;p1549;low;-0.5;4;;1;hb2.png;0
+1A;p1549;low;-0.5;5;;1;hb3.png;1
+1A;p1549;low;-0.5;9;;2;ha1.png;1
+1A;p1549;low;-0.5;14;;2;ha1.png;1
+1A;p1549;low;-0.5;8;;2;ha2.png;1
+1A;p1549;low;-0.5;12;;2;ha3.png;1
+1A;p1549;low;-0.5;15;;2;hb1.png;1
+1A;p1549;low;-0.5;10;;2;hb1.png;1
+1A;p1549;low;-0.5;13;;2;hb2.png;1
+1A;p1549;low;-0.5;11;;2;hb3.png;1
+1A;p1549;low;-0.5;21;;3;ha1.png;1
+1A;p1549;low;-0.5;16;;3;ha1.png;1
+1A;p1549;low;-0.5;19;;3;ha2.png;1
+1A;p1549;low;-0.5;23;;3;ha3.png;1
+1A;p1549;low;-0.5;17;;3;hb1.png;1
+1A;p1549;low;-0.5;20;;3;hb1.png;1
+1A;p1549;low;-0.5;22;;3;hb2.png;1
+1A;p1549;low;-0.5;18;;3;hb3.png;1
+1A;p1558;low;-0.5;3;;1;ha1.png;1
+1A;p1558;low;-0.5;1;;1;ha1.png;1
+1A;p1558;low;-0.5;2;;1;ha2.png;0
+1A;p1558;low;-0.5;7;;1;ha3.png;1
+1A;p1558;low;-0.5;4;;1;hb1.png;1
+1A;p1558;low;-0.5;0;;1;hb1.png;1
+1A;p1558;low;-0.5;5;;1;hb2.png;0
+1A;p1558;low;-0.5;6;;1;hb3.png;0
+1A;p1558;low;-0.5;8;;2;ha1.png;1
+1A;p1558;low;-0.5;9;;2;ha1.png;1
+1A;p1558;low;-0.5;11;;2;ha2.png;1
+1A;p1558;low;-0.5;10;;2;ha3.png;1
+1A;p1558;low;-0.5;14;;2;hb1.png;1
+1A;p1558;low;-0.5;15;;2;hb1.png;1
+1A;p1558;low;-0.5;13;;2;hb2.png;0
+1A;p1558;low;-0.5;12;;2;hb3.png;1
+1A;p1558;low;-0.5;16;;3;ha1.png;1
+1A;p1558;low;-0.5;21;;3;ha1.png;1
+1A;p1558;low;-0.5;23;;3;ha2.png;1
+1A;p1558;low;-0.5;22;;3;ha3.png;1
+1A;p1558;low;-0.5;20;;3;hb1.png;1
+1A;p1558;low;-0.5;19;;3;hb1.png;1
+1A;p1558;low;-0.5;18;;3;hb2.png;1
+1A;p1558;low;-0.5;17;;3;hb3.png;1
+1A;pp1105;low;-0.5;2;;1;ha1.png;1
+1A;pp1105;low;-0.5;6;;1;ha1.png;1
+1A;pp1105;low;-0.5;1;;1;ha2.png;1
+1A;pp1105;low;-0.5;0;;1;ha3.png;0
+1A;pp1105;low;-0.5;3;;1;hb1.png;1
+1A;pp1105;low;-0.5;5;;1;hb1.png;1
+1A;pp1105;low;-0.5;4;;1;hb2.png;1
+1A;pp1105;low;-0.5;7;;1;hb3.png;1
+1A;pp1105;low;-0.5;13;;2;ha1.png;1
+1A;pp1105;low;-0.5;10;;2;ha1.png;1
+1A;pp1105;low;-0.5;14;;2;ha2.png;1
+1A;pp1105;low;-0.5;8;;2;ha3.png;1
+1A;pp1105;low;-0.5;11;;2;hb1.png;1
+1A;pp1105;low;-0.5;9;;2;hb1.png;1
+1A;pp1105;low;-0.5;15;;2;hb2.png;1
+1A;pp1105;low;-0.5;12;;2;hb3.png;1
+1A;pp1105;low;-0.5;18;;3;ha1.png;1
+1A;pp1105;low;-0.5;20;;3;ha1.png;1
+1A;pp1105;low;-0.5;22;;3;ha2.png;1
+1A;pp1105;low;-0.5;16;;3;ha3.png;1
+1A;pp1105;low;-0.5;19;;3;hb1.png;1
+1A;pp1105;low;-0.5;23;;3;hb1.png;1
+1A;pp1105;low;-0.5;21;;3;hb2.png;1
+1A;pp1105;low;-0.5;17;;3;hb3.png;1
+1A;p1142;high;0.5;6;;1;ha1.png;1
+1A;p1142;high;0.5;0;;1;ha1.png;1
+1A;p1142;high;0.5;5;;1;ha2.png;0
+1A;p1142;high;0.5;3;;1;ha3.png;1
+1A;p1142;high;0.5;7;;1;hb1.png;1
+1A;p1142;high;0.5;2;;1;hb1.png;0
+1A;p1142;high;0.5;1;;1;hb2.png;0
+1A;p1142;high;0.5;4;;1;hb3.png;1
+1A;p1142;high;0.5;9;;2;ha1.png;1
+1A;p1142;high;0.5;15;;2;ha1.png;1
+1A;p1142;high;0.5;11;;2;ha2.png;1
+1A;p1142;high;0.5;14;;2;ha3.png;1
+1A;p1142;high;0.5;8;;2;hb1.png;1
+1A;p1142;high;0.5;10;;2;hb1.png;1
+1A;p1142;high;0.5;12;;2;hb2.png;1
+1A;p1142;high;0.5;13;;2;hb3.png;1
+1A;p1142;high;0.5;20;;3;ha1.png;1
+1A;p1142;high;0.5;23;;3;ha1.png;1
+1A;p1142;high;0.5;19;;3;ha2.png;1
+1A;p1142;high;0.5;17;;3;ha3.png;1
+1A;p1142;high;0.5;18;;3;hb1.png;1
+1A;p1142;high;0.5;21;;3;hb1.png;1
+1A;p1142;high;0.5;22;;3;hb2.png;1
+1A;p1142;high;0.5;16;;3;hb3.png;1
+1A;p1153;high;0.5;0;;1;ha1.png;0
+1A;p1153;high;0.5;6;;1;ha1.png;1
+1A;p1153;high;0.5;2;;1;ha2.png;0
+1A;p1153;high;0.5;4;;1;ha3.png;0
+1A;p1153;high;0.5;1;;1;hb1.png;1
+1A;p1153;high;0.5;7;;1;hb1.png;1
+1A;p1153;high;0.5;3;;1;hb2.png;1
+1A;p1153;high;0.5;5;;1;hb3.png;0
+1A;p1153;high;0.5;8;;2;ha1.png;1
+1A;p1153;high;0.5;9;;2;ha1.png;1
+1A;p1153;high;0.5;12;;2;ha2.png;1
+1A;p1153;high;0.5;13;;2;ha3.png;1
+1A;p1153;high;0.5;10;;2;hb1.png;1
+1A;p1153;high;0.5;15;;2;hb1.png;0
+1A;p1153;high;0.5;14;;2;hb2.png;0
+1A;p1153;high;0.5;11;;2;hb3.png;0
+1A;p1153;high;0.5;16;;3;ha1.png;1
+1A;p1153;high;0.5;19;;3;ha1.png;1
+1A;p1153;high;0.5;23;;3;ha2.png;1
+1A;p1153;high;0.5;18;;3;ha3.png;0
+1A;p1153;high;0.5;20;;3;hb1.png;1
+1A;p1153;high;0.5;17;;3;hb1.png;1
+1A;p1153;high;0.5;21;;3;hb2.png;1
+1A;p1153;high;0.5;22;;3;hb3.png;1
+1A;p1202;low;-0.5;2;;1;ha1.png;1
+1A;p1202;low;-0.5;4;;1;ha1.png;1
+1A;p1202;low;-0.5;7;;1;ha2.png;1
+1A;p1202;low;-0.5;0;;1;ha3.png;1
+1A;p1202;low;-0.5;6;;1;hb1.png;1
+1A;p1202;low;-0.5;3;;1;hb1.png;1
+1A;p1202;low;-0.5;1;;1;hb2.png;0
+1A;p1202;low;-0.5;5;;1;hb3.png;1
+1A;p1202;low;-0.5;8;;2;ha1.png;1
+1A;p1202;low;-0.5;9;;2;ha1.png;1
+1A;p1202;low;-0.5;10;;2;ha2.png;1
+1A;p1202;low;-0.5;15;;2;ha3.png;1
+1A;p1202;low;-0.5;14;;2;hb1.png;1
+1A;p1202;low;-0.5;12;;2;hb1.png;1
+1A;p1202;low;-0.5;13;;2;hb2.png;0
+1A;p1202;low;-0.5;11;;2;hb3.png;1
+1A;p1202;low;-0.5;21;;3;ha1.png;1
+1A;p1202;low;-0.5;22;;3;ha1.png;1
+1A;p1202;low;-0.5;23;;3;ha2.png;0
+1A;p1202;low;-0.5;17;;3;ha3.png;1
+1A;p1202;low;-0.5;16;;3;hb1.png;1
+1A;p1202;low;-0.5;18;;3;hb1.png;1
+1A;p1202;low;-0.5;19;;3;hb2.png;1
+1A;p1202;low;-0.5;20;;3;hb3.png;1
+1A;p1222;low;-0.5;6;;1;ha1.png;1
+1A;p1222;low;-0.5;3;;1;ha1.png;1
+1A;p1222;low;-0.5;0;;1;ha2.png;1
+1A;p1222;low;-0.5;2;;1;ha3.png;0
+1A;p1222;low;-0.5;1;;1;hb1.png;1
+1A;p1222;low;-0.5;5;;1;hb1.png;1
+1A;p1222;low;-0.5;7;;1;hb2.png;1
+1A;p1222;low;-0.5;4;;1;hb3.png;1
+1A;p1222;low;-0.5;12;;2;ha1.png;1
+1A;p1222;low;-0.5;15;;2;ha1.png;1
+1A;p1222;low;-0.5;14;;2;ha2.png;1
+1A;p1222;low;-0.5;9;;2;ha3.png;1
+1A;p1222;low;-0.5;8;;2;hb1.png;1
+1A;p1222;low;-0.5;11;;2;hb1.png;1
+1A;p1222;low;-0.5;10;;2;hb2.png;1
+1A;p1222;low;-0.5;13;;2;hb3.png;1
+1A;p1222;low;-0.5;16;;3;ha1.png;1
+1A;p1222;low;-0.5;23;;3;ha1.png;1
+1A;p1222;low;-0.5;17;;3;ha2.png;1
+1A;p1222;low;-0.5;18;;3;ha3.png;1
+1A;p1222;low;-0.5;20;;3;hb1.png;1
+1A;p1222;low;-0.5;21;;3;hb1.png;1
+1A;p1222;low;-0.5;22;;3;hb2.png;1
+1A;p1222;low;-0.5;19;;3;hb3.png;1
+1A;pp1245;high;0.5;3;;1;ha1.png;1
+1A;pp1245;high;0.5;6;;1;ha1.png;1
+1A;pp1245;high;0.5;5;;1;ha2.png;1
+1A;pp1245;high;0.5;0;;1;ha3.png;1
+1A;pp1245;high;0.5;2;;1;hb1.png;1
+1A;pp1245;high;0.5;4;;1;hb1.png;1
+1A;pp1245;high;0.5;7;;1;hb2.png;1
+1A;pp1245;high;0.5;1;;1;hb3.png;1
+1A;pp1245;high;0.5;14;;2;ha1.png;1
+1A;pp1245;high;0.5;9;;2;ha1.png;1
+1A;pp1245;high;0.5;10;;2;ha2.png;1
+1A;pp1245;high;0.5;12;;2;ha3.png;1
+1A;pp1245;high;0.5;13;;2;hb1.png;1
+1A;pp1245;high;0.5;8;;2;hb1.png;1
+1A;pp1245;high;0.5;15;;2;hb2.png;1
+1A;pp1245;high;0.5;11;;2;hb3.png;1
+1A;pp1245;high;0.5;18;;3;ha1.png;1
+1A;pp1245;high;0.5;23;;3;ha1.png;1
+1A;pp1245;high;0.5;19;;3;ha2.png;1
+1A;pp1245;high;0.5;20;;3;ha3.png;1
+1A;pp1245;high;0.5;21;;3;hb1.png;1
+1A;pp1245;high;0.5;22;;3;hb1.png;1
+1A;pp1245;high;0.5;16;;3;hb2.png;1
+1A;pp1245;high;0.5;17;;3;hb3.png;1
+1A;p1334;high;0.5;0;;1;ha1.png;0
+1A;p1334;high;0.5;2;;1;ha1.png;1
+1A;p1334;high;0.5;6;;1;ha2.png;0
+1A;p1334;high;0.5;5;;1;ha3.png;1
+1A;p1334;high;0.5;1;;1;hb1.png;1
+1A;p1334;high;0.5;3;;1;hb1.png;1
+1A;p1334;high;0.5;7;;1;hb2.png;1
+1A;p1334;high;0.5;4;;1;hb3.png;1
+1A;p1334;high;0.5;15;;2;ha1.png;1
+1A;p1334;high;0.5;14;;2;ha1.png;1
+1A;p1334;high;0.5;8;;2;ha2.png;1
+1A;p1334;high;0.5;10;;2;ha3.png;1
+1A;p1334;high;0.5;13;;2;hb1.png;1
+1A;p1334;high;0.5;9;;2;hb1.png;1
+1A;p1334;high;0.5;12;;2;hb2.png;1
+1A;p1334;high;0.5;11;;2;hb3.png;1
+1A;p1334;high;0.5;21;;3;ha1.png;1
+1A;p1334;high;0.5;22;;3;ha1.png;1
+1A;p1334;high;0.5;16;;3;ha2.png;1
+1A;p1334;high;0.5;18;;3;ha3.png;1
+1A;p1334;high;0.5;17;;3;hb1.png;1
+1A;p1334;high;0.5;20;;3;hb1.png;1
+1A;p1334;high;0.5;19;;3;hb2.png;1
+1A;p1334;high;0.5;23;;3;hb3.png;1
+1A;p1404;high;0.5;7;;1;ha1.png;1
+1A;p1404;high;0.5;0;;1;ha1.png;0
+1A;p1404;high;0.5;5;;1;ha2.png;1
+1A;p1404;high;0.5;1;;1;ha3.png;1
+1A;p1404;high;0.5;2;;1;hb1.png;1
+1A;p1404;high;0.5;4;;1;hb1.png;1
+1A;p1404;high;0.5;3;;1;hb2.png;1
+1A;p1404;high;0.5;6;;1;hb3.png;1
+1A;p1404;high;0.5;12;;2;ha1.png;1
+1A;p1404;high;0.5;15;;2;ha1.png;1
+1A;p1404;high;0.5;10;;2;ha2.png;1
+1A;p1404;high;0.5;9;;2;ha3.png;1
+1A;p1404;high;0.5;8;;2;hb1.png;1
+1A;p1404;high;0.5;13;;2;hb1.png;1
+1A;p1404;high;0.5;14;;2;hb2.png;1
+1A;p1404;high;0.5;11;;2;hb3.png;1
+1A;p1404;high;0.5;21;;3;ha1.png;1
+1A;p1404;high;0.5;18;;3;ha1.png;1
+1A;p1404;high;0.5;19;;3;ha2.png;1
+1A;p1404;high;0.5;16;;3;ha3.png;1
+1A;p1404;high;0.5;17;;3;hb1.png;1
+1A;p1404;high;0.5;22;;3;hb1.png;1
+1A;p1404;high;0.5;20;;3;hb2.png;1
+1A;p1404;high;0.5;23;;3;hb3.png;1
+1A;pp1422;low;-0.5;5;;1;ha1.png;1
+1A;pp1422;low;-0.5;3;;1;ha1.png;1
+1A;pp1422;low;-0.5;0;;1;ha2.png;0
+1A;pp1422;low;-0.5;4;;1;ha3.png;1
+1A;pp1422;low;-0.5;2;;1;hb1.png;0
+1A;pp1422;low;-0.5;7;;1;hb1.png;1
+1A;pp1422;low;-0.5;1;;1;hb2.png;1
+1A;pp1422;low;-0.5;6;;1;hb3.png;1
+1A;pp1422;low;-0.5;11;;2;ha1.png;1
+1A;pp1422;low;-0.5;12;;2;ha1.png;1
+1A;pp1422;low;-0.5;8;;2;ha2.png;0
+1A;pp1422;low;-0.5;9;;2;ha3.png;1
+1A;pp1422;low;-0.5;14;;2;hb1.png;1
+1A;pp1422;low;-0.5;10;;2;hb1.png;1
+1A;pp1422;low;-0.5;15;;2;hb2.png;1
+1A;pp1422;low;-0.5;13;;2;hb3.png;1
+1A;pp1422;low;-0.5;20;;3;ha1.png;1
+1A;pp1422;low;-0.5;18;;3;ha1.png;1
+1A;pp1422;low;-0.5;19;;3;ha2.png;1
+1A;pp1422;low;-0.5;21;;3;ha3.png;1
+1A;pp1422;low;-0.5;17;;3;hb1.png;1
+1A;pp1422;low;-0.5;22;;3;hb1.png;1
+1A;pp1422;low;-0.5;23;;3;hb2.png;0
+1A;pp1422;low;-0.5;16;;3;hb3.png;1
+1A;p1429;high;0.5;5;;1;ha1.png;1
+1A;p1429;high;0.5;1;;1;ha1.png;0
+1A;p1429;high;0.5;0;;1;ha2.png;1
+1A;p1429;high;0.5;2;;1;ha3.png;1
+1A;p1429;high;0.5;4;;1;hb1.png;1
+1A;p1429;high;0.5;7;;1;hb1.png;1
+1A;p1429;high;0.5;6;;1;hb2.png;0
+1A;p1429;high;0.5;3;;1;hb3.png;0
+1A;p1429;high;0.5;13;;2;ha1.png;1
+1A;p1429;high;0.5;12;;2;ha1.png;0
+1A;p1429;high;0.5;10;;2;ha2.png;0
+1A;p1429;high;0.5;14;;2;ha3.png;0
+1A;p1429;high;0.5;15;;2;hb1.png;1
+1A;p1429;high;0.5;8;;2;hb1.png;1
+1A;p1429;high;0.5;11;;2;hb2.png;1
+1A;p1429;high;0.5;9;;2;hb3.png;1
+1A;p1429;high;0.5;23;;3;ha1.png;1
+1A;p1429;high;0.5;17;;3;ha1.png;0
+1A;p1429;high;0.5;19;;3;ha2.png;1
+1A;p1429;high;0.5;20;;3;ha3.png;1
+1A;p1429;high;0.5;22;;3;hb1.png;1
+1A;p1429;high;0.5;18;;3;hb1.png;1
+1A;p1429;high;0.5;21;;3;hb2.png;0
+1A;p1429;high;0.5;16;;3;hb3.png;0
+1A;p1440;low;-0.5;2;;1;ha1.png;1
+1A;p1440;low;-0.5;5;;1;ha1.png;1
+1A;p1440;low;-0.5;0;;1;ha2.png;1
+1A;p1440;low;-0.5;1;;1;ha3.png;0
+1A;p1440;low;-0.5;3;;1;hb1.png;1
+1A;p1440;low;-0.5;6;;1;hb1.png;1
+1A;p1440;low;-0.5;4;;1;hb2.png;0
+1A;p1440;low;-0.5;7;;1;hb3.png;0
+1A;p1440;low;-0.5;10;;2;ha1.png;1
+1A;p1440;low;-0.5;11;;2;ha1.png;1
+1A;p1440;low;-0.5;13;;2;ha2.png;0
+1A;p1440;low;-0.5;8;;2;ha3.png;1
+1A;p1440;low;-0.5;9;;2;hb1.png;1
+1A;p1440;low;-0.5;14;;2;hb1.png;1
+1A;p1440;low;-0.5;15;;2;hb2.png;0
+1A;p1440;low;-0.5;12;;2;hb3.png;1
+1A;p1440;low;-0.5;23;;3;ha1.png;1
+1A;p1440;low;-0.5;19;;3;ha1.png;1
+1A;p1440;low;-0.5;20;;3;ha2.png;0
+1A;p1440;low;-0.5;18;;3;ha3.png;1
+1A;p1440;low;-0.5;16;;3;hb1.png;1
+1A;p1440;low;-0.5;17;;3;hb1.png;1
+1A;p1440;low;-0.5;21;;3;hb2.png;1
+1A;p1440;low;-0.5;22;;3;hb3.png;1
+1A;p1115;high;0.5;4;;1;ha1.png;1
+1A;p1115;high;0.5;3;;1;ha1.png;0
+1A;p1115;high;0.5;2;;1;ha2.png;1
+1A;p1115;high;0.5;5;;1;ha3.png;1
+1A;p1115;high;0.5;0;;1;hb1.png;0
+1A;p1115;high;0.5;1;;1;hb1.png;1
+1A;p1115;high;0.5;7;;1;hb2.png;1
+1A;p1115;high;0.5;6;;1;hb3.png;1
+1A;p1115;high;0.5;15;;2;ha1.png;1
+1A;p1115;high;0.5;12;;2;ha1.png;1
+1A;p1115;high;0.5;9;;2;ha2.png;1
+1A;p1115;high;0.5;13;;2;ha3.png;1
+1A;p1115;high;0.5;11;;2;hb1.png;1
+1A;p1115;high;0.5;10;;2;hb1.png;1
+1A;p1115;high;0.5;8;;2;hb2.png;1
+1A;p1115;high;0.5;14;;2;hb3.png;1
+1A;p1115;high;0.5;20;;3;ha1.png;1
+1A;p1115;high;0.5;22;;3;ha1.png;1
+1A;p1115;high;0.5;19;;3;ha2.png;1
+1A;p1115;high;0.5;17;;3;ha3.png;1
+1A;p1115;high;0.5;16;;3;hb1.png;1
+1A;p1115;high;0.5;21;;3;hb1.png;1
+1A;p1115;high;0.5;23;;3;hb2.png;1
+1A;p1115;high;0.5;18;;3;hb3.png;1
+1A;p1156;high;0.5;7;;1;ha1.png;1
+1A;p1156;high;0.5;3;;1;ha1.png;1
+1A;p1156;high;0.5;4;;1;ha2.png;1
+1A;p1156;high;0.5;0;;1;ha3.png;0
+1A;p1156;high;0.5;2;;1;hb1.png;0
+1A;p1156;high;0.5;6;;1;hb1.png;0
+1A;p1156;high;0.5;5;;1;hb2.png;1
+1A;p1156;high;0.5;1;;1;hb3.png;0
+1A;p1156;high;0.5;11;;2;ha1.png;1
+1A;p1156;high;0.5;12;;2;ha1.png;1
+1A;p1156;high;0.5;14;;2;ha2.png;1
+1A;p1156;high;0.5;9;;2;ha3.png;1
+1A;p1156;high;0.5;10;;2;hb1.png;0
+1A;p1156;high;0.5;13;;2;hb1.png;1
+1A;p1156;high;0.5;15;;2;hb2.png;1
+1A;p1156;high;0.5;8;;2;hb3.png;1
+1A;p1156;high;0.5;23;;3;ha1.png;1
+1A;p1156;high;0.5;17;;3;ha1.png;1
+1A;p1156;high;0.5;20;;3;ha2.png;1
+1A;p1156;high;0.5;21;;3;ha3.png;1
+1A;p1156;high;0.5;18;;3;hb1.png;1
+1A;p1156;high;0.5;16;;3;hb1.png;1
+1A;p1156;high;0.5;22;;3;hb2.png;1
+1A;p1156;high;0.5;19;;3;hb3.png;1
+1A;p1207;low;-0.5;1;;1;ha1.png;1
+1A;p1207;low;-0.5;7;;1;ha1.png;1
+1A;p1207;low;-0.5;5;;1;ha2.png;1
+1A;p1207;low;-0.5;6;;1;ha3.png;1
+1A;p1207;low;-0.5;0;;1;hb1.png;0
+1A;p1207;low;-0.5;3;;1;hb1.png;1
+1A;p1207;low;-0.5;4;;1;hb2.png;1
+1A;p1207;low;-0.5;2;;1;hb3.png;1
+1A;p1207;low;-0.5;10;;2;ha1.png;1
+1A;p1207;low;-0.5;8;;2;ha1.png;1
+1A;p1207;low;-0.5;9;;2;ha2.png;1
+1A;p1207;low;-0.5;12;;2;ha3.png;1
+1A;p1207;low;-0.5;11;;2;hb1.png;1
+1A;p1207;low;-0.5;13;;2;hb1.png;1
+1A;p1207;low;-0.5;15;;2;hb2.png;1
+1A;p1207;low;-0.5;14;;2;hb3.png;1
+1A;p1207;low;-0.5;22;;3;ha1.png;1
+1A;p1207;low;-0.5;23;;3;ha1.png;1
+1A;p1207;low;-0.5;16;;3;ha2.png;1
+1A;p1207;low;-0.5;19;;3;ha3.png;1
+1A;p1207;low;-0.5;18;;3;hb1.png;1
+1A;p1207;low;-0.5;20;;3;hb1.png;1
+1A;p1207;low;-0.5;17;;3;hb2.png;1
+1A;p1207;low;-0.5;21;;3;hb3.png;1
+1A;p1219;low;-0.5;4;;1;ha1.png;1
+1A;p1219;low;-0.5;2;;1;ha1.png;1
+1A;p1219;low;-0.5;1;;1;ha2.png;0
+1A;p1219;low;-0.5;0;;1;ha3.png;0
+1A;p1219;low;-0.5;7;;1;hb1.png;1
+1A;p1219;low;-0.5;6;;1;hb1.png;1
+1A;p1219;low;-0.5;3;;1;hb2.png;1
+1A;p1219;low;-0.5;5;;1;hb3.png;1
+1A;p1219;low;-0.5;10;;2;ha1.png;1
+1A;p1219;low;-0.5;9;;2;ha1.png;1
+1A;p1219;low;-0.5;14;;2;ha2.png;0
+1A;p1219;low;-0.5;15;;2;ha3.png;1
+1A;p1219;low;-0.5;11;;2;hb1.png;1
+1A;p1219;low;-0.5;8;;2;hb1.png;1
+1A;p1219;low;-0.5;12;;2;hb2.png;1
+1A;p1219;low;-0.5;13;;2;hb3.png;1
+1A;p1219;low;-0.5;19;;3;ha1.png;1
+1A;p1219;low;-0.5;17;;3;ha1.png;1
+1A;p1219;low;-0.5;22;;3;ha2.png;1
+1A;p1219;low;-0.5;20;;3;ha3.png;1
+1A;p1219;low;-0.5;23;;3;hb1.png;1
+1A;p1219;low;-0.5;16;;3;hb1.png;1
+1A;p1219;low;-0.5;18;;3;hb2.png;1
+1A;p1219;low;-0.5;21;;3;hb3.png;1
+1A;p1231;high;0.5;4;;1;ha1.png;1
+1A;p1231;high;0.5;6;;1;ha1.png;1
+1A;p1231;high;0.5;1;;1;ha2.png;1
+1A;p1231;high;0.5;7;;1;ha3.png;0
+1A;p1231;high;0.5;2;;1;hb1.png;1
+1A;p1231;high;0.5;3;;1;hb1.png;1
+1A;p1231;high;0.5;0;;1;hb2.png;1
+1A;p1231;high;0.5;5;;1;hb3.png;1
+1A;p1231;high;0.5;9;;2;ha1.png;1
+1A;p1231;high;0.5;15;;2;ha1.png;1
+1A;p1231;high;0.5;10;;2;ha2.png;1
+1A;p1231;high;0.5;13;;2;ha3.png;1
+1A;p1231;high;0.5;12;;2;hb1.png;1
+1A;p1231;high;0.5;14;;2;hb1.png;1
+1A;p1231;high;0.5;8;;2;hb2.png;1
+1A;p1231;high;0.5;11;;2;hb3.png;1
+1A;p1231;high;0.5;19;;3;ha1.png;1
+1A;p1231;high;0.5;17;;3;ha1.png;1
+1A;p1231;high;0.5;16;;3;ha2.png;1
+1A;p1231;high;0.5;22;;3;ha3.png;1
+1A;p1231;high;0.5;21;;3;hb1.png;1
+1A;p1231;high;0.5;20;;3;hb1.png;1
+1A;p1231;high;0.5;18;;3;hb2.png;1
+1A;p1231;high;0.5;23;;3;hb3.png;1
+1A;p1242;high;0.5;2;;1;ha1.png;1
+1A;p1242;high;0.5;7;;1;ha1.png;1
+1A;p1242;high;0.5;5;;1;ha2.png;1
+1A;p1242;high;0.5;6;;1;ha3.png;1
+1A;p1242;high;0.5;1;;1;hb1.png;1
+1A;p1242;high;0.5;4;;1;hb1.png;1
+1A;p1242;high;0.5;0;;1;hb2.png;1
+1A;p1242;high;0.5;3;;1;hb3.png;1
+1A;p1242;high;0.5;15;;2;ha1.png;1
+1A;p1242;high;0.5;11;;2;ha1.png;1
+1A;p1242;high;0.5;13;;2;ha2.png;1
+1A;p1242;high;0.5;9;;2;ha3.png;1
+1A;p1242;high;0.5;10;;2;hb1.png;1
+1A;p1242;high;0.5;14;;2;hb1.png;1
+1A;p1242;high;0.5;12;;2;hb2.png;1
+1A;p1242;high;0.5;8;;2;hb3.png;1
+1A;p1242;high;0.5;18;;3;ha1.png;1
+1A;p1242;high;0.5;16;;3;ha1.png;1
+1A;p1242;high;0.5;17;;3;ha2.png;1
+1A;p1242;high;0.5;20;;3;ha3.png;1
+1A;p1242;high;0.5;19;;3;hb1.png;1
+1A;p1242;high;0.5;21;;3;hb1.png;1
+1A;p1242;high;0.5;22;;3;hb2.png;1
+1A;p1242;high;0.5;23;;3;hb3.png;1
+1A;p1255;high;0.5;6;;1;ha1.png;1
+1A;p1255;high;0.5;7;;1;ha1.png;1
+1A;p1255;high;0.5;5;;1;ha2.png;1
+1A;p1255;high;0.5;3;;1;ha3.png;0
+1A;p1255;high;0.5;4;;1;hb1.png;1
+1A;p1255;high;0.5;0;;1;hb1.png;0
+1A;p1255;high;0.5;2;;1;hb2.png;1
+1A;p1255;high;0.5;1;;1;hb3.png;0
+1A;p1255;high;0.5;11;;2;ha1.png;1
+1A;p1255;high;0.5;14;;2;ha1.png;1
+1A;p1255;high;0.5;9;;2;ha2.png;1
+1A;p1255;high;0.5;13;;2;ha3.png;1
+1A;p1255;high;0.5;12;;2;hb1.png;1
+1A;p1255;high;0.5;8;;2;hb1.png;1
+1A;p1255;high;0.5;10;;2;hb2.png;1
+1A;p1255;high;0.5;15;;2;hb3.png;1
+1A;p1255;high;0.5;22;;3;ha1.png;1
+1A;p1255;high;0.5;19;;3;ha1.png;1
+1A;p1255;high;0.5;17;;3;ha2.png;1
+1A;p1255;high;0.5;20;;3;ha3.png;0
+1A;p1255;high;0.5;16;;3;hb1.png;1
+1A;p1255;high;0.5;18;;3;hb1.png;1
+1A;p1255;high;0.5;21;;3;hb2.png;1
+1A;p1255;high;0.5;23;;3;hb3.png;1
+1A;pp1255;low;-0.5;1;;1;ha1.png;1
+1A;pp1255;low;-0.5;0;;1;ha1.png;0
+1A;pp1255;low;-0.5;4;;1;ha2.png;0
+1A;pp1255;low;-0.5;6;;1;ha3.png;1
+1A;pp1255;low;-0.5;5;;1;hb1.png;0
+1A;pp1255;low;-0.5;2;;1;hb1.png;0
+1A;pp1255;low;-0.5;3;;1;hb2.png;1
+1A;pp1255;low;-0.5;7;;1;hb3.png;1
+1A;pp1255;low;-0.5;8;;2;ha1.png;1
+1A;pp1255;low;-0.5;12;;2;ha1.png;1
+1A;pp1255;low;-0.5;14;;2;ha2.png;1
+1A;pp1255;low;-0.5;10;;2;ha3.png;1
+1A;pp1255;low;-0.5;15;;2;hb1.png;1
+1A;pp1255;low;-0.5;13;;2;hb1.png;1
+1A;pp1255;low;-0.5;9;;2;hb2.png;0
+1A;pp1255;low;-0.5;11;;2;hb3.png;1
+1A;pp1255;low;-0.5;19;;3;ha1.png;1
+1A;pp1255;low;-0.5;18;;3;ha1.png;1
+1A;pp1255;low;-0.5;21;;3;ha2.png;0
+1A;pp1255;low;-0.5;16;;3;ha3.png;1
+1A;pp1255;low;-0.5;23;;3;hb1.png;1
+1A;pp1255;low;-0.5;20;;3;hb1.png;1
+1A;pp1255;low;-0.5;17;;3;hb2.png;0
+1A;pp1255;low;-0.5;22;;3;hb3.png;0
+1A;p1304;high;0.5;3;;1;ha1.png;1
+1A;p1304;high;0.5;2;;1;ha1.png;1
+1A;p1304;high;0.5;6;;1;ha2.png;1
+1A;p1304;high;0.5;0;;1;ha3.png;0
+1A;p1304;high;0.5;1;;1;hb1.png;0
+1A;p1304;high;0.5;5;;1;hb1.png;1
+1A;p1304;high;0.5;4;;1;hb2.png;1
+1A;p1304;high;0.5;7;;1;hb3.png;1
+1A;p1304;high;0.5;13;;2;ha1.png;1
+1A;p1304;high;0.5;9;;2;ha1.png;1
+1A;p1304;high;0.5;15;;2;ha2.png;1
+1A;p1304;high;0.5;12;;2;ha3.png;1
+1A;p1304;high;0.5;11;;2;hb1.png;1
+1A;p1304;high;0.5;10;;2;hb1.png;1
+1A;p1304;high;0.5;14;;2;hb2.png;1
+1A;p1304;high;0.5;8;;2;hb3.png;1
+1A;p1304;high;0.5;16;;3;ha1.png;1
+1A;p1304;high;0.5;21;;3;ha1.png;1
+1A;p1304;high;0.5;20;;3;ha2.png;1
+1A;p1304;high;0.5;19;;3;ha3.png;1
+1A;p1304;high;0.5;23;;3;hb1.png;1
+1A;p1304;high;0.5;17;;3;hb1.png;1
+1A;p1304;high;0.5;22;;3;hb2.png;1
+1A;p1304;high;0.5;18;;3;hb3.png;1
+1A;p1306;low;-0.5;4;;1;ha1.png;1
+1A;p1306;low;-0.5;5;;1;ha1.png;1
+1A;p1306;low;-0.5;0;;1;ha2.png;0
+1A;p1306;low;-0.5;1;;1;ha3.png;1
+1A;p1306;low;-0.5;3;;1;hb1.png;1
+1A;p1306;low;-0.5;7;;1;hb1.png;1
+1A;p1306;low;-0.5;6;;1;hb2.png;1
+1A;p1306;low;-0.5;2;;1;hb3.png;0
+1A;p1306;low;-0.5;12;;2;ha1.png;1
+1A;p1306;low;-0.5;13;;2;ha1.png;1
+1A;p1306;low;-0.5;9;;2;ha2.png;1
+1A;p1306;low;-0.5;15;;2;ha3.png;1
+1A;p1306;low;-0.5;11;;2;hb1.png;1
+1A;p1306;low;-0.5;10;;2;hb1.png;1
+1A;p1306;low;-0.5;14;;2;hb2.png;1
+1A;p1306;low;-0.5;8;;2;hb3.png;1
+1A;p1306;low;-0.5;17;;3;ha1.png;1
+1A;p1306;low;-0.5;16;;3;ha1.png;1
+1A;p1306;low;-0.5;23;;3;ha2.png;0
+1A;p1306;low;-0.5;21;;3;ha3.png;1
+1A;p1306;low;-0.5;22;;3;hb1.png;1
+1A;p1306;low;-0.5;19;;3;hb1.png;1
+1A;p1306;low;-0.5;20;;3;hb2.png;1
+1A;p1306;low;-0.5;18;;3;hb3.png;1
+1A;p1316;high;0.5;1;;1;ha1.png;1
+1A;p1316;high;0.5;2;;1;ha1.png;1
+1A;p1316;high;0.5;6;;1;ha2.png;1
+1A;p1316;high;0.5;3;;1;ha3.png;1
+1A;p1316;high;0.5;4;;1;hb1.png;1
+1A;p1316;high;0.5;7;;1;hb1.png;1
+1A;p1316;high;0.5;5;;1;hb2.png;1
+1A;p1316;high;0.5;0;;1;hb3.png;0
+1A;p1316;high;0.5;12;;2;ha1.png;1
+1A;p1316;high;0.5;15;;2;ha1.png;1
+1A;p1316;high;0.5;14;;2;ha2.png;1
+1A;p1316;high;0.5;9;;2;ha3.png;1
+1A;p1316;high;0.5;8;;2;hb1.png;1
+1A;p1316;high;0.5;11;;2;hb1.png;1
+1A;p1316;high;0.5;10;;2;hb2.png;1
+1A;p1316;high;0.5;13;;2;hb3.png;1
+1A;p1316;high;0.5;21;;3;ha1.png;1
+1A;p1316;high;0.5;20;;3;ha1.png;1
+1A;p1316;high;0.5;23;;3;ha2.png;1
+1A;p1316;high;0.5;19;;3;ha3.png;1
+1A;p1316;high;0.5;18;;3;hb1.png;1
+1A;p1316;high;0.5;16;;3;hb1.png;1
+1A;p1316;high;0.5;17;;3;hb2.png;1
+1A;p1316;high;0.5;22;;3;hb3.png;1
+1A;pp1317;low;-0.5;4;;1;ha1.png;1
+1A;pp1317;low;-0.5;1;;1;ha1.png;1
+1A;pp1317;low;-0.5;5;;1;ha2.png;0
+1A;pp1317;low;-0.5;2;;1;ha3.png;1
+1A;pp1317;low;-0.5;7;;1;hb1.png;0
+1A;pp1317;low;-0.5;6;;1;hb1.png;0
+1A;pp1317;low;-0.5;3;;1;hb2.png;0
+1A;pp1317;low;-0.5;0;;1;hb3.png;0
+1A;pp1317;low;-0.5;15;;2;ha1.png;1
+1A;pp1317;low;-0.5;8;;2;ha1.png;1
+1A;pp1317;low;-0.5;13;;2;ha2.png;1
+1A;pp1317;low;-0.5;9;;2;ha3.png;0
+1A;pp1317;low;-0.5;11;;2;hb1.png;1
+1A;pp1317;low;-0.5;14;;2;hb1.png;1
+1A;pp1317;low;-0.5;10;;2;hb2.png;1
+1A;pp1317;low;-0.5;12;;2;hb3.png;1
+1A;pp1317;low;-0.5;23;;3;ha1.png;1
+1A;pp1317;low;-0.5;19;;3;ha1.png;1
+1A;pp1317;low;-0.5;16;;3;ha2.png;0
+1A;pp1317;low;-0.5;20;;3;ha3.png;0
+1A;pp1317;low;-0.5;17;;3;hb1.png;1
+1A;pp1317;low;-0.5;22;;3;hb1.png;0
+1A;pp1317;low;-0.5;21;;3;hb2.png;0
+1A;pp1317;low;-0.5;18;;3;hb3.png;0
+1A;p1325;high;0.5;2;;1;ha1.png;1
+1A;p1325;high;0.5;6;;1;ha1.png;1
+1A;p1325;high;0.5;5;;1;ha2.png;1
+1A;p1325;high;0.5;1;;1;ha3.png;1
+1A;p1325;high;0.5;4;;1;hb1.png;1
+1A;p1325;high;0.5;3;;1;hb1.png;1
+1A;p1325;high;0.5;0;;1;hb2.png;1
+1A;p1325;high;0.5;7;;1;hb3.png;0
+1A;p1325;high;0.5;10;;2;ha1.png;1
+1A;p1325;high;0.5;14;;2;ha1.png;1
+1A;p1325;high;0.5;15;;2;ha2.png;1
+1A;p1325;high;0.5;12;;2;ha3.png;1
+1A;p1325;high;0.5;11;;2;hb1.png;1
+1A;p1325;high;0.5;9;;2;hb1.png;1
+1A;p1325;high;0.5;13;;2;hb2.png;1
+1A;p1325;high;0.5;8;;2;hb3.png;1
+1A;p1325;high;0.5;22;;3;ha1.png;1
+1A;p1325;high;0.5;18;;3;ha1.png;1
+1A;p1325;high;0.5;20;;3;ha2.png;1
+1A;p1325;high;0.5;19;;3;ha3.png;1
+1A;p1325;high;0.5;23;;3;hb1.png;1
+1A;p1325;high;0.5;17;;3;hb1.png;1
+1A;p1325;high;0.5;21;;3;hb2.png;1
+1A;p1325;high;0.5;16;;3;hb3.png;1
+1A;p1327;low;-0.5;3;;1;ha1.png;0
+1A;p1327;low;-0.5;4;;1;ha1.png;0
+1A;p1327;low;-0.5;6;;1;ha2.png;0
+1A;p1327;low;-0.5;0;;1;ha3.png;0
+1A;p1327;low;-0.5;2;;1;hb1.png;0
+1A;p1327;low;-0.5;5;;1;hb1.png;1
+1A;p1327;low;-0.5;7;;1;hb2.png;1
+1A;p1327;low;-0.5;1;;1;hb3.png;1
+1A;p1327;low;-0.5;12;;2;ha1.png;1
+1A;p1327;low;-0.5;10;;2;ha1.png;1
+1A;p1327;low;-0.5;11;;2;ha2.png;1
+1A;p1327;low;-0.5;8;;2;ha3.png;0
+1A;p1327;low;-0.5;14;;2;hb1.png;1
+1A;p1327;low;-0.5;9;;2;hb1.png;1
+1A;p1327;low;-0.5;15;;2;hb2.png;0
+1A;p1327;low;-0.5;13;;2;hb3.png;1
+1A;p1327;low;-0.5;18;;3;ha1.png;1
+1A;p1327;low;-0.5;16;;3;ha1.png;1
+1A;p1327;low;-0.5;19;;3;ha2.png;1
+1A;p1327;low;-0.5;21;;3;ha3.png;1
+1A;p1327;low;-0.5;23;;3;hb1.png;1
+1A;p1327;low;-0.5;20;;3;hb1.png;1
+1A;p1327;low;-0.5;22;;3;hb2.png;1
+1A;p1327;low;-0.5;17;;3;hb3.png;1
+1A;p1333;low;-0.5;0;;1;ha1.png;1
+1A;p1333;low;-0.5;6;;1;ha1.png;1
+1A;p1333;low;-0.5;1;;1;ha2.png;1
+1A;p1333;low;-0.5;5;;1;ha3.png;0
+1A;p1333;low;-0.5;4;;1;hb1.png;1
+1A;p1333;low;-0.5;3;;1;hb1.png;1
+1A;p1333;low;-0.5;2;;1;hb2.png;1
+1A;p1333;low;-0.5;7;;1;hb3.png;0
+1A;p1333;low;-0.5;11;;2;ha1.png;1
+1A;p1333;low;-0.5;14;;2;ha1.png;1
+1A;p1333;low;-0.5;12;;2;ha2.png;1
+1A;p1333;low;-0.5;15;;2;ha3.png;1
+1A;p1333;low;-0.5;13;;2;hb1.png;1
+1A;p1333;low;-0.5;9;;2;hb1.png;1
+1A;p1333;low;-0.5;10;;2;hb2.png;1
+1A;p1333;low;-0.5;8;;2;hb3.png;1
+1A;p1333;low;-0.5;19;;3;ha1.png;1
+1A;p1333;low;-0.5;16;;3;ha1.png;1
+1A;p1333;low;-0.5;21;;3;ha2.png;1
+1A;p1333;low;-0.5;22;;3;ha3.png;1
+1A;p1333;low;-0.5;23;;3;hb1.png;1
+1A;p1333;low;-0.5;20;;3;hb1.png;1
+1A;p1333;low;-0.5;17;;3;hb2.png;1
+1A;p1333;low;-0.5;18;;3;hb3.png;1
+1A;p1339;low;-0.5;0;;1;ha1.png;1
+1A;p1339;low;-0.5;3;;1;ha1.png;1
+1A;p1339;low;-0.5;7;;1;ha2.png;1
+1A;p1339;low;-0.5;1;;1;ha3.png;0
+1A;p1339;low;-0.5;5;;1;hb1.png;1
+1A;p1339;low;-0.5;6;;1;hb1.png;1
+1A;p1339;low;-0.5;2;;1;hb2.png;0
+1A;p1339;low;-0.5;4;;1;hb3.png;1
+1A;p1339;low;-0.5;10;;2;ha1.png;1
+1A;p1339;low;-0.5;8;;2;ha1.png;1
+1A;p1339;low;-0.5;9;;2;ha2.png;1
+1A;p1339;low;-0.5;15;;2;ha3.png;1
+1A;p1339;low;-0.5;12;;2;hb1.png;1
+1A;p1339;low;-0.5;11;;2;hb1.png;1
+1A;p1339;low;-0.5;13;;2;hb2.png;0
+1A;p1339;low;-0.5;14;;2;hb3.png;1
+1A;p1339;low;-0.5;18;;3;ha1.png;1
+1A;p1339;low;-0.5;21;;3;ha1.png;1
+1A;p1339;low;-0.5;17;;3;ha2.png;1
+1A;p1339;low;-0.5;19;;3;ha3.png;1
+1A;p1339;low;-0.5;22;;3;hb1.png;1
+1A;p1339;low;-0.5;20;;3;hb1.png;1
+1A;p1339;low;-0.5;23;;3;hb2.png;0
+1A;p1339;low;-0.5;16;;3;hb3.png;1
+1A;p1342;low;-0.5;3;;1;ha1.png;1
+1A;p1342;low;-0.5;0;;1;ha1.png;0
+1A;p1342;low;-0.5;5;;1;ha2.png;1
+1A;p1342;low;-0.5;2;;1;ha3.png;1
+1A;p1342;low;-0.5;1;;1;hb1.png;1
+1A;p1342;low;-0.5;6;;1;hb1.png;1
+1A;p1342;low;-0.5;4;;1;hb2.png;1
+1A;p1342;low;-0.5;7;;1;hb3.png;1
+1A;p1342;low;-0.5;12;;2;ha1.png;1
+1A;p1342;low;-0.5;15;;2;ha1.png;1
+1A;p1342;low;-0.5;10;;2;ha2.png;1
+1A;p1342;low;-0.5;8;;2;ha3.png;1
+1A;p1342;low;-0.5;14;;2;hb1.png;1
+1A;p1342;low;-0.5;13;;2;hb1.png;1
+1A;p1342;low;-0.5;11;;2;hb2.png;0
+1A;p1342;low;-0.5;9;;2;hb3.png;1
+1A;p1342;low;-0.5;20;;3;ha1.png;1
+1A;p1342;low;-0.5;21;;3;ha1.png;1
+1A;p1342;low;-0.5;16;;3;ha2.png;1
+1A;p1342;low;-0.5;19;;3;ha3.png;1
+1A;p1342;low;-0.5;22;;3;hb1.png;1
+1A;p1342;low;-0.5;17;;3;hb1.png;1
+1A;p1342;low;-0.5;23;;3;hb2.png;1
+1A;p1342;low;-0.5;18;;3;hb3.png;1
+1A;p1347;high;0.5;0;;1;ha1.png;1
+1A;p1347;high;0.5;6;;1;ha1.png;1
+1A;p1347;high;0.5;2;;1;ha2.png;1
+1A;p1347;high;0.5;5;;1;ha3.png;1
+1A;p1347;high;0.5;7;;1;hb1.png;1
+1A;p1347;high;0.5;4;;1;hb1.png;1
+1A;p1347;high;0.5;1;;1;hb2.png;1
+1A;p1347;high;0.5;3;;1;hb3.png;1
+1A;p1347;high;0.5;9;;2;ha1.png;1
+1A;p1347;high;0.5;14;;2;ha1.png;1
+1A;p1347;high;0.5;10;;2;ha2.png;1
+1A;p1347;high;0.5;8;;2;ha3.png;1
+1A;p1347;high;0.5;12;;2;hb1.png;1
+1A;p1347;high;0.5;15;;2;hb1.png;1
+1A;p1347;high;0.5;13;;2;hb2.png;1
+1A;p1347;high;0.5;11;;2;hb3.png;1
+1A;p1347;high;0.5;20;;3;ha1.png;1
+1A;p1347;high;0.5;16;;3;ha1.png;1
+1A;p1347;high;0.5;18;;3;ha2.png;1
+1A;p1347;high;0.5;23;;3;ha3.png;1
+1A;p1347;high;0.5;21;;3;hb1.png;1
+1A;p1347;high;0.5;17;;3;hb1.png;1
+1A;p1347;high;0.5;22;;3;hb2.png;1
+1A;p1347;high;0.5;19;;3;hb3.png;1
+1A;p1353;high;0.5;7;;1;ha1.png;1
+1A;p1353;high;0.5;0;;1;ha1.png;1
+1A;p1353;high;0.5;2;;1;ha2.png;1
+1A;p1353;high;0.5;3;;1;ha3.png;0
+1A;p1353;high;0.5;1;;1;hb1.png;1
+1A;p1353;high;0.5;6;;1;hb1.png;1
+1A;p1353;high;0.5;5;;1;hb2.png;1
+1A;p1353;high;0.5;4;;1;hb3.png;1
+1A;p1353;high;0.5;14;;2;ha1.png;1
+1A;p1353;high;0.5;11;;2;ha1.png;1
+1A;p1353;high;0.5;12;;2;ha2.png;1
+1A;p1353;high;0.5;15;;2;ha3.png;1
+1A;p1353;high;0.5;10;;2;hb1.png;1
+1A;p1353;high;0.5;8;;2;hb1.png;1
+1A;p1353;high;0.5;13;;2;hb2.png;1
+1A;p1353;high;0.5;9;;2;hb3.png;1
+1A;p1353;high;0.5;22;;3;ha1.png;1
+1A;p1353;high;0.5;17;;3;ha1.png;1
+1A;p1353;high;0.5;21;;3;ha2.png;1
+1A;p1353;high;0.5;20;;3;ha3.png;1
+1A;p1353;high;0.5;18;;3;hb1.png;1
+1A;p1353;high;0.5;19;;3;hb1.png;1
+1A;p1353;high;0.5;23;;3;hb2.png;1
+1A;p1353;high;0.5;16;;3;hb3.png;1
+1A;p1358;low;-0.5;1;;1;ha1.png;0
+1A;p1358;low;-0.5;6;;1;ha1.png;1
+1A;p1358;low;-0.5;7;;1;ha2.png;1
+1A;p1358;low;-0.5;0;;1;ha3.png;1
+1A;p1358;low;-0.5;2;;1;hb1.png;1
+1A;p1358;low;-0.5;4;;1;hb1.png;0
+1A;p1358;low;-0.5;3;;1;hb2.png;0
+1A;p1358;low;-0.5;5;;1;hb3.png;1
+1A;p1358;low;-0.5;11;;2;ha1.png;0
+1A;p1358;low;-0.5;13;;2;ha1.png;1
+1A;p1358;low;-0.5;12;;2;ha2.png;1
+1A;p1358;low;-0.5;10;;2;ha3.png;1
+1A;p1358;low;-0.5;14;;2;hb1.png;0
+1A;p1358;low;-0.5;8;;2;hb1.png;1
+1A;p1358;low;-0.5;9;;2;hb2.png;1
+1A;p1358;low;-0.5;15;;2;hb3.png;1
+1A;p1358;low;-0.5;22;;3;ha1.png;1
+1A;p1358;low;-0.5;20;;3;ha1.png;0
+1A;p1358;low;-0.5;16;;3;ha2.png;0
+1A;p1358;low;-0.5;21;;3;ha3.png;1
+1A;p1358;low;-0.5;18;;3;hb1.png;0
+1A;p1358;low;-0.5;17;;3;hb1.png;0
+1A;p1358;low;-0.5;23;;3;hb2.png;1
+1A;p1358;low;-0.5;19;;3;hb3.png;1
+1A;p1409;high;0.5;3;;1;ha1.png;0
+1A;p1409;high;0.5;1;;1;ha1.png;1
+1A;p1409;high;0.5;7;;1;ha2.png;1
+1A;p1409;high;0.5;5;;1;ha3.png;0
+1A;p1409;high;0.5;6;;1;hb1.png;0
+1A;p1409;high;0.5;4;;1;hb1.png;0
+1A;p1409;high;0.5;2;;1;hb2.png;0
+1A;p1409;high;0.5;0;;1;hb3.png;1
+1A;p1409;high;0.5;9;;2;ha1.png;1
+1A;p1409;high;0.5;12;;2;ha1.png;1
+1A;p1409;high;0.5;15;;2;ha2.png;1
+1A;p1409;high;0.5;13;;2;ha3.png;0
+1A;p1409;high;0.5;11;;2;hb1.png;0
+1A;p1409;high;0.5;14;;2;hb1.png;1
+1A;p1409;high;0.5;8;;2;hb2.png;1
+1A;p1409;high;0.5;10;;2;hb3.png;1
+1A;p1409;high;0.5;23;;3;ha1.png;1
+1A;p1409;high;0.5;19;;3;ha1.png;1
+1A;p1409;high;0.5;21;;3;ha2.png;1
+1A;p1409;high;0.5;16;;3;ha3.png;0
+1A;p1409;high;0.5;22;;3;hb1.png;1
+1A;p1409;high;0.5;17;;3;hb1.png;1
+1A;p1409;high;0.5;18;;3;hb2.png;0
+1A;p1409;high;0.5;20;;3;hb3.png;0
+1A;p1413;low;-0.5;1;;1;ha1.png;1
+1A;p1413;low;-0.5;3;;1;ha1.png;1
+1A;p1413;low;-0.5;2;;1;ha2.png;0
+1A;p1413;low;-0.5;5;;1;ha3.png;0
+1A;p1413;low;-0.5;7;;1;hb1.png;1
+1A;p1413;low;-0.5;6;;1;hb1.png;1
+1A;p1413;low;-0.5;4;;1;hb2.png;0
+1A;p1413;low;-0.5;0;;1;hb3.png;1
+1A;p1413;low;-0.5;15;;2;ha1.png;1
+1A;p1413;low;-0.5;8;;2;ha1.png;1
+1A;p1413;low;-0.5;12;;2;ha2.png;0
+1A;p1413;low;-0.5;11;;2;ha3.png;1
+1A;p1413;low;-0.5;14;;2;hb1.png;1
+1A;p1413;low;-0.5;13;;2;hb1.png;1
+1A;p1413;low;-0.5;10;;2;hb2.png;0
+1A;p1413;low;-0.5;9;;2;hb3.png;1
+1A;p1413;low;-0.5;16;;3;ha1.png;1
+1A;p1413;low;-0.5;22;;3;ha1.png;1
+1A;p1413;low;-0.5;20;;3;ha2.png;0
+1A;p1413;low;-0.5;23;;3;ha3.png;0
+1A;p1413;low;-0.5;21;;3;hb1.png;0
+1A;p1413;low;-0.5;17;;3;hb1.png;1
+1A;p1413;low;-0.5;18;;3;hb2.png;0
+1A;p1413;low;-0.5;19;;3;hb3.png;1
+1A;p1417;low;-0.5;0;;1;ha1.png;0
+1A;p1417;low;-0.5;2;;1;ha1.png;1
+1A;p1417;low;-0.5;3;;1;ha2.png;0
+1A;p1417;low;-0.5;7;;1;ha3.png;1
+1A;p1417;low;-0.5;1;;1;hb1.png;1
+1A;p1417;low;-0.5;6;;1;hb1.png;1
+1A;p1417;low;-0.5;5;;1;hb2.png;1
+1A;p1417;low;-0.5;4;;1;hb3.png;0
+1A;p1417;low;-0.5;11;;2;ha1.png;1
+1A;p1417;low;-0.5;12;;2;ha1.png;1
+1A;p1417;low;-0.5;14;;2;ha2.png;1
+1A;p1417;low;-0.5;9;;2;ha3.png;1
+1A;p1417;low;-0.5;13;;2;hb1.png;1
+1A;p1417;low;-0.5;15;;2;hb1.png;1
+1A;p1417;low;-0.5;8;;2;hb2.png;1
+1A;p1417;low;-0.5;10;;2;hb3.png;1
+1A;p1417;low;-0.5;17;;3;ha1.png;1
+1A;p1417;low;-0.5;19;;3;ha1.png;1
+1A;p1417;low;-0.5;21;;3;ha2.png;1
+1A;p1417;low;-0.5;23;;3;ha3.png;1
+1A;p1417;low;-0.5;16;;3;hb1.png;1
+1A;p1417;low;-0.5;20;;3;hb1.png;1
+1A;p1417;low;-0.5;18;;3;hb2.png;1
+1A;p1417;low;-0.5;22;;3;hb3.png;1
+1A;p1426;high;0.5;1;;1;ha1.png;1
+1A;p1426;high;0.5;7;;1;ha1.png;1
+1A;p1426;high;0.5;6;;1;ha2.png;0
+1A;p1426;high;0.5;5;;1;ha3.png;0
+1A;p1426;high;0.5;4;;1;hb1.png;1
+1A;p1426;high;0.5;3;;1;hb1.png;1
+1A;p1426;high;0.5;0;;1;hb2.png;0
+1A;p1426;high;0.5;2;;1;hb3.png;1
+1A;p1426;high;0.5;13;;2;ha1.png;1
+1A;p1426;high;0.5;15;;2;ha1.png;1
+1A;p1426;high;0.5;14;;2;ha2.png;0
+1A;p1426;high;0.5;12;;2;ha3.png;0
+1A;p1426;high;0.5;9;;2;hb1.png;1
+1A;p1426;high;0.5;10;;2;hb1.png;0
+1A;p1426;high;0.5;11;;2;hb2.png;1
+1A;p1426;high;0.5;8;;2;hb3.png;0
+1A;p1426;high;0.5;17;;3;ha1.png;1
+1A;p1426;high;0.5;23;;3;ha1.png;1
+1A;p1426;high;0.5;20;;3;ha2.png;0
+1A;p1426;high;0.5;22;;3;ha3.png;0
+1A;p1426;high;0.5;21;;3;hb1.png;1
+1A;p1426;high;0.5;18;;3;hb1.png;0
+1A;p1426;high;0.5;16;;3;hb2.png;1
+1A;p1426;high;0.5;19;;3;hb3.png;1
+1A;p1435;high;0.5;2;;1;ha1.png;1
+1A;p1435;high;0.5;6;;1;ha1.png;1
+1A;p1435;high;0.5;4;;1;ha2.png;1
+1A;p1435;high;0.5;7;;1;ha3.png;1
+1A;p1435;high;0.5;5;;1;hb1.png;1
+1A;p1435;high;0.5;0;;1;hb1.png;0
+1A;p1435;high;0.5;3;;1;hb2.png;1
+1A;p1435;high;0.5;1;;1;hb3.png;1
+1A;p1435;high;0.5;9;;2;ha1.png;0
+1A;p1435;high;0.5;10;;2;ha1.png;1
+1A;p1435;high;0.5;13;;2;ha2.png;1
+1A;p1435;high;0.5;8;;2;ha3.png;1
+1A;p1435;high;0.5;11;;2;hb1.png;1
+1A;p1435;high;0.5;14;;2;hb1.png;1
+1A;p1435;high;0.5;15;;2;hb2.png;0
+1A;p1435;high;0.5;12;;2;hb3.png;1
+1A;p1435;high;0.5;19;;3;ha1.png;1
+1A;p1435;high;0.5;16;;3;ha1.png;1
+1A;p1435;high;0.5;17;;3;ha2.png;1
+1A;p1435;high;0.5;21;;3;ha3.png;1
+1A;p1435;high;0.5;18;;3;hb1.png;1
+1A;p1435;high;0.5;20;;3;hb1.png;1
+1A;p1435;high;0.5;23;;3;hb2.png;1
+1A;p1435;high;0.5;22;;3;hb3.png;1
+1A;p1444;low;-0.5;1;;1;ha1.png;1
+1A;p1444;low;-0.5;7;;1;ha1.png;1
+1A;p1444;low;-0.5;4;;1;ha2.png;1
+1A;p1444;low;-0.5;0;;1;ha3.png;1
+1A;p1444;low;-0.5;5;;1;hb1.png;1
+1A;p1444;low;-0.5;2;;1;hb1.png;1
+1A;p1444;low;-0.5;6;;1;hb2.png;0
+1A;p1444;low;-0.5;3;;1;hb3.png;1
+1A;p1444;low;-0.5;10;;2;ha1.png;1
+1A;p1444;low;-0.5;9;;2;ha1.png;1
+1A;p1444;low;-0.5;14;;2;ha2.png;1
+1A;p1444;low;-0.5;8;;2;ha3.png;1
+1A;p1444;low;-0.5;11;;2;hb1.png;1
+1A;p1444;low;-0.5;15;;2;hb1.png;1
+1A;p1444;low;-0.5;13;;2;hb2.png;1
+1A;p1444;low;-0.5;12;;2;hb3.png;1
+1A;p1444;low;-0.5;17;;3;ha1.png;1
+1A;p1444;low;-0.5;16;;3;ha1.png;1
+1A;p1444;low;-0.5;19;;3;ha2.png;1
+1A;p1444;low;-0.5;20;;3;ha3.png;1
+1A;p1444;low;-0.5;21;;3;hb1.png;1
+1A;p1444;low;-0.5;23;;3;hb1.png;1
+1A;p1444;low;-0.5;22;;3;hb2.png;1
+1A;p1444;low;-0.5;18;;3;hb3.png;1
+1A;p1451;low;-0.5;0;;1;ha1.png;1
+1A;p1451;low;-0.5;1;;1;ha1.png;1
+1A;p1451;low;-0.5;4;;1;ha2.png;0
+1A;p1451;low;-0.5;3;;1;ha3.png;0
+1A;p1451;low;-0.5;2;;1;hb1.png;1
+1A;p1451;low;-0.5;6;;1;hb1.png;1
+1A;p1451;low;-0.5;5;;1;hb2.png;0
+1A;p1451;low;-0.5;7;;1;hb3.png;0
+1A;p1451;low;-0.5;15;;2;ha1.png;1
+1A;p1451;low;-0.5;14;;2;ha1.png;1
+1A;p1451;low;-0.5;13;;2;ha2.png;1
+1A;p1451;low;-0.5;9;;2;ha3.png;1
+1A;p1451;low;-0.5;10;;2;hb1.png;1
+1A;p1451;low;-0.5;8;;2;hb1.png;1
+1A;p1451;low;-0.5;12;;2;hb2.png;0
+1A;p1451;low;-0.5;11;;2;hb3.png;0
+1A;p1451;low;-0.5;19;;3;ha1.png;1
+1A;p1451;low;-0.5;16;;3;ha1.png;1
+1A;p1451;low;-0.5;21;;3;ha2.png;1
+1A;p1451;low;-0.5;22;;3;ha3.png;1
+1A;p1451;low;-0.5;20;;3;hb1.png;1
+1A;p1451;low;-0.5;18;;3;hb1.png;1
+1A;p1451;low;-0.5;23;;3;hb2.png;1
+1A;p1451;low;-0.5;17;;3;hb3.png;1
+1A;p1453;high;0.5;7;;1;ha1.png;1
+1A;p1453;high;0.5;4;;1;ha1.png;1
+1A;p1453;high;0.5;5;;1;ha2.png;1
+1A;p1453;high;0.5;1;;1;ha3.png;0
+1A;p1453;high;0.5;2;;1;hb1.png;1
+1A;p1453;high;0.5;3;;1;hb1.png;1
+1A;p1453;high;0.5;6;;1;hb2.png;1
+1A;p1453;high;0.5;0;;1;hb3.png;1
+1A;p1453;high;0.5;8;;2;ha1.png;1
+1A;p1453;high;0.5;13;;2;ha1.png;1
+1A;p1453;high;0.5;15;;2;ha2.png;1
+1A;p1453;high;0.5;10;;2;ha3.png;1
+1A;p1453;high;0.5;9;;2;hb1.png;1
+1A;p1453;high;0.5;12;;2;hb1.png;0
+1A;p1453;high;0.5;11;;2;hb2.png;1
+1A;p1453;high;0.5;14;;2;hb3.png;1
+1A;p1453;high;0.5;23;;3;ha1.png;1
+1A;p1453;high;0.5;18;;3;ha1.png;1
+1A;p1453;high;0.5;19;;3;ha2.png;1
+1A;p1453;high;0.5;16;;3;ha3.png;1
+1A;p1453;high;0.5;21;;3;hb1.png;1
+1A;p1453;high;0.5;20;;3;hb1.png;1
+1A;p1453;high;0.5;17;;3;hb2.png;1
+1A;p1453;high;0.5;22;;3;hb3.png;1
+1A;p1514;high;0.5;3;;1;ha1.png;1
+1A;p1514;high;0.5;0;;1;ha1.png;1
+1A;p1514;high;0.5;6;;1;ha2.png;1
+1A;p1514;high;0.5;1;;1;ha3.png;0
+1A;p1514;high;0.5;7;;1;hb1.png;1
+1A;p1514;high;0.5;5;;1;hb1.png;1
+1A;p1514;high;0.5;2;;1;hb2.png;1
+1A;p1514;high;0.5;4;;1;hb3.png;0
+1A;p1514;high;0.5;13;;2;ha1.png;1
+1A;p1514;high;0.5;12;;2;ha1.png;1
+1A;p1514;high;0.5;11;;2;ha2.png;1
+1A;p1514;high;0.5;14;;2;ha3.png;0
+1A;p1514;high;0.5;10;;2;hb1.png;1
+1A;p1514;high;0.5;9;;2;hb1.png;1
+1A;p1514;high;0.5;15;;2;hb2.png;0
+1A;p1514;high;0.5;8;;2;hb3.png;0
+1A;p1514;high;0.5;18;;3;ha1.png;1
+1A;p1514;high;0.5;17;;3;ha1.png;1
+1A;p1514;high;0.5;20;;3;ha2.png;1
+1A;p1514;high;0.5;23;;3;ha3.png;1
+1A;p1514;high;0.5;21;;3;hb1.png;1
+1A;p1514;high;0.5;19;;3;hb1.png;1
+1A;p1514;high;0.5;16;;3;hb2.png;1
+1A;p1514;high;0.5;22;;3;hb3.png;0
+1A;pp1514;low;-0.5;5;;1;ha1.png;1
+1A;pp1514;low;-0.5;2;;1;ha1.png;1
+1A;pp1514;low;-0.5;3;;1;ha2.png;1
+1A;pp1514;low;-0.5;1;;1;ha3.png;0
+1A;pp1514;low;-0.5;7;;1;hb1.png;1
+1A;pp1514;low;-0.5;6;;1;hb1.png;1
+1A;pp1514;low;-0.5;0;;1;hb2.png;0
+1A;pp1514;low;-0.5;4;;1;hb3.png;0
+1A;pp1514;low;-0.5;11;;2;ha1.png;1
+1A;pp1514;low;-0.5;14;;2;ha1.png;1
+1A;pp1514;low;-0.5;9;;2;ha2.png;1
+1A;pp1514;low;-0.5;10;;2;ha3.png;1
+1A;pp1514;low;-0.5;13;;2;hb1.png;1
+1A;pp1514;low;-0.5;12;;2;hb1.png;1
+1A;pp1514;low;-0.5;15;;2;hb2.png;1
+1A;pp1514;low;-0.5;8;;2;hb3.png;1
+1A;pp1514;low;-0.5;18;;3;ha1.png;1
+1A;pp1514;low;-0.5;17;;3;ha1.png;1
+1A;pp1514;low;-0.5;23;;3;ha2.png;1
+1A;pp1514;low;-0.5;20;;3;ha3.png;1
+1A;pp1514;low;-0.5;16;;3;hb1.png;1
+1A;pp1514;low;-0.5;21;;3;hb1.png;1
+1A;pp1514;low;-0.5;22;;3;hb2.png;0
+1A;pp1514;low;-0.5;19;;3;hb3.png;0
+1A;p1523;low;-0.5;5;;1;ha1.png;1
+1A;p1523;low;-0.5;4;;1;ha1.png;1
+1A;p1523;low;-0.5;1;;1;ha2.png;1
+1A;p1523;low;-0.5;3;;1;ha3.png;1
+1A;p1523;low;-0.5;2;;1;hb1.png;1
+1A;p1523;low;-0.5;7;;1;hb1.png;1
+1A;p1523;low;-0.5;0;;1;hb2.png;1
+1A;p1523;low;-0.5;6;;1;hb3.png;1
+1A;p1523;low;-0.5;11;;2;ha1.png;1
+1A;p1523;low;-0.5;15;;2;ha1.png;1
+1A;p1523;low;-0.5;9;;2;ha2.png;1
+1A;p1523;low;-0.5;12;;2;ha3.png;1
+1A;p1523;low;-0.5;13;;2;hb1.png;1
+1A;p1523;low;-0.5;8;;2;hb1.png;1
+1A;p1523;low;-0.5;10;;2;hb2.png;1
+1A;p1523;low;-0.5;14;;2;hb3.png;0
+1A;p1523;low;-0.5;23;;3;ha1.png;1
+1A;p1523;low;-0.5;17;;3;ha1.png;1
+1A;p1523;low;-0.5;22;;3;ha2.png;1
+1A;p1523;low;-0.5;20;;3;ha3.png;1
+1A;p1523;low;-0.5;19;;3;hb1.png;1
+1A;p1523;low;-0.5;18;;3;hb1.png;1
+1A;p1523;low;-0.5;21;;3;hb2.png;1
+1A;p1523;low;-0.5;16;;3;hb3.png;1
+1A;p1527;high;0.5;1;;1;ha1.png;1
+1A;p1527;high;0.5;5;;1;ha1.png;1
+1A;p1527;high;0.5;7;;1;ha2.png;1
+1A;p1527;high;0.5;2;;1;ha3.png;1
+1A;p1527;high;0.5;0;;1;hb1.png;0
+1A;p1527;high;0.5;3;;1;hb1.png;1
+1A;p1527;high;0.5;4;;1;hb2.png;1
+1A;p1527;high;0.5;6;;1;hb3.png;1
+1A;p1527;high;0.5;14;;2;ha1.png;1
+1A;p1527;high;0.5;15;;2;ha1.png;1
+1A;p1527;high;0.5;12;;2;ha2.png;1
+1A;p1527;high;0.5;13;;2;ha3.png;1
+1A;p1527;high;0.5;10;;2;hb1.png;1
+1A;p1527;high;0.5;9;;2;hb1.png;1
+1A;p1527;high;0.5;8;;2;hb2.png;1
+1A;p1527;high;0.5;11;;2;hb3.png;1
+1A;p1527;high;0.5;23;;3;ha1.png;1
+1A;p1527;high;0.5;16;;3;ha1.png;1
+1A;p1527;high;0.5;17;;3;ha2.png;1
+1A;p1527;high;0.5;18;;3;ha3.png;1
+1A;p1527;high;0.5;20;;3;hb1.png;1
+1A;p1527;high;0.5;19;;3;hb1.png;1
+1A;p1527;high;0.5;21;;3;hb2.png;1
+1A;p1527;high;0.5;22;;3;hb3.png;1
+1A;p1533;high;0.5;0;;1;ha1.png;1
+1A;p1533;high;0.5;5;;1;ha1.png;1
+1A;p1533;high;0.5;2;;1;ha2.png;1
+1A;p1533;high;0.5;3;;1;ha3.png;0
+1A;p1533;high;0.5;7;;1;hb1.png;1
+1A;p1533;high;0.5;6;;1;hb1.png;1
+1A;p1533;high;0.5;1;;1;hb2.png;1
+1A;p1533;high;0.5;4;;1;hb3.png;1
+1A;p1533;high;0.5;12;;2;ha1.png;1
+1A;p1533;high;0.5;14;;2;ha1.png;1
+1A;p1533;high;0.5;10;;2;ha2.png;1
+1A;p1533;high;0.5;13;;2;ha3.png;1
+1A;p1533;high;0.5;15;;2;hb1.png;1
+1A;p1533;high;0.5;9;;2;hb1.png;1
+1A;p1533;high;0.5;8;;2;hb2.png;1
+1A;p1533;high;0.5;11;;2;hb3.png;1
+1A;p1533;high;0.5;23;;3;ha1.png;1
+1A;p1533;high;0.5;21;;3;ha1.png;1
+1A;p1533;high;0.5;18;;3;ha2.png;1
+1A;p1533;high;0.5;22;;3;ha3.png;1
+1A;p1533;high;0.5;19;;3;hb1.png;1
+1A;p1533;high;0.5;20;;3;hb1.png;1
+1A;p1533;high;0.5;17;;3;hb2.png;1
+1A;p1533;high;0.5;16;;3;hb3.png;1
+1A;p1537;low;-0.5;2;;1;ha1.png;1
+1A;p1537;low;-0.5;6;;1;ha1.png;0
+1A;p1537;low;-0.5;7;;1;ha2.png;1
+1A;p1537;low;-0.5;4;;1;ha3.png;0
+1A;p1537;low;-0.5;0;;1;hb1.png;1
+1A;p1537;low;-0.5;3;;1;hb1.png;0
+1A;p1537;low;-0.5;5;;1;hb2.png;1
+1A;p1537;low;-0.5;1;;1;hb3.png;1
+1A;p1537;low;-0.5;8;;2;ha1.png;1
+1A;p1537;low;-0.5;15;;2;ha1.png;1
+1A;p1537;low;-0.5;10;;2;ha2.png;0
+1A;p1537;low;-0.5;11;;2;ha3.png;1
+1A;p1537;low;-0.5;13;;2;hb1.png;1
+1A;p1537;low;-0.5;12;;2;hb1.png;1
+1A;p1537;low;-0.5;9;;2;hb2.png;1
+1A;p1537;low;-0.5;14;;2;hb3.png;1
+1A;p1537;low;-0.5;18;;3;ha1.png;1
+1A;p1537;low;-0.5;16;;3;ha1.png;1
+1A;p1537;low;-0.5;17;;3;ha2.png;1
+1A;p1537;low;-0.5;22;;3;ha3.png;1
+1A;p1537;low;-0.5;21;;3;hb1.png;1
+1A;p1537;low;-0.5;23;;3;hb1.png;1
+1A;p1537;low;-0.5;20;;3;hb2.png;1
+1A;p1537;low;-0.5;19;;3;hb3.png;1
+1A;p1549;low;-0.5;3;;1;ha1.png;0
+1A;p1549;low;-0.5;4;;1;ha1.png;1
+1A;p1549;low;-0.5;7;;1;ha2.png;1
+1A;p1549;low;-0.5;2;;1;ha3.png;1
+1A;p1549;low;-0.5;1;;1;hb1.png;1
+1A;p1549;low;-0.5;0;;1;hb1.png;1
+1A;p1549;low;-0.5;6;;1;hb2.png;0
+1A;p1549;low;-0.5;5;;1;hb3.png;0
+1A;p1549;low;-0.5;12;;2;ha1.png;1
+1A;p1549;low;-0.5;10;;2;ha1.png;1
+1A;p1549;low;-0.5;9;;2;ha2.png;1
+1A;p1549;low;-0.5;11;;2;ha3.png;1
+1A;p1549;low;-0.5;13;;2;hb1.png;1
+1A;p1549;low;-0.5;8;;2;hb1.png;1
+1A;p1549;low;-0.5;14;;2;hb2.png;0
+1A;p1549;low;-0.5;15;;2;hb3.png;1
+1A;p1549;low;-0.5;16;;3;ha1.png;1
+1A;p1549;low;-0.5;19;;3;ha1.png;1
+1A;p1549;low;-0.5;18;;3;ha2.png;1
+1A;p1549;low;-0.5;22;;3;ha3.png;1
+1A;p1549;low;-0.5;21;;3;hb1.png;1
+1A;p1549;low;-0.5;20;;3;hb1.png;1
+1A;p1549;low;-0.5;23;;3;hb2.png;1
+1A;p1549;low;-0.5;17;;3;hb3.png;1
+1A;p1600;high;0.5;4;;1;ha1.png;1
+1A;p1600;high;0.5;6;;1;ha1.png;1
+1A;p1600;high;0.5;7;;1;ha2.png;0
+1A;p1600;high;0.5;0;;1;ha3.png;1
+1A;p1600;high;0.5;5;;1;hb1.png;0
+1A;p1600;high;0.5;1;;1;hb1.png;0
+1A;p1600;high;0.5;3;;1;hb2.png;1
+1A;p1600;high;0.5;2;;1;hb3.png;0
+1A;p1600;high;0.5;12;;2;ha1.png;1
+1A;p1600;high;0.5;13;;2;ha1.png;1
+1A;p1600;high;0.5;15;;2;ha2.png;1
+1A;p1600;high;0.5;8;;2;ha3.png;1
+1A;p1600;high;0.5;10;;2;hb1.png;1
+1A;p1600;high;0.5;11;;2;hb1.png;1
+1A;p1600;high;0.5;14;;2;hb2.png;1
+1A;p1600;high;0.5;9;;2;hb3.png;1
+1A;p1600;high;0.5;22;;3;ha1.png;1
+1A;p1600;high;0.5;16;;3;ha1.png;1
+1A;p1600;high;0.5;20;;3;ha2.png;1
+1A;p1600;high;0.5;21;;3;ha3.png;1
+1A;p1600;high;0.5;18;;3;hb1.png;1
+1A;p1600;high;0.5;23;;3;hb1.png;1
+1A;p1600;high;0.5;17;;3;hb2.png;1
+1A;p1600;high;0.5;19;;3;hb3.png;0
+1A;p1604;low;-0.5;5;;1;ha1.png;1
+1A;p1604;low;-0.5;2;;1;ha1.png;1
+1A;p1604;low;-0.5;6;;1;ha2.png;1
+1A;p1604;low;-0.5;1;;1;ha3.png;1
+1A;p1604;low;-0.5;7;;1;hb1.png;1
+1A;p1604;low;-0.5;4;;1;hb1.png;1
+1A;p1604;low;-0.5;3;;1;hb2.png;0
+1A;p1604;low;-0.5;0;;1;hb3.png;0
+1A;p1604;low;-0.5;10;;2;ha1.png;1
+1A;p1604;low;-0.5;14;;2;ha1.png;1
+1A;p1604;low;-0.5;8;;2;ha2.png;1
+1A;p1604;low;-0.5;13;;2;ha3.png;0
+1A;p1604;low;-0.5;9;;2;hb1.png;1
+1A;p1604;low;-0.5;11;;2;hb1.png;1
+1A;p1604;low;-0.5;12;;2;hb2.png;0
+1A;p1604;low;-0.5;15;;2;hb3.png;1
+1A;p1604;low;-0.5;20;;3;ha1.png;1
+1A;p1604;low;-0.5;18;;3;ha1.png;0
+1A;p1604;low;-0.5;19;;3;ha2.png;1
+1A;p1604;low;-0.5;17;;3;ha3.png;1
+1A;p1604;low;-0.5;16;;3;hb1.png;1
+1A;p1604;low;-0.5;22;;3;hb1.png;1
+1A;p1604;low;-0.5;23;;3;hb2.png;1
+1A;p1604;low;-0.5;21;;3;hb3.png;1
+1A;p1646;high;0.5;2;;1;ha1.png;1
+1A;p1646;high;0.5;5;;1;ha1.png;1
+1A;p1646;high;0.5;4;;1;ha2.png;1
+1A;p1646;high;0.5;3;;1;ha3.png;1
+1A;p1646;high;0.5;1;;1;hb1.png;0
+1A;p1646;high;0.5;7;;1;hb1.png;1
+1A;p1646;high;0.5;6;;1;hb2.png;1
+1A;p1646;high;0.5;0;;1;hb3.png;0
+1A;p1646;high;0.5;14;;2;ha1.png;1
+1A;p1646;high;0.5;8;;2;ha1.png;1
+1A;p1646;high;0.5;9;;2;ha2.png;1
+1A;p1646;high;0.5;13;;2;ha3.png;1
+1A;p1646;high;0.5;11;;2;hb1.png;1
+1A;p1646;high;0.5;10;;2;hb1.png;1
+1A;p1646;high;0.5;12;;2;hb2.png;1
+1A;p1646;high;0.5;15;;2;hb3.png;1
+1A;p1646;high;0.5;21;;3;ha1.png;1
+1A;p1646;high;0.5;20;;3;ha1.png;1
+1A;p1646;high;0.5;17;;3;ha2.png;1
+1A;p1646;high;0.5;23;;3;ha3.png;1
+1A;p1646;high;0.5;22;;3;hb1.png;1
+1A;p1646;high;0.5;19;;3;hb1.png;1
+1A;p1646;high;0.5;18;;3;hb2.png;1
+1A;p1646;high;0.5;16;;3;hb3.png;1
+1A;p1705;low;-0.5;7;;1;ha1.png;1
+1A;p1705;low;-0.5;6;;1;ha1.png;1
+1A;p1705;low;-0.5;0;;1;ha2.png;1
+1A;p1705;low;-0.5;4;;1;ha3.png;1
+1A;p1705;low;-0.5;1;;1;hb1.png;0
+1A;p1705;low;-0.5;2;;1;hb1.png;1
+1A;p1705;low;-0.5;3;;1;hb2.png;1
+1A;p1705;low;-0.5;5;;1;hb3.png;0
+1A;p1705;low;-0.5;9;;2;ha1.png;1
+1A;p1705;low;-0.5;15;;2;ha1.png;1
+1A;p1705;low;-0.5;13;;2;ha2.png;1
+1A;p1705;low;-0.5;10;;2;ha3.png;0
+1A;p1705;low;-0.5;14;;2;hb1.png;1
+1A;p1705;low;-0.5;11;;2;hb1.png;1
+1A;p1705;low;-0.5;8;;2;hb2.png;1
+1A;p1705;low;-0.5;12;;2;hb3.png;0
+1A;p1705;low;-0.5;19;;3;ha1.png;1
+1A;p1705;low;-0.5;22;;3;ha1.png;1
+1A;p1705;low;-0.5;23;;3;ha2.png;1
+1A;p1705;low;-0.5;18;;3;ha3.png;1
+1A;p1705;low;-0.5;21;;3;hb1.png;1
+1A;p1705;low;-0.5;20;;3;hb1.png;1
+1A;p1705;low;-0.5;16;;3;hb2.png;1
+1A;p1705;low;-0.5;17;;3;hb3.png;1
+1A;p1720;high;0.5;4;;1;ha1.png;1
+1A;p1720;high;0.5;6;;1;ha1.png;1
+1A;p1720;high;0.5;5;;1;ha2.png;1
+1A;p1720;high;0.5;0;;1;ha3.png;1
+1A;p1720;high;0.5;1;;1;hb1.png;1
+1A;p1720;high;0.5;2;;1;hb1.png;1
+1A;p1720;high;0.5;3;;1;hb2.png;1
+1A;p1720;high;0.5;7;;1;hb3.png;1
+1A;p1720;high;0.5;11;;2;ha1.png;1
+1A;p1720;high;0.5;10;;2;ha1.png;1
+1A;p1720;high;0.5;15;;2;ha2.png;1
+1A;p1720;high;0.5;8;;2;ha3.png;0
+1A;p1720;high;0.5;13;;2;hb1.png;0
+1A;p1720;high;0.5;14;;2;hb1.png;1
+1A;p1720;high;0.5;9;;2;hb2.png;0
+1A;p1720;high;0.5;12;;2;hb3.png;0
+1A;p1720;high;0.5;17;;3;ha1.png;1
+1A;p1720;high;0.5;16;;3;ha1.png;1
+1A;p1720;high;0.5;19;;3;ha2.png;1
+1A;p1720;high;0.5;22;;3;ha3.png;1
+1A;p1720;high;0.5;21;;3;hb1.png;1
+1A;p1720;high;0.5;23;;3;hb1.png;1
+1A;p1720;high;0.5;18;;3;hb2.png;1
+1A;p1720;high;0.5;20;;3;hb3.png;1
+3;Тропаревская;high;0,5;7;;1;ha1.png;1
+3;Тропаревская;high;0,5;3;;1;ha1.png;1
+3;Тропаревская;high;0,5;2;;1;ha2.png;0
+3;Тропаревская;high;0,5;4;;1;ha3.png;0
+3;Тропаревская;high;0,5;6;;1;hb1.png;1
+3;Тропаревская;high;0,5;1;;1;hb1.png;1
+3;Тропаревская;high;0,5;5;;1;hb2.png;0
+3;Тропаревская;high;0,5;0;;1;hb3.png;0
+3;Тропаревская;high;0,5;14;;2;ha1.png;1
+3;Тропаревская;high;0,5;9;;2;ha1.png;1
+3;Тропаревская;high;0,5;11;;2;ha2.png;0
+3;Тропаревская;high;0,5;10;;2;ha3.png;0
+3;Тропаревская;high;0,5;8;;2;hb1.png;1
+3;Тропаревская;high;0,5;12;;2;hb1.png;1
+3;Тропаревская;high;0,5;13;;2;hb2.png;0
+3;Тропаревская;high;0,5;15;;2;hb3.png;0
+3;Тропаревская;high;0,5;22;;3;ha1.png;1
+3;Тропаревская;high;0,5;16;;3;ha1.png;1
+3;Тропаревская;high;0,5;18;;3;ha2.png;1
+3;Тропаревская;high;0,5;20;;3;ha3.png;0
+3;Тропаревская;high;0,5;21;;3;hb1.png;0
+3;Тропаревская;high;0,5;17;;3;hb1.png;1
+3;Тропаревская;high;0,5;23;;3;hb2.png;0
+3;Тропаревская;high;0,5;19;;3;hb3.png;1
+3;Минакин;high;0,5;3;;1;ha1.png;0
+3;Минакин;high;0,5;4;;1;ha1.png;0
+3;Минакин;high;0,5;2;;1;ha2.png;1
+3;Минакин;high;0,5;7;;1;ha3.png;0
+3;Минакин;high;0,5;1;;1;hb1.png;0
+3;Минакин;high;0,5;0;;1;hb1.png;1
+3;Минакин;high;0,5;6;;1;hb2.png;0
+3;Минакин;high;0,5;5;;1;hb3.png;0
+3;Минакин;high;0,5;15;;2;ha1.png;1
+3;Минакин;high;0,5;12;;2;ha1.png;1
+3;Минакин;high;0,5;11;;2;ha2.png;1
+3;Минакин;high;0,5;10;;2;ha3.png;0
+3;Минакин;high;0,5;8;;2;hb1.png;0
+3;Минакин;high;0,5;9;;2;hb1.png;0
+3;Минакин;high;0,5;14;;2;hb2.png;1
+3;Минакин;high;0,5;13;;2;hb3.png;1
+3;Минакин;high;0,5;22;;3;ha1.png;1
+3;Минакин;high;0,5;18;;3;ha1.png;1
+3;Минакин;high;0,5;19;;3;ha2.png;0
+3;Минакин;high;0,5;17;;3;ha3.png;0
+3;Минакин;high;0,5;20;;3;hb1.png;1
+3;Минакин;high;0,5;21;;3;hb1.png;0
+3;Минакин;high;0,5;16;;3;hb2.png;0
+3;Минакин;high;0,5;23;;3;hb3.png;1
+3;Никитина;low;-0,5;2;;1;la1.png;1
+3;Никитина;low;-0,5;3;;1;la1.png;1
+3;Никитина;low;-0,5;6;;1;la2.png;1
+3;Никитина;low;-0,5;0;;1;la3.png;0
+3;Никитина;low;-0,5;5;;1;lb1.png;1
+3;Никитина;low;-0,5;4;;1;lb1.png;0
+3;Никитина;low;-0,5;1;;1;lb2.png;1
+3;Никитина;low;-0,5;7;;1;lb3.png;1
+3;Никитина;low;-0,5;9;;2;la1.png;1
+3;Никитина;low;-0,5;11;;2;la1.png;1
+3;Никитина;low;-0,5;13;;2;la2.png;0
+3;Никитина;low;-0,5;15;;2;la3.png;1
+3;Никитина;low;-0,5;8;;2;lb1.png;0
+3;Никитина;low;-0,5;14;;2;lb1.png;0
+3;Никитина;low;-0,5;10;;2;lb2.png;1
+3;Никитина;low;-0,5;12;;2;lb3.png;1
+3;Никитина;low;-0,5;20;;3;la1.png;1
+3;Никитина;low;-0,5;23;;3;la1.png;1
+3;Никитина;low;-0,5;19;;3;la2.png;1
+3;Никитина;low;-0,5;18;;3;la3.png;0
+3;Никитина;low;-0,5;21;;3;lb1.png;1
+3;Никитина;low;-0,5;16;;3;lb1.png;1
+3;Никитина;low;-0,5;22;;3;lb2.png;0
+3;Никитина;low;-0,5;17;;3;lb3.png;0
+3;Бауэр;low;-0,5;5;;1;la1.png;1
+3;Бауэр;low;-0,5;7;;1;la1.png;1
+3;Бауэр;low;-0,5;6;;1;la2.png;1
+3;Бауэр;low;-0,5;2;;1;la3.png;1
+3;Бауэр;low;-0,5;0;;1;lb1.png;1
+3;Бауэр;low;-0,5;1;;1;lb1.png;1
+3;Бауэр;low;-0,5;3;;1;lb2.png;1
+3;Бауэр;low;-0,5;4;;1;lb3.png;1
+3;Бауэр;low;-0,5;9;;2;la1.png;1
+3;Бауэр;low;-0,5;14;;2;la1.png;1
+3;Бауэр;low;-0,5;10;;2;la2.png;1
+3;Бауэр;low;-0,5;8;;2;la3.png;1
+3;Бауэр;low;-0,5;11;;2;lb1.png;1
+3;Бауэр;low;-0,5;13;;2;lb1.png;1
+3;Бауэр;low;-0,5;12;;2;lb2.png;1
+3;Бауэр;low;-0,5;15;;2;lb3.png;1
+3;Бауэр;low;-0,5;21;;3;la1.png;1
+3;Бауэр;low;-0,5;17;;3;la1.png;1
+3;Бауэр;low;-0,5;23;;3;la2.png;1
+3;Бауэр;low;-0,5;20;;3;la3.png;1
+3;Бауэр;low;-0,5;19;;3;lb1.png;1
+3;Бауэр;low;-0,5;18;;3;lb1.png;1
+3;Бауэр;low;-0,5;22;;3;lb2.png;1
+3;Бауэр;low;-0,5;16;;3;lb3.png;1
+3;сыцко;low;-0,5;5;;1;la1.png;1
+3;сыцко;low;-0,5;2;;1;la1.png;0
+3;сыцко;low;-0,5;4;;1;la2.png;0
+3;сыцко;low;-0,5;7;;1;la3.png;1
+3;сыцко;low;-0,5;6;;1;lb1.png;1
+3;сыцко;low;-0,5;3;;1;lb1.png;1
+3;сыцко;low;-0,5;0;;1;lb2.png;0
+3;сыцко;low;-0,5;1;;1;lb3.png;0
+3;сыцко;low;-0,5;13;;2;la1.png;0
+3;сыцко;low;-0,5;12;;2;la1.png;0
+3;сыцко;low;-0,5;14;;2;la2.png;0
+3;сыцко;low;-0,5;8;;2;la3.png;1
+3;сыцко;low;-0,5;15;;2;lb1.png;1
+3;сыцко;low;-0,5;9;;2;lb1.png;0
+3;сыцко;low;-0,5;10;;2;lb2.png;0
+3;сыцко;low;-0,5;11;;2;lb3.png;1
+3;сыцко;low;-0,5;17;;3;la1.png;0
+3;сыцко;low;-0,5;16;;3;la1.png;1
+3;сыцко;low;-0,5;18;;3;la2.png;0
+3;сыцко;low;-0,5;22;;3;la3.png;1
+3;сыцко;low;-0,5;20;;3;lb1.png;1
+3;сыцко;low;-0,5;19;;3;lb1.png;0
+3;сыцко;low;-0,5;23;;3;lb2.png;0
+3;сыцко;low;-0,5;21;;3;lb3.png;1
+3;Гибанов;high;0,5;0;;1;ha1.png;0
+3;Гибанов;high;0,5;4;;1;ha1.png;1
+3;Гибанов;high;0,5;2;;1;ha2.png;0
+3;Гибанов;high;0,5;1;;1;ha3.png;1
+3;Гибанов;high;0,5;7;;1;hb1.png;1
+3;Гибанов;high;0,5;3;;1;hb1.png;1
+3;Гибанов;high;0,5;6;;1;hb2.png;0
+3;Гибанов;high;0,5;5;;1;hb3.png;0
+3;Гибанов;high;0,5;12;;2;ha1.png;1
+3;Гибанов;high;0,5;9;;2;ha1.png;1
+3;Гибанов;high;0,5;10;;2;ha2.png;1
+3;Гибанов;high;0,5;8;;2;ha3.png;0
+3;Гибанов;high;0,5;14;;2;hb1.png;1
+3;Гибанов;high;0,5;13;;2;hb1.png;0
+3;Гибанов;high;0,5;15;;2;hb2.png;0
+3;Гибанов;high;0,5;11;;2;hb3.png;0
+3;Гибанов;high;0,5;20;;3;ha1.png;1
+3;Гибанов;high;0,5;18;;3;ha1.png;1
+3;Гибанов;high;0,5;16;;3;ha2.png;0
+3;Гибанов;high;0,5;22;;3;ha3.png;1
+3;Гибанов;high;0,5;23;;3;hb1.png;1
+3;Гибанов;high;0,5;19;;3;hb1.png;0
+3;Гибанов;high;0,5;21;;3;hb2.png;1
+3;Гибанов;high;0,5;17;;3;hb3.png;0
+3;Манучаров;high;0,5;6;;1;ha1.png;0
+3;Манучаров;high;0,5;3;;1;ha1.png;0
+3;Манучаров;high;0,5;4;;1;ha2.png;1
+3;Манучаров;high;0,5;5;;1;ha3.png;1
+3;Манучаров;high;0,5;0;;1;hb1.png;1
+3;Манучаров;high;0,5;1;;1;hb1.png;1
+3;Манучаров;high;0,5;7;;1;hb2.png;1
+3;Манучаров;high;0,5;2;;1;hb3.png;1
+3;Манучаров;high;0,5;13;;2;ha1.png;1
+3;Манучаров;high;0,5;10;;2;ha1.png;1
+3;Манучаров;high;0,5;8;;2;ha2.png;1
+3;Манучаров;high;0,5;9;;2;ha3.png;1
+3;Манучаров;high;0,5;15;;2;hb1.png;1
+3;Манучаров;high;0,5;11;;2;hb1.png;1
+3;Манучаров;high;0,5;12;;2;hb2.png;1
+3;Манучаров;high;0,5;14;;2;hb3.png;1
+3;Манучаров;high;0,5;18;;3;ha1.png;1
+3;Манучаров;high;0,5;21;;3;ha1.png;1
+3;Манучаров;high;0,5;17;;3;ha2.png;1
+3;Манучаров;high;0,5;19;;3;ha3.png;1
+3;Манучаров;high;0,5;23;;3;hb1.png;1
+3;Манучаров;high;0,5;16;;3;hb1.png;1
+3;Манучаров;high;0,5;20;;3;hb2.png;1
+3;Манучаров;high;0,5;22;;3;hb3.png;1
+3;Ивашков;low;-0,5;7;;1;la1.png;1
+3;Ивашков;low;-0,5;0;;1;la1.png;1
+3;Ивашков;low;-0,5;6;;1;la2.png;0
+3;Ивашков;low;-0,5;1;;1;la3.png;0
+3;Ивашков;low;-0,5;2;;1;lb1.png;1
+3;Ивашков;low;-0,5;3;;1;lb1.png;0
+3;Ивашков;low;-0,5;4;;1;lb2.png;0
+3;Ивашков;low;-0,5;5;;1;lb3.png;1
+3;Ивашков;low;-0,5;10;;2;la1.png;1
+3;Ивашков;low;-0,5;8;;2;la1.png;1
+3;Ивашков;low;-0,5;13;;2;la2.png;0
+3;Ивашков;low;-0,5;9;;2;la3.png;0
+3;Ивашков;low;-0,5;12;;2;lb1.png;1
+3;Ивашков;low;-0,5;11;;2;lb1.png;1
+3;Ивашков;low;-0,5;15;;2;lb2.png;0
+3;Ивашков;low;-0,5;14;;2;lb3.png;0
+3;Ивашков;low;-0,5;23;;3;la1.png;1
+3;Ивашков;low;-0,5;16;;3;la1.png;0
+3;Ивашков;low;-0,5;18;;3;la2.png;0
+3;Ивашков;low;-0,5;22;;3;la3.png;0
+3;Ивашков;low;-0,5;17;;3;lb1.png;1
+3;Ивашков;low;-0,5;20;;3;lb1.png;0
+3;Ивашков;low;-0,5;21;;3;lb2.png;0
+3;Ивашков;low;-0,5;19;;3;lb3.png;1
+3;Жигалов;low;-0,5;3;;1;la1.png;1
+3;Жигалов;low;-0,5;5;;1;la1.png;1
+3;Жигалов;low;-0,5;6;;1;la2.png;0
+3;Жигалов;low;-0,5;0;;1;la3.png;0
+3;Жигалов;low;-0,5;1;;1;lb1.png;0
+3;Жигалов;low;-0,5;7;;1;lb1.png;1
+3;Жигалов;low;-0,5;2;;1;lb2.png;0
+3;Жигалов;low;-0,5;4;;1;lb3.png;1
+3;Жигалов;low;-0,5;11;;2;la1.png;1
+3;Жигалов;low;-0,5;15;;2;la1.png;1
+3;Жигалов;low;-0,5;13;;2;la2.png;1
+3;Жигалов;low;-0,5;8;;2;la3.png;1
+3;Жигалов;low;-0,5;9;;2;lb1.png;1
+3;Жигалов;low;-0,5;14;;2;lb1.png;1
+3;Жигалов;low;-0,5;10;;2;lb2.png;0
+3;Жигалов;low;-0,5;12;;2;lb3.png;1
+3;Жигалов;low;-0,5;17;;3;la1.png;1
+3;Жигалов;low;-0,5;20;;3;la1.png;1
+3;Жигалов;low;-0,5;19;;3;la2.png;0
+3;Жигалов;low;-0,5;18;;3;la3.png;1
+3;Жигалов;low;-0,5;16;;3;lb1.png;1
+3;Жигалов;low;-0,5;21;;3;lb1.png;1
+3;Жигалов;low;-0,5;22;;3;lb2.png;0
+3;Жигалов;low;-0,5;23;;3;lb3.png;1
+3;Хадикова;low;-0,5;4;;1;la1.png;0
+3;Хадикова;low;-0,5;0;;1;la1.png;0
+3;Хадикова;low;-0,5;1;;1;la2.png;0
+3;Хадикова;low;-0,5;3;;1;la3.png;0
+3;Хадикова;low;-0,5;6;;1;lb1.png;1
+3;Хадикова;low;-0,5;7;;1;lb1.png;1
+3;Хадикова;low;-0,5;5;;1;lb2.png;0
+3;Хадикова;low;-0,5;2;;1;lb3.png;0
+3;Хадикова;low;-0,5;11;;2;la1.png;1
+3;Хадикова;low;-0,5;13;;2;la1.png;1
+3;Хадикова;low;-0,5;10;;2;la2.png;1
+3;Хадикова;low;-0,5;12;;2;la3.png;1
+3;Хадикова;low;-0,5;8;;2;lb1.png;1
+3;Хадикова;low;-0,5;9;;2;lb1.png;1
+3;Хадикова;low;-0,5;15;;2;lb2.png;1
+3;Хадикова;low;-0,5;14;;2;lb3.png;1
+3;Хадикова;low;-0,5;18;;3;la1.png;1
+3;Хадикова;low;-0,5;20;;3;la1.png;1
+3;Хадикова;low;-0,5;16;;3;la2.png;1
+3;Хадикова;low;-0,5;23;;3;la3.png;1
+3;Хадикова;low;-0,5;17;;3;lb1.png;1
+3;Хадикова;low;-0,5;21;;3;lb1.png;1
+3;Хадикова;low;-0,5;22;;3;lb2.png;1
+3;Хадикова;low;-0,5;19;;3;lb3.png;1
+3;Пайвина;high;0,5;3;;1;ha1.png;1
+3;Пайвина;high;0,5;0;;1;ha1.png;0
+3;Пайвина;high;0,5;2;;1;ha2.png;1
+3;Пайвина;high;0,5;6;;1;ha3.png;0
+3;Пайвина;high;0,5;4;;1;hb1.png;1
+3;Пайвина;high;0,5;5;;1;hb1.png;1
+3;Пайвина;high;0,5;1;;1;hb2.png;0
+3;Пайвина;high;0,5;7;;1;hb3.png;0
+3;Пайвина;high;0,5;13;;2;ha1.png;1
+3;Пайвина;high;0,5;14;;2;ha1.png;1
+3;Пайвина;high;0,5;8;;2;ha2.png;0
+3;Пайвина;high;0,5;10;;2;ha3.png;1
+3;Пайвина;high;0,5;11;;2;hb1.png;1
+3;Пайвина;high;0,5;9;;2;hb1.png;1
+3;Пайвина;high;0,5;12;;2;hb2.png;1
+3;Пайвина;high;0,5;15;;2;hb3.png;1
+3;Пайвина;high;0,5;18;;3;ha1.png;1
+3;Пайвина;high;0,5;23;;3;ha1.png;1
+3;Пайвина;high;0,5;19;;3;ha2.png;1
+3;Пайвина;high;0,5;16;;3;ha3.png;1
+3;Пайвина;high;0,5;17;;3;hb1.png;1
+3;Пайвина;high;0,5;22;;3;hb1.png;1
+3;Пайвина;high;0,5;21;;3;hb2.png;1
+3;Пайвина;high;0,5;20;;3;hb3.png;0
+3;Решетникова;high;0,5;1;;1;ha1.png;1
+3;Решетникова;high;0,5;7;;1;ha1.png;1
+3;Решетникова;high;0,5;6;;1;ha2.png;0
+3;Решетникова;high;0,5;4;;1;ha3.png;1
+3;Решетникова;high;0,5;2;;1;hb1.png;1
+3;Решетникова;high;0,5;3;;1;hb1.png;1
+3;Решетникова;high;0,5;0;;1;hb2.png;1
+3;Решетникова;high;0,5;5;;1;hb3.png;0
+3;Решетникова;high;0,5;12;;2;ha1.png;1
+3;Решетникова;high;0,5;10;;2;ha1.png;0
+3;Решетникова;high;0,5;15;;2;ha2.png;1
+3;Решетникова;high;0,5;13;;2;ha3.png;0
+3;Решетникова;high;0,5;11;;2;hb1.png;1
+3;Решетникова;high;0,5;14;;2;hb1.png;1
+3;Решетникова;high;0,5;9;;2;hb2.png;1
+3;Решетникова;high;0,5;8;;2;hb3.png;1
+3;Решетникова;high;0,5;19;;3;ha1.png;1
+3;Решетникова;high;0,5;17;;3;ha1.png;1
+3;Решетникова;high;0,5;22;;3;ha2.png;1
+3;Решетникова;high;0,5;23;;3;ha3.png;0
+3;Решетникова;high;0,5;20;;3;hb1.png;1
+3;Решетникова;high;0,5;18;;3;hb1.png;1
+3;Решетникова;high;0,5;21;;3;hb2.png;1
+3;Решетникова;high;0,5;16;;3;hb3.png;1
+3;Антон;low;-0,5;2;;1;la1.png;1
+3;Антон;low;-0,5;0;;1;la1.png;1
+3;Антон;low;-0,5;7;;1;la2.png;1
+3;Антон;low;-0,5;4;;1;la3.png;0
+3;Антон;low;-0,5;6;;1;lb1.png;0
+3;Антон;low;-0,5;3;;1;lb1.png;0
+3;Антон;low;-0,5;5;;1;lb2.png;1
+3;Антон;low;-0,5;1;;1;lb3.png;1
+3;Антон;low;-0,5;12;;2;la1.png;1
+3;Антон;low;-0,5;11;;2;la1.png;1
+3;Антон;low;-0,5;13;;2;la2.png;0
+3;Антон;low;-0,5;14;;2;la3.png;0
+3;Антон;low;-0,5;9;;2;lb1.png;1
+3;Антон;low;-0,5;15;;2;lb1.png;1
+3;Антон;low;-0,5;10;;2;lb2.png;0
+3;Антон;low;-0,5;8;;2;lb3.png;1
+3;Антон;low;-0,5;17;;3;la1.png;1
+3;Антон;low;-0,5;23;;3;la1.png;1
+3;Антон;low;-0,5;18;;3;la2.png;1
+3;Антон;low;-0,5;22;;3;la3.png;0
+3;Антон;low;-0,5;21;;3;lb1.png;1
+3;Антон;low;-0,5;16;;3;lb1.png;1
+3;Антон;low;-0,5;19;;3;lb2.png;1
+3;Антон;low;-0,5;20;;3;lb3.png;0
+3;София Юганова;low;-0,5;5;;1;la1.png;0
+3;София Юганова;low;-0,5;0;;1;la1.png;1
+3;София Юганова;low;-0,5;4;;1;la2.png;0
+3;София Юганова;low;-0,5;3;;1;la3.png;1
+3;София Юганова;low;-0,5;1;;1;lb1.png;1
+3;София Юганова;low;-0,5;7;;1;lb1.png;1
+3;София Юганова;low;-0,5;2;;1;lb2.png;1
+3;София Юганова;low;-0,5;6;;1;lb3.png;0
+3;София Юганова;low;-0,5;8;;2;la1.png;1
+3;София Юганова;low;-0,5;10;;2;la1.png;1
+3;София Юганова;low;-0,5;11;;2;la2.png;0
+3;София Юганова;low;-0,5;12;;2;la3.png;1
+3;София Юганова;low;-0,5;13;;2;lb1.png;1
+3;София Юганова;low;-0,5;15;;2;lb1.png;1
+3;София Юганова;low;-0,5;9;;2;lb2.png;1
+3;София Юганова;low;-0,5;14;;2;lb3.png;0
+3;София Юганова;low;-0,5;16;;3;la1.png;1
+3;София Юганова;low;-0,5;23;;3;la1.png;1
+3;София Юганова;low;-0,5;22;;3;la2.png;1
+3;София Юганова;low;-0,5;20;;3;la3.png;1
+3;София Юганова;low;-0,5;19;;3;lb1.png;1
+3;София Юганова;low;-0,5;17;;3;lb1.png;1
+3;София Юганова;low;-0,5;18;;3;lb2.png;1
+3;София Юганова;low;-0,5;21;;3;lb3.png;1
+3;ЯНА;high;0,5;7;;1;ha1.png;0
+3;ЯНА;high;0,5;2;;1;ha1.png;0
+3;ЯНА;high;0,5;3;;1;ha2.png;0
+3;ЯНА;high;0,5;1;;1;ha3.png;0
+3;ЯНА;high;0,5;5;;1;hb1.png;0
+3;ЯНА;high;0,5;6;;1;hb1.png;1
+3;ЯНА;high;0,5;0;;1;hb2.png;0
+3;ЯНА;high;0,5;4;;1;hb3.png;0
+3;ЯНА;high;0,5;15;;2;ha1.png;0
+3;ЯНА;high;0,5;9;;2;ha1.png;1
+3;ЯНА;high;0,5;13;;2;ha2.png;0
+3;ЯНА;high;0,5;14;;2;ha3.png;1
+3;ЯНА;high;0,5;10;;2;hb1.png;0
+3;ЯНА;high;0,5;11;;2;hb1.png;1
+3;ЯНА;high;0,5;12;;2;hb2.png;0
+3;ЯНА;high;0,5;8;;2;hb3.png;1
+3;ЯНА;high;0,5;21;;3;ha1.png;0
+3;ЯНА;high;0,5;20;;3;ha1.png;1
+3;ЯНА;high;0,5;22;;3;ha2.png;0
+3;ЯНА;high;0,5;23;;3;ha3.png;1
+3;ЯНА;high;0,5;18;;3;hb1.png;1
+3;ЯНА;high;0,5;16;;3;hb1.png;1
+3;ЯНА;high;0,5;19;;3;hb2.png;1
+3;ЯНА;high;0,5;17;;3;hb3.png;0
+3;Настя Иванькова;low;-0,5;7;;1;la1.png;0
+3;Настя Иванькова;low;-0,5;0;;1;la1.png;1
+3;Настя Иванькова;low;-0,5;2;;1;la2.png;1
+3;Настя Иванькова;low;-0,5;6;;1;la3.png;1
+3;Настя Иванькова;low;-0,5;4;;1;lb1.png;1
+3;Настя Иванькова;low;-0,5;1;;1;lb1.png;1
+3;Настя Иванькова;low;-0,5;3;;1;lb2.png;1
+3;Настя Иванькова;low;-0,5;5;;1;lb3.png;1
+3;Настя Иванькова;low;-0,5;14;;2;la1.png;1
+3;Настя Иванькова;low;-0,5;11;;2;la1.png;1
+3;Настя Иванькова;low;-0,5;13;;2;la2.png;1
+3;Настя Иванькова;low;-0,5;8;;2;la3.png;1
+3;Настя Иванькова;low;-0,5;15;;2;lb1.png;1
+3;Настя Иванькова;low;-0,5;12;;2;lb1.png;1
+3;Настя Иванькова;low;-0,5;10;;2;lb2.png;1
+3;Настя Иванькова;low;-0,5;9;;2;lb3.png;1
+3;Настя Иванькова;low;-0,5;16;;3;la1.png;1
+3;Настя Иванькова;low;-0,5;22;;3;la1.png;1
+3;Настя Иванькова;low;-0,5;23;;3;la2.png;1
+3;Настя Иванькова;low;-0,5;17;;3;la3.png;1
+3;Настя Иванькова;low;-0,5;20;;3;lb1.png;1
+3;Настя Иванькова;low;-0,5;21;;3;lb1.png;1
+3;Настя Иванькова;low;-0,5;18;;3;lb2.png;1
+3;Настя Иванькова;low;-0,5;19;;3;lb3.png;1
+3;ксюша;high;0,5;2;;1;ha1.png;1
+3;ксюша;high;0,5;7;;1;ha1.png;1
+3;ксюша;high;0,5;1;;1;ha2.png;0
+3;ксюша;high;0,5;6;;1;ha3.png;1
+3;ксюша;high;0,5;4;;1;hb1.png;1
+3;ксюша;high;0,5;3;;1;hb1.png;1
+3;ксюша;high;0,5;5;;1;hb2.png;0
+3;ксюша;high;0,5;0;;1;hb3.png;1
+3;ксюша;high;0,5;15;;2;ha1.png;1
+3;ксюша;high;0,5;13;;2;ha1.png;1
+3;ксюша;high;0,5;10;;2;ha2.png;1
+3;ксюша;high;0,5;14;;2;ha3.png;1
+3;ксюша;high;0,5;11;;2;hb1.png;1
+3;ксюша;high;0,5;9;;2;hb1.png;1
+3;ксюша;high;0,5;12;;2;hb2.png;0
+3;ксюша;high;0,5;8;;2;hb3.png;1
+3;ксюша;high;0,5;17;;3;ha1.png;1
+3;ксюша;high;0,5;18;;3;ha1.png;1
+3;ксюша;high;0,5;23;;3;ha2.png;1
+3;ксюша;high;0,5;20;;3;ha3.png;1
+3;ксюша;high;0,5;21;;3;hb1.png;1
+3;ксюша;high;0,5;22;;3;hb1.png;1
+3;ксюша;high;0,5;19;;3;hb2.png;0
+3;ксюша;high;0,5;16;;3;hb3.png;1
+3;матвей;high;0,5;1;;1;ha1.png;1
+3;матвей;high;0,5;0;;1;ha1.png;0
+3;матвей;high;0,5;4;;1;ha2.png;0
+3;матвей;high;0,5;3;;1;ha3.png;1
+3;матвей;high;0,5;6;;1;hb1.png;1
+3;матвей;high;0,5;7;;1;hb1.png;1
+3;матвей;high;0,5;5;;1;hb2.png;1
+3;матвей;high;0,5;2;;1;hb3.png;1
+3;матвей;high;0,5;8;;2;ha1.png;1
+3;матвей;high;0,5;9;;2;ha1.png;1
+3;матвей;high;0,5;10;;2;ha2.png;1
+3;матвей;high;0,5;14;;2;ha3.png;1
+3;матвей;high;0,5;11;;2;hb1.png;1
+3;матвей;high;0,5;12;;2;hb1.png;1
+3;матвей;high;0,5;13;;2;hb2.png;1
+3;матвей;high;0,5;15;;2;hb3.png;1
+3;матвей;high;0,5;23;;3;ha1.png;1
+3;матвей;high;0,5;19;;3;ha1.png;1
+3;матвей;high;0,5;20;;3;ha2.png;1
+3;матвей;high;0,5;18;;3;ha3.png;1
+3;матвей;high;0,5;22;;3;hb1.png;1
+3;матвей;high;0,5;16;;3;hb1.png;1
+3;матвей;high;0,5;17;;3;hb2.png;0
+3;матвей;high;0,5;21;;3;hb3.png;1
+3;Даша Трубникова;low;-0,5;4;;1;la1.png;1
+3;Даша Трубникова;low;-0,5;3;;1;la1.png;1
+3;Даша Трубникова;low;-0,5;2;;1;la2.png;1
+3;Даша Трубникова;low;-0,5;7;;1;la3.png;1
+3;Даша Трубникова;low;-0,5;0;;1;lb1.png;0
+3;Даша Трубникова;low;-0,5;5;;1;lb1.png;1
+3;Даша Трубникова;low;-0,5;1;;1;lb2.png;1
+3;Даша Трубникова;low;-0,5;6;;1;lb3.png;1
+3;Даша Трубникова;low;-0,5;11;;2;la1.png;1
+3;Даша Трубникова;low;-0,5;12;;2;la1.png;1
+3;Даша Трубникова;low;-0,5;9;;2;la2.png;1
+3;Даша Трубникова;low;-0,5;10;;2;la3.png;1
+3;Даша Трубникова;low;-0,5;15;;2;lb1.png;0
+3;Даша Трубникова;low;-0,5;13;;2;lb1.png;1
+3;Даша Трубникова;low;-0,5;14;;2;lb2.png;1
+3;Даша Трубникова;low;-0,5;8;;2;lb3.png;1
+3;Даша Трубникова;low;-0,5;20;;3;la1.png;1
+3;Даша Трубникова;low;-0,5;16;;3;la1.png;1
+3;Даша Трубникова;low;-0,5;17;;3;la2.png;1
+3;Даша Трубникова;low;-0,5;18;;3;la3.png;1
+3;Даша Трубникова;low;-0,5;19;;3;lb1.png;0
+3;Даша Трубникова;low;-0,5;23;;3;lb1.png;1
+3;Даша Трубникова;low;-0,5;22;;3;lb2.png;1
+3;Даша Трубникова;low;-0,5;21;;3;lb3.png;1
+3;Егор Кистанов;low;-0,5;1;;1;la1.png;1
+3;Егор Кистанов;low;-0,5;6;;1;la1.png;1
+3;Егор Кистанов;low;-0,5;2;;1;la2.png;1
+3;Егор Кистанов;low;-0,5;4;;1;la3.png;1
+3;Егор Кистанов;low;-0,5;0;;1;lb1.png;1
+3;Егор Кистанов;low;-0,5;7;;1;lb1.png;1
+3;Егор Кистанов;low;-0,5;5;;1;lb2.png;1
+3;Егор Кистанов;low;-0,5;3;;1;lb3.png;1
+3;Егор Кистанов;low;-0,5;9;;2;la1.png;1
+3;Егор Кистанов;low;-0,5;14;;2;la1.png;1
+3;Егор Кистанов;low;-0,5;13;;2;la2.png;0
+3;Егор Кистанов;low;-0,5;12;;2;la3.png;1
+3;Егор Кистанов;low;-0,5;15;;2;lb1.png;1
+3;Егор Кистанов;low;-0,5;11;;2;lb1.png;1
+3;Егор Кистанов;low;-0,5;10;;2;lb2.png;1
+3;Егор Кистанов;low;-0,5;8;;2;lb3.png;1
+3;Егор Кистанов;low;-0,5;21;;3;la1.png;0
+3;Егор Кистанов;low;-0,5;18;;3;la1.png;1
+3;Егор Кистанов;low;-0,5;23;;3;la2.png;1
+3;Егор Кистанов;low;-0,5;20;;3;la3.png;1
+3;Егор Кистанов;low;-0,5;16;;3;lb1.png;1
+3;Егор Кистанов;low;-0,5;22;;3;lb1.png;1
+3;Егор Кистанов;low;-0,5;19;;3;lb2.png;1
+3;Егор Кистанов;low;-0,5;17;;3;lb3.png;1
+3;давид;high;0,5;1;;1;ha1.png;1
+3;давид;high;0,5;7;;1;ha1.png;1
+3;давид;high;0,5;4;;1;ha2.png;1
+3;давид;high;0,5;0;;1;ha3.png;1
+3;давид;high;0,5;5;;1;hb1.png;1
+3;давид;high;0,5;2;;1;hb1.png;1
+3;давид;high;0,5;3;;1;hb2.png;0
+3;давид;high;0,5;6;;1;hb3.png;1
+3;давид;high;0,5;10;;2;ha1.png;1
+3;давид;high;0,5;13;;2;ha1.png;1
+3;давид;high;0,5;12;;2;ha2.png;1
+3;давид;high;0,5;15;;2;ha3.png;1
+3;давид;high;0,5;14;;2;hb1.png;1
+3;давид;high;0,5;11;;2;hb1.png;1
+3;давид;high;0,5;8;;2;hb2.png;1
+3;давид;high;0,5;9;;2;hb3.png;1
+3;давид;high;0,5;23;;3;ha1.png;1
+3;давид;high;0,5;21;;3;ha1.png;1
+3;давид;high;0,5;19;;3;ha2.png;1
+3;давид;high;0,5;18;;3;ha3.png;1
+3;давид;high;0,5;20;;3;hb1.png;1
+3;давид;high;0,5;17;;3;hb1.png;1
+3;давид;high;0,5;22;;3;hb2.png;1
+3;давид;high;0,5;16;;3;hb3.png;1
+3;Софья Сергеева;low;-0,5;3;;1;la1.png;1
+3;Софья Сергеева;low;-0,5;2;;1;la1.png;1
+3;Софья Сергеева;low;-0,5;6;;1;la2.png;1
+3;Софья Сергеева;low;-0,5;0;;1;la3.png;1
+3;Софья Сергеева;low;-0,5;4;;1;lb1.png;1
+3;Софья Сергеева;low;-0,5;7;;1;lb1.png;1
+3;Софья Сергеева;low;-0,5;5;;1;lb2.png;1
+3;Софья Сергеева;low;-0,5;1;;1;lb3.png;0
+3;Софья Сергеева;low;-0,5;12;;2;la1.png;1
+3;Софья Сергеева;low;-0,5;9;;2;la1.png;1
+3;Софья Сергеева;low;-0,5;8;;2;la2.png;1
+3;Софья Сергеева;low;-0,5;15;;2;la3.png;1
+3;Софья Сергеева;low;-0,5;10;;2;lb1.png;1
+3;Софья Сергеева;low;-0,5;11;;2;lb1.png;1
+3;Софья Сергеева;low;-0,5;14;;2;lb2.png;1
+3;Софья Сергеева;low;-0,5;13;;2;lb3.png;1
+3;Софья Сергеева;low;-0,5;18;;3;la1.png;1
+3;Софья Сергеева;low;-0,5;21;;3;la1.png;1
+3;Софья Сергеева;low;-0,5;20;;3;la2.png;1
+3;Софья Сергеева;low;-0,5;23;;3;la3.png;1
+3;Софья Сергеева;low;-0,5;19;;3;lb1.png;1
+3;Софья Сергеева;low;-0,5;16;;3;lb1.png;1
+3;Софья Сергеева;low;-0,5;22;;3;lb2.png;1
+3;Софья Сергеева;low;-0,5;17;;3;lb3.png;1
+3;олеся;high;0,5;1;;1;ha1.png;1
+3;олеся;high;0,5;2;;1;ha1.png;1
+3;олеся;high;0,5;4;;1;ha2.png;1
+3;олеся;high;0,5;6;;1;ha3.png;1
+3;олеся;high;0,5;3;;1;hb1.png;1
+3;олеся;high;0,5;7;;1;hb1.png;1
+3;олеся;high;0,5;0;;1;hb2.png;1
+3;олеся;high;0,5;5;;1;hb3.png;1
+3;олеся;high;0,5;14;;2;ha1.png;1
+3;олеся;high;0,5;9;;2;ha1.png;1
+3;олеся;high;0,5;11;;2;ha2.png;1
+3;олеся;high;0,5;13;;2;ha3.png;1
+3;олеся;high;0,5;8;;2;hb1.png;1
+3;олеся;high;0,5;10;;2;hb1.png;1
+3;олеся;high;0,5;15;;2;hb2.png;1
+3;олеся;high;0,5;12;;2;hb3.png;1
+3;олеся;high;0,5;23;;3;ha1.png;1
+3;олеся;high;0,5;16;;3;ha1.png;1
+3;олеся;high;0,5;21;;3;ha2.png;1
+3;олеся;high;0,5;17;;3;ha3.png;1
+3;олеся;high;0,5;22;;3;hb1.png;1
+3;олеся;high;0,5;19;;3;hb1.png;1
+3;олеся;high;0,5;20;;3;hb2.png;1
+3;олеся;high;0,5;18;;3;hb3.png;1
+3;Данил Капышев;low;-0,5;7;;1;la1.png;1
+3;Данил Капышев;low;-0,5;1;;1;la1.png;1
+3;Данил Капышев;low;-0,5;2;;1;la2.png;1
+3;Данил Капышев;low;-0,5;5;;1;la3.png;0
+3;Данил Капышев;low;-0,5;6;;1;lb1.png;1
+3;Данил Капышев;low;-0,5;3;;1;lb1.png;1
+3;Данил Капышев;low;-0,5;0;;1;lb2.png;1
+3;Данил Капышев;low;-0,5;4;;1;lb3.png;0
+3;Данил Капышев;low;-0,5;13;;2;la1.png;0
+3;Данил Капышев;low;-0,5;12;;2;la1.png;1
+3;Данил Капышев;low;-0,5;11;;2;la2.png;0
+3;Данил Капышев;low;-0,5;8;;2;la3.png;0
+3;Данил Капышев;low;-0,5;14;;2;lb1.png;0
+3;Данил Капышев;low;-0,5;15;;2;lb1.png;0
+3;Данил Капышев;low;-0,5;10;;2;lb2.png;0
+3;Данил Капышев;low;-0,5;9;;2;lb3.png;1
+3;Данил Капышев;low;-0,5;18;;3;la1.png;1
+3;Данил Капышев;low;-0,5;16;;3;la1.png;0
+3;Данил Капышев;low;-0,5;17;;3;la2.png;0
+3;Данил Капышев;low;-0,5;20;;3;la3.png;0
+3;Данил Капышев;low;-0,5;19;;3;lb1.png;1
+3;Данил Капышев;low;-0,5;21;;3;lb1.png;0
+3;Данил Капышев;low;-0,5;23;;3;lb2.png;0
+3;Данил Капышев;low;-0,5;22;;3;lb3.png;0
+3;федор;high;0,5;3;;1;ha1.png;1
+3;федор;high;0,5;7;;1;ha1.png;0
+3;федор;high;0,5;2;;1;ha2.png;0
+3;федор;high;0,5;5;;1;ha3.png;1
+3;федор;high;0,5;1;;1;hb1.png;0
+3;федор;high;0,5;4;;1;hb1.png;1
+3;федор;high;0,5;0;;1;hb2.png;0
+3;федор;high;0,5;6;;1;hb3.png;1
+3;федор;high;0,5;14;;2;ha1.png;1
+3;федор;high;0,5;13;;2;ha1.png;0
+3;федор;high;0,5;11;;2;ha2.png;0
+3;федор;high;0,5;10;;2;ha3.png;1
+3;федор;high;0,5;8;;2;hb1.png;0
+3;федор;high;0,5;9;;2;hb1.png;1
+3;федор;high;0,5;12;;2;hb2.png;0
+3;федор;high;0,5;15;;2;hb3.png;1
+3;федор;high;0,5;22;;3;ha1.png;1
+3;федор;high;0,5;17;;3;ha1.png;0
+3;федор;high;0,5;16;;3;ha2.png;1
+3;федор;high;0,5;19;;3;ha3.png;0
+3;федор;high;0,5;21;;3;hb1.png;1
+3;федор;high;0,5;20;;3;hb1.png;0
+3;федор;high;0,5;18;;3;hb2.png;0
+3;федор;high;0,5;23;;3;hb3.png;1
+3;Юля Акентьева;low;-0,5;2;;1;la1.png;1
+3;Юля Акентьева;low;-0,5;4;;1;la1.png;1
+3;Юля Акентьева;low;-0,5;7;;1;la2.png;1
+3;Юля Акентьева;low;-0,5;1;;1;la3.png;1
+3;Юля Акентьева;low;-0,5;0;;1;lb1.png;1
+3;Юля Акентьева;low;-0,5;5;;1;lb1.png;1
+3;Юля Акентьева;low;-0,5;3;;1;lb2.png;1
+3;Юля Акентьева;low;-0,5;6;;1;lb3.png;1
+3;Юля Акентьева;low;-0,5;15;;2;la1.png;1
+3;Юля Акентьева;low;-0,5;14;;2;la1.png;1
+3;Юля Акентьева;low;-0,5;11;;2;la2.png;1
+3;Юля Акентьева;low;-0,5;12;;2;la3.png;1
+3;Юля Акентьева;low;-0,5;13;;2;lb1.png;1
+3;Юля Акентьева;low;-0,5;8;;2;lb1.png;1
+3;Юля Акентьева;low;-0,5;9;;2;lb2.png;1
+3;Юля Акентьева;low;-0,5;10;;2;lb3.png;0
+3;Юля Акентьева;low;-0,5;21;;3;la1.png;1
+3;Юля Акентьева;low;-0,5;22;;3;la1.png;1
+3;Юля Акентьева;low;-0,5;18;;3;la2.png;1
+3;Юля Акентьева;low;-0,5;19;;3;la3.png;1
+3;Юля Акентьева;low;-0,5;23;;3;lb1.png;1
+3;Юля Акентьева;low;-0,5;20;;3;lb1.png;1
+3;Юля Акентьева;low;-0,5;16;;3;lb2.png;1
+3;Юля Акентьева;low;-0,5;17;;3;lb3.png;0
+3;тимур;high;0,5;3;;1;ha1.png;0
+3;тимур;high;0,5;4;;1;ha1.png;1
+3;тимур;high;0,5;6;;1;ha2.png;1
+3;тимур;high;0,5;1;;1;ha3.png;1
+3;тимур;high;0,5;2;;1;hb1.png;1
+3;тимур;high;0,5;5;;1;hb1.png;0
+3;тимур;high;0,5;7;;1;hb2.png;1
+3;тимур;high;0,5;0;;1;hb3.png;0
+3;тимур;high;0,5;14;;2;ha1.png;1
+3;тимур;high;0,5;11;;2;ha1.png;0
+3;тимур;high;0,5;10;;2;ha2.png;1
+3;тимур;high;0,5;12;;2;ha3.png;0
+3;тимур;high;0,5;9;;2;hb1.png;1
+3;тимур;high;0,5;8;;2;hb1.png;0
+3;тимур;high;0,5;15;;2;hb2.png;1
+3;тимур;high;0,5;13;;2;hb3.png;0
+3;тимур;high;0,5;20;;3;ha1.png;1
+3;тимур;high;0,5;18;;3;ha1.png;0
+3;тимур;high;0,5;17;;3;ha2.png;1
+3;тимур;high;0,5;22;;3;ha3.png;1
+3;тимур;high;0,5;21;;3;hb1.png;1
+3;тимур;high;0,5;16;;3;hb1.png;1
+3;тимур;high;0,5;23;;3;hb2.png;1
+3;тимур;high;0,5;19;;3;hb3.png;1
+3;Александра Каурова;low;-0,5;0;;1;la1.png;1
+3;Александра Каурова;low;-0,5;1;;1;la1.png;1
+3;Александра Каурова;low;-0,5;4;;1;la2.png;1
+3;Александра Каурова;low;-0,5;7;;1;la3.png;1
+3;Александра Каурова;low;-0,5;5;;1;lb1.png;1
+3;Александра Каурова;low;-0,5;3;;1;lb1.png;1
+3;Александра Каурова;low;-0,5;6;;1;lb2.png;1
+3;Александра Каурова;low;-0,5;2;;1;lb3.png;1
+3;Александра Каурова;low;-0,5;15;;2;la1.png;1
+3;Александра Каурова;low;-0,5;9;;2;la1.png;1
+3;Александра Каурова;low;-0,5;10;;2;la2.png;1
+3;Александра Каурова;low;-0,5;12;;2;la3.png;1
+3;Александра Каурова;low;-0,5;14;;2;lb1.png;1
+3;Александра Каурова;low;-0,5;11;;2;lb1.png;1
+3;Александра Каурова;low;-0,5;8;;2;lb2.png;1
+3;Александра Каурова;low;-0,5;13;;2;lb3.png;1
+3;Александра Каурова;low;-0,5;23;;3;la1.png;1
+3;Александра Каурова;low;-0,5;22;;3;la1.png;1
+3;Александра Каурова;low;-0,5;21;;3;la2.png;1
+3;Александра Каурова;low;-0,5;20;;3;la3.png;1
+3;Александра Каурова;low;-0,5;18;;3;lb1.png;1
+3;Александра Каурова;low;-0,5;19;;3;lb1.png;1
+3;Александра Каурова;low;-0,5;17;;3;lb2.png;1
+3;Александра Каурова;low;-0,5;16;;3;lb3.png;1
+3;Федор Швецов;low;-0,5;1;;1;la1.png;0
+3;Федор Швецов;low;-0,5;2;;1;la1.png;1
+3;Федор Швецов;low;-0,5;3;;1;la2.png;0
+3;Федор Швецов;low;-0,5;7;;1;la3.png;1
+3;Федор Швецов;low;-0,5;5;;1;lb1.png;1
+3;Федор Швецов;low;-0,5;6;;1;lb1.png;1
+3;Федор Швецов;low;-0,5;4;;1;lb2.png;0
+3;Федор Швецов;low;-0,5;0;;1;lb3.png;0
+3;Федор Швецов;low;-0,5;11;;2;la1.png;1
+3;Федор Швецов;low;-0,5;8;;2;la1.png;0
+3;Федор Швецов;low;-0,5;12;;2;la2.png;0
+3;Федор Швецов;low;-0,5;10;;2;la3.png;1
+3;Федор Швецов;low;-0,5;13;;2;lb1.png;1
+3;Федор Швецов;low;-0,5;15;;2;lb1.png;1
+3;Федор Швецов;low;-0,5;14;;2;lb2.png;1
+3;Федор Швецов;low;-0,5;9;;2;lb3.png;1
+3;Федор Швецов;low;-0,5;23;;3;la1.png;1
+3;Федор Швецов;low;-0,5;19;;3;la1.png;1
+3;Федор Швецов;low;-0,5;16;;3;la2.png;1
+3;Федор Швецов;low;-0,5;18;;3;la3.png;0
+3;Федор Швецов;low;-0,5;20;;3;lb1.png;1
+3;Федор Швецов;low;-0,5;22;;3;lb1.png;1
+3;Федор Швецов;low;-0,5;21;;3;lb2.png;1
+3;Федор Швецов;low;-0,5;17;;3;lb3.png;0
+3;Зоя Каткова;low;-0,5;6;;1;la1.png;1
+3;Зоя Каткова;low;-0,5;2;;1;la1.png;0
+3;Зоя Каткова;low;-0,5;3;;1;la2.png;1
+3;Зоя Каткова;low;-0,5;1;;1;la3.png;0
+3;Зоя Каткова;low;-0,5;0;;1;lb1.png;1
+3;Зоя Каткова;low;-0,5;7;;1;lb1.png;0
+3;Зоя Каткова;low;-0,5;5;;1;lb2.png;1
+3;Зоя Каткова;low;-0,5;4;;1;lb3.png;1
+3;Зоя Каткова;low;-0,5;14;;2;la1.png;0
+3;Зоя Каткова;low;-0,5;12;;2;la1.png;0
+3;Зоя Каткова;low;-0,5;8;;2;la2.png;1
+3;Зоя Каткова;low;-0,5;9;;2;la3.png;0
+3;Зоя Каткова;low;-0,5;13;;2;lb1.png;0
+3;Зоя Каткова;low;-0,5;10;;2;lb1.png;1
+3;Зоя Каткова;low;-0,5;15;;2;lb2.png;0
+3;Зоя Каткова;low;-0,5;11;;2;lb3.png;0
+3;Зоя Каткова;low;-0,5;19;;3;la1.png;0
+3;Зоя Каткова;low;-0,5;22;;3;la1.png;0
+3;Зоя Каткова;low;-0,5;18;;3;la2.png;1
+3;Зоя Каткова;low;-0,5;17;;3;la3.png;0
+3;Зоя Каткова;low;-0,5;16;;3;lb1.png;1
+3;Зоя Каткова;low;-0,5;21;;3;lb1.png;0
+3;Зоя Каткова;low;-0,5;23;;3;lb2.png;1
+3;Зоя Каткова;low;-0,5;20;;3;lb3.png;1
+3;Ольга Костюк;low;-0,5;7;;1;la1.png;1
+3;Ольга Костюк;low;-0,5;2;;1;la1.png;1
+3;Ольга Костюк;low;-0,5;0;;1;la2.png;1
+3;Ольга Костюк;low;-0,5;6;;1;la3.png;1
+3;Ольга Костюк;low;-0,5;5;;1;lb1.png;1
+3;Ольга Костюк;low;-0,5;4;;1;lb1.png;1
+3;Ольга Костюк;low;-0,5;1;;1;lb2.png;1
+3;Ольга Костюк;low;-0,5;3;;1;lb3.png;0
+3;Ольга Костюк;low;-0,5;15;;2;la1.png;1
+3;Ольга Костюк;low;-0,5;8;;2;la1.png;1
+3;Ольга Костюк;low;-0,5;10;;2;la2.png;1
+3;Ольга Костюк;low;-0,5;9;;2;la3.png;1
+3;Ольга Костюк;low;-0,5;11;;2;lb1.png;1
+3;Ольга Костюк;low;-0,5;13;;2;lb1.png;1
+3;Ольга Костюк;low;-0,5;12;;2;lb2.png;1
+3;Ольга Костюк;low;-0,5;14;;2;lb3.png;1
+3;Ольга Костюк;low;-0,5;17;;3;la1.png;1
+3;Ольга Костюк;low;-0,5;19;;3;la1.png;1
+3;Ольга Костюк;low;-0,5;23;;3;la2.png;1
+3;Ольга Костюк;low;-0,5;21;;3;la3.png;1
+3;Ольга Костюк;low;-0,5;18;;3;lb1.png;1
+3;Ольга Костюк;low;-0,5;20;;3;lb1.png;1
+3;Ольга Костюк;low;-0,5;22;;3;lb2.png;1
+3;Ольга Костюк;low;-0,5;16;;3;lb3.png;1
+3;александр;high;0,5;4;;1;ha1.png;1
+3;александр;high;0,5;5;;1;ha1.png;0
+3;александр;high;0,5;0;;1;ha2.png;1
+3;александр;high;0,5;2;;1;ha3.png;0
+3;александр;high;0,5;7;;1;hb1.png;1
+3;александр;high;0,5;1;;1;hb1.png;1
+3;александр;high;0,5;6;;1;hb2.png;1
+3;александр;high;0,5;3;;1;hb3.png;1
+3;александр;high;0,5;9;;2;ha1.png;1
+3;александр;high;0,5;15;;2;ha1.png;1
+3;александр;high;0,5;8;;2;ha2.png;1
+3;александр;high;0,5;10;;2;ha3.png;0
+3;александр;high;0,5;12;;2;hb1.png;1
+3;александр;high;0,5;13;;2;hb1.png;1
+3;александр;high;0,5;11;;2;hb2.png;1
+3;александр;high;0,5;14;;2;hb3.png;1
+3;александр;high;0,5;22;;3;ha1.png;1
+3;александр;high;0,5;18;;3;ha1.png;1
+3;александр;high;0,5;17;;3;ha2.png;1
+3;александр;high;0,5;19;;3;ha3.png;0
+3;александр;high;0,5;16;;3;hb1.png;1
+3;александр;high;0,5;21;;3;hb1.png;1
+3;александр;high;0,5;20;;3;hb2.png;1
+3;александр;high;0,5;23;;3;hb3.png;1
+3;Алина Стайкова;low;-0,5;1;;1;la1.png;1
+3;Алина Стайкова;low;-0,5;6;;1;la1.png;1
+3;Алина Стайкова;low;-0,5;7;;1;la2.png;1
+3;Алина Стайкова;low;-0,5;4;;1;la3.png;1
+3;Алина Стайкова;low;-0,5;5;;1;lb1.png;1
+3;Алина Стайкова;low;-0,5;0;;1;lb1.png;1
+3;Алина Стайкова;low;-0,5;2;;1;lb2.png;1
+3;Алина Стайкова;low;-0,5;3;;1;lb3.png;1
+3;Алина Стайкова;low;-0,5;14;;2;la1.png;1
+3;Алина Стайкова;low;-0,5;10;;2;la1.png;1
+3;Алина Стайкова;low;-0,5;12;;2;la2.png;1
+3;Алина Стайкова;low;-0,5;9;;2;la3.png;1
+3;Алина Стайкова;low;-0,5;11;;2;lb1.png;1
+3;Алина Стайкова;low;-0,5;13;;2;lb1.png;1
+3;Алина Стайкова;low;-0,5;8;;2;lb2.png;1
+3;Алина Стайкова;low;-0,5;15;;2;lb3.png;1
+3;Алина Стайкова;low;-0,5;17;;3;la1.png;1
+3;Алина Стайкова;low;-0,5;23;;3;la1.png;1
+3;Алина Стайкова;low;-0,5;16;;3;la2.png;1
+3;Алина Стайкова;low;-0,5;22;;3;la3.png;1
+3;Алина Стайкова;low;-0,5;20;;3;lb1.png;1
+3;Алина Стайкова;low;-0,5;18;;3;lb1.png;1
+3;Алина Стайкова;low;-0,5;19;;3;lb2.png;1
+3;Алина Стайкова;low;-0,5;21;;3;lb3.png;1
+3;Дмитрий Паршиков;low;-0,5;4;;1;la1.png;0
+3;Дмитрий Паршиков;low;-0,5;1;;1;la1.png;0
+3;Дмитрий Паршиков;low;-0,5;7;;1;la2.png;0
+3;Дмитрий Паршиков;low;-0,5;6;;1;la3.png;1
+3;Дмитрий Паршиков;low;-0,5;2;;1;lb1.png;0
+3;Дмитрий Паршиков;low;-0,5;5;;1;lb1.png;1
+3;Дмитрий Паршиков;low;-0,5;0;;1;lb2.png;1
+3;Дмитрий Паршиков;low;-0,5;3;;1;lb3.png;1
+3;Дмитрий Паршиков;low;-0,5;10;;2;la1.png;1
+3;Дмитрий Паршиков;low;-0,5;9;;2;la1.png;1
+3;Дмитрий Паршиков;low;-0,5;11;;2;la2.png;0
+3;Дмитрий Паршиков;low;-0,5;8;;2;la3.png;1
+3;Дмитрий Паршиков;low;-0,5;13;;2;lb1.png;1
+3;Дмитрий Паршиков;low;-0,5;15;;2;lb1.png;1
+3;Дмитрий Паршиков;low;-0,5;14;;2;lb2.png;0
+3;Дмитрий Паршиков;low;-0,5;12;;2;lb3.png;0
+3;Дмитрий Паршиков;low;-0,5;20;;3;la1.png;1
+3;Дмитрий Паршиков;low;-0,5;22;;3;la1.png;1
+3;Дмитрий Паршиков;low;-0,5;23;;3;la2.png;1
+3;Дмитрий Паршиков;low;-0,5;17;;3;la3.png;1
+3;Дмитрий Паршиков;low;-0,5;18;;3;lb1.png;0
+3;Дмитрий Паршиков;low;-0,5;21;;3;lb1.png;1
+3;Дмитрий Паршиков;low;-0,5;16;;3;lb2.png;0
+3;Дмитрий Паршиков;low;-0,5;19;;3;lb3.png;1
+3;павел;high;0,5;5;;1;ha1.png;1
+3;павел;high;0,5;7;;1;ha1.png;1
+3;павел;high;0,5;6;;1;ha2.png;0
+3;павел;high;0,5;0;;1;ha3.png;0
+3;павел;high;0,5;3;;1;hb1.png;1
+3;павел;high;0,5;4;;1;hb1.png;0
+3;павел;high;0,5;1;;1;hb2.png;1
+3;павел;high;0,5;2;;1;hb3.png;0
+3;павел;high;0,5;10;;2;ha1.png;1
+3;павел;high;0,5;13;;2;ha1.png;1
+3;павел;high;0,5;15;;2;ha2.png;1
+3;павел;high;0,5;9;;2;ha3.png;1
+3;павел;high;0,5;11;;2;hb1.png;1
+3;павел;high;0,5;12;;2;hb1.png;0
+3;павел;high;0,5;14;;2;hb2.png;1
+3;павел;high;0,5;8;;2;hb3.png;0
+3;павел;high;0,5;20;;3;ha1.png;1
+3;павел;high;0,5;16;;3;ha1.png;1
+3;павел;high;0,5;17;;3;ha2.png;1
+3;павел;high;0,5;18;;3;ha3.png;1
+3;павел;high;0,5;23;;3;hb1.png;1
+3;павел;high;0,5;21;;3;hb1.png;1
+3;павел;high;0,5;19;;3;hb2.png;1
+3;павел;high;0,5;22;;3;hb3.png;0
+3;Егор Гросу;low;-0,5;0;;1;la1.png;0
+3;Егор Гросу;low;-0,5;4;;1;la1.png;1
+3;Егор Гросу;low;-0,5;2;;1;la2.png;1
+3;Егор Гросу;low;-0,5;6;;1;la3.png;1
+3;Егор Гросу;low;-0,5;5;;1;lb1.png;1
+3;Егор Гросу;low;-0,5;3;;1;lb1.png;1
+3;Егор Гросу;low;-0,5;7;;1;lb2.png;1
+3;Егор Гросу;low;-0,5;1;;1;lb3.png;1
+3;Егор Гросу;low;-0,5;10;;2;la1.png;1
+3;Егор Гросу;low;-0,5;12;;2;la1.png;1
+3;Егор Гросу;low;-0,5;9;;2;la2.png;0
+3;Егор Гросу;low;-0,5;14;;2;la3.png;0
+3;Егор Гросу;low;-0,5;13;;2;lb1.png;1
+3;Егор Гросу;low;-0,5;11;;2;lb1.png;1
+3;Егор Гросу;low;-0,5;15;;2;lb2.png;0
+3;Егор Гросу;low;-0,5;8;;2;lb3.png;0
+3;Егор Гросу;low;-0,5;18;;3;la1.png;1
+3;Егор Гросу;low;-0,5;22;;3;la1.png;1
+3;Егор Гросу;low;-0,5;16;;3;la2.png;0
+3;Егор Гросу;low;-0,5;20;;3;la3.png;1
+3;Егор Гросу;low;-0,5;21;;3;lb1.png;1
+3;Егор Гросу;low;-0,5;17;;3;lb1.png;1
+3;Егор Гросу;low;-0,5;23;;3;lb2.png;1
+3;Егор Гросу;low;-0,5;19;;3;lb3.png;1
+3;Ренат Кожоев;low;-0,5;0;;1;la1.png;0
+3;Ренат Кожоев;low;-0,5;4;;1;la1.png;1
+3;Ренат Кожоев;low;-0,5;5;;1;la2.png;0
+3;Ренат Кожоев;low;-0,5;2;;1;la3.png;1
+3;Ренат Кожоев;low;-0,5;1;;1;lb1.png;1
+3;Ренат Кожоев;low;-0,5;3;;1;lb1.png;1
+3;Ренат Кожоев;low;-0,5;6;;1;lb2.png;1
+3;Ренат Кожоев;low;-0,5;7;;1;lb3.png;1
+3;Ренат Кожоев;low;-0,5;10;;2;la1.png;1
+3;Ренат Кожоев;low;-0,5;13;;2;la1.png;1
+3;Ренат Кожоев;low;-0,5;15;;2;la2.png;0
+3;Ренат Кожоев;low;-0,5;12;;2;la3.png;1
+3;Ренат Кожоев;low;-0,5;9;;2;lb1.png;1
+3;Ренат Кожоев;low;-0,5;8;;2;lb1.png;0
+3;Ренат Кожоев;low;-0,5;11;;2;lb2.png;1
+3;Ренат Кожоев;low;-0,5;14;;2;lb3.png;0
+3;Ренат Кожоев;low;-0,5;20;;3;la1.png;1
+3;Ренат Кожоев;low;-0,5;23;;3;la1.png;1
+3;Ренат Кожоев;low;-0,5;18;;3;la2.png;0
+3;Ренат Кожоев;low;-0,5;17;;3;la3.png;1
+3;Ренат Кожоев;low;-0,5;19;;3;lb1.png;0
+3;Ренат Кожоев;low;-0,5;21;;3;lb1.png;1
+3;Ренат Кожоев;low;-0,5;16;;3;lb2.png;1
+3;Ренат Кожоев;low;-0,5;22;;3;lb3.png;1
+3;андрей;low;-0,5;0;;1;la1.png;0
+3;андрей;low;-0,5;6;;1;la1.png;0
+3;андрей;low;-0,5;7;;1;la2.png;0
+3;андрей;low;-0,5;4;;1;la3.png;1
+3;андрей;low;-0,5;5;;1;lb1.png;0
+3;андрей;low;-0,5;3;;1;lb1.png;0
+3;андрей;low;-0,5;2;;1;lb2.png;0
+3;андрей;low;-0,5;1;;1;lb3.png;1
+3;андрей;low;-0,5;13;;2;la1.png;1
+3;андрей;low;-0,5;8;;2;la1.png;1
+3;андрей;low;-0,5;15;;2;la2.png;0
+3;андрей;low;-0,5;10;;2;la3.png;1
+3;андрей;low;-0,5;11;;2;lb1.png;1
+3;андрей;low;-0,5;9;;2;lb1.png;1
+3;андрей;low;-0,5;12;;2;lb2.png;0
+3;андрей;low;-0,5;14;;2;lb3.png;1
+3;андрей;low;-0,5;23;;3;la1.png;1
+3;андрей;low;-0,5;22;;3;la1.png;1
+3;андрей;low;-0,5;21;;3;la2.png;0
+3;андрей;low;-0,5;19;;3;la3.png;0
+3;андрей;low;-0,5;18;;3;lb1.png;0
+3;андрей;low;-0,5;16;;3;lb1.png;1
+3;андрей;low;-0,5;17;;3;lb2.png;0
+3;андрей;low;-0,5;20;;3;lb3.png;0
+3;Софья Жилина;high;0,5;4;;1;ha1.png;1
+3;Софья Жилина;high;0,5;0;;1;ha1.png;0
+3;Софья Жилина;high;0,5;7;;1;ha2.png;0
+3;Софья Жилина;high;0,5;3;;1;ha3.png;0
+3;Софья Жилина;high;0,5;5;;1;hb1.png;1
+3;Софья Жилина;high;0,5;6;;1;hb1.png;1
+3;Софья Жилина;high;0,5;1;;1;hb2.png;0
+3;Софья Жилина;high;0,5;2;;1;hb3.png;0
+3;Софья Жилина;high;0,5;9;;2;ha1.png;0
+3;Софья Жилина;high;0,5;10;;2;ha1.png;1
+3;Софья Жилина;high;0,5;14;;2;ha2.png;1
+3;Софья Жилина;high;0,5;8;;2;ha3.png;1
+3;Софья Жилина;high;0,5;12;;2;hb1.png;1
+3;Софья Жилина;high;0,5;15;;2;hb1.png;1
+3;Софья Жилина;high;0,5;11;;2;hb2.png;1
+3;Софья Жилина;high;0,5;13;;2;hb3.png;1
+3;Софья Жилина;high;0,5;23;;3;ha1.png;1
+3;Софья Жилина;high;0,5;17;;3;ha1.png;1
+3;Софья Жилина;high;0,5;20;;3;ha2.png;1
+3;Софья Жилина;high;0,5;18;;3;ha3.png;1
+3;Софья Жилина;high;0,5;16;;3;hb1.png;1
+3;Софья Жилина;high;0,5;21;;3;hb1.png;1
+3;Софья Жилина;high;0,5;22;;3;hb2.png;1
+3;Софья Жилина;high;0,5;19;;3;hb3.png;1
+3;бренда;low;-0,5;6;;1;la1.png;1
+3;бренда;low;-0,5;2;;1;la1.png;1
+3;бренда;low;-0,5;1;;1;la2.png;0
+3;бренда;low;-0,5;7;;1;la3.png;1
+3;бренда;low;-0,5;5;;1;lb1.png;1
+3;бренда;low;-0,5;3;;1;lb1.png;1
+3;бренда;low;-0,5;0;;1;lb2.png;0
+3;бренда;low;-0,5;4;;1;lb3.png;1
+3;бренда;low;-0,5;15;;2;la1.png;1
+3;бренда;low;-0,5;10;;2;la1.png;1
+3;бренда;low;-0,5;8;;2;la2.png;1
+3;бренда;low;-0,5;14;;2;la3.png;1
+3;бренда;low;-0,5;9;;2;lb1.png;1
+3;бренда;low;-0,5;12;;2;lb1.png;1
+3;бренда;low;-0,5;11;;2;lb2.png;1
+3;бренда;low;-0,5;13;;2;lb3.png;1
+3;бренда;low;-0,5;21;;3;la1.png;1
+3;бренда;low;-0,5;20;;3;la1.png;1
+3;бренда;low;-0,5;19;;3;la2.png;1
+3;бренда;low;-0,5;18;;3;la3.png;1
+3;бренда;low;-0,5;17;;3;lb1.png;1
+3;бренда;low;-0,5;23;;3;lb1.png;1
+3;бренда;low;-0,5;16;;3;lb2.png;1
+3;бренда;low;-0,5;22;;3;lb3.png;1
+3;Лиза Газдельяни;high;0,5;3;;1;ha1.png;1
+3;Лиза Газдельяни;high;0,5;4;;1;ha1.png;1
+3;Лиза Газдельяни;high;0,5;5;;1;ha2.png;0
+3;Лиза Газдельяни;high;0,5;2;;1;ha3.png;0
+3;Лиза Газдельяни;high;0,5;7;;1;hb1.png;1
+3;Лиза Газдельяни;high;0,5;6;;1;hb1.png;0
+3;Лиза Газдельяни;high;0,5;1;;1;hb2.png;0
+3;Лиза Газдельяни;high;0,5;0;;1;hb3.png;0
+3;Лиза Газдельяни;high;0,5;8;;2;ha1.png;1
+3;Лиза Газдельяни;high;0,5;14;;2;ha1.png;0
+3;Лиза Газдельяни;high;0,5;11;;2;ha2.png;0
+3;Лиза Газдельяни;high;0,5;9;;2;ha3.png;1
+3;Лиза Газдельяни;high;0,5;15;;2;hb1.png;0
+3;Лиза Газдельяни;high;0,5;12;;2;hb1.png;0
+3;Лиза Газдельяни;high;0,5;13;;2;hb2.png;0
+3;Лиза Газдельяни;high;0,5;10;;2;hb3.png;1
+3;Лиза Газдельяни;high;0,5;16;;3;ha1.png;0
+3;Лиза Газдельяни;high;0,5;21;;3;ha1.png;1
+3;Лиза Газдельяни;high;0,5;20;;3;ha2.png;0
+3;Лиза Газдельяни;high;0,5;17;;3;ha3.png;1
+3;Лиза Газдельяни;high;0,5;23;;3;hb1.png;1
+3;Лиза Газдельяни;high;0,5;18;;3;hb1.png;0
+3;Лиза Газдельяни;high;0,5;22;;3;hb2.png;0
+3;Лиза Газдельяни;high;0,5;19;;3;hb3.png;1
+3;Костя Петроченков;high;0,5;5;;1;ha1.png;1
+3;Костя Петроченков;high;0,5;7;;1;ha1.png;1
+3;Костя Петроченков;high;0,5;3;;1;ha2.png;0
+3;Костя Петроченков;high;0,5;6;;1;ha3.png;1
+3;Костя Петроченков;high;0,5;2;;1;hb1.png;1
+3;Костя Петроченков;high;0,5;1;;1;hb1.png;0
+3;Костя Петроченков;high;0,5;4;;1;hb2.png;0
+3;Костя Петроченков;high;0,5;0;;1;hb3.png;1
+3;Костя Петроченков;high;0,5;13;;2;ha1.png;1
+3;Костя Петроченков;high;0,5;15;;2;ha1.png;1
+3;Костя Петроченков;high;0,5;11;;2;ha2.png;1
+3;Костя Петроченков;high;0,5;8;;2;ha3.png;1
+3;Костя Петроченков;high;0,5;12;;2;hb1.png;1
+3;Костя Петроченков;high;0,5;14;;2;hb1.png;1
+3;Костя Петроченков;high;0,5;10;;2;hb2.png;1
+3;Костя Петроченков;high;0,5;9;;2;hb3.png;1
+3;Костя Петроченков;high;0,5;16;;3;ha1.png;1
+3;Костя Петроченков;high;0,5;18;;3;ha1.png;1
+3;Костя Петроченков;high;0,5;22;;3;ha2.png;1
+3;Костя Петроченков;high;0,5;19;;3;ha3.png;1
+3;Костя Петроченков;high;0,5;23;;3;hb1.png;1
+3;Костя Петроченков;high;0,5;20;;3;hb1.png;1
+3;Костя Петроченков;high;0,5;17;;3;hb2.png;1
+3;Костя Петроченков;high;0,5;21;;3;hb3.png;1
+3;богдан;low;-0,5;7;;1;la1.png;1
+3;богдан;low;-0,5;4;;1;la1.png;1
+3;богдан;low;-0,5;6;;1;la2.png;1
+3;богдан;low;-0,5;5;;1;la3.png;1
+3;богдан;low;-0,5;1;;1;lb1.png;1
+3;богдан;low;-0,5;0;;1;lb1.png;0
+3;богдан;low;-0,5;2;;1;lb2.png;1
+3;богдан;low;-0,5;3;;1;lb3.png;1
+3;богдан;low;-0,5;11;;2;la1.png;1
+3;богдан;low;-0,5;10;;2;la1.png;1
+3;богдан;low;-0,5;15;;2;la2.png;1
+3;богдан;low;-0,5;13;;2;la3.png;1
+3;богдан;low;-0,5;14;;2;lb1.png;1
+3;богдан;low;-0,5;12;;2;lb1.png;1
+3;богдан;low;-0,5;9;;2;lb2.png;1
+3;богдан;low;-0,5;8;;2;lb3.png;1
+3;богдан;low;-0,5;19;;3;la1.png;1
+3;богдан;low;-0,5;16;;3;la1.png;1
+3;богдан;low;-0,5;22;;3;la2.png;1
+3;богдан;low;-0,5;20;;3;la3.png;1
+3;богдан;low;-0,5;17;;3;lb1.png;1
+3;богдан;low;-0,5;18;;3;lb1.png;1
+3;богдан;low;-0,5;23;;3;lb2.png;1
+3;богдан;low;-0,5;21;;3;lb3.png;1
+3;Роман Петров;high;0,5;4;;1;ha1.png;0
+3;Роман Петров;high;0,5;7;;1;ha1.png;0
+3;Роман Петров;high;0,5;3;;1;ha2.png;1
+3;Роман Петров;high;0,5;5;;1;ha3.png;1
+3;Роман Петров;high;0,5;0;;1;hb1.png;0
+3;Роман Петров;high;0,5;2;;1;hb1.png;1
+3;Роман Петров;high;0,5;1;;1;hb2.png;0
+3;Роман Петров;high;0,5;6;;1;hb3.png;0
+3;Роман Петров;high;0,5;15;;2;ha1.png;0
+3;Роман Петров;high;0,5;10;;2;ha1.png;0
+3;Роман Петров;high;0,5;14;;2;ha2.png;0
+3;Роман Петров;high;0,5;9;;2;ha3.png;0
+3;Роман Петров;high;0,5;12;;2;hb1.png;1
+3;Роман Петров;high;0,5;8;;2;hb1.png;1
+3;Роман Петров;high;0,5;11;;2;hb2.png;0
+3;Роман Петров;high;0,5;13;;2;hb3.png;1
+3;Роман Петров;high;0,5;21;;3;ha1.png;0
+3;Роман Петров;high;0,5;17;;3;ha1.png;1
+3;Роман Петров;high;0,5;22;;3;ha2.png;1
+3;Роман Петров;high;0,5;20;;3;ha3.png;0
+3;Роман Петров;high;0,5;18;;3;hb1.png;1
+3;Роман Петров;high;0,5;23;;3;hb1.png;1
+3;Роман Петров;high;0,5;19;;3;hb2.png;1
+3;Роман Петров;high;0,5;16;;3;hb3.png;1
+3;даша;low;-0,5;0;;1;la1.png;1
+3;даша;low;-0,5;6;;1;la1.png;1
+3;даша;low;-0,5;7;;1;la2.png;0
+3;даша;low;-0,5;4;;1;la3.png;0
+3;даша;low;-0,5;3;;1;lb1.png;1
+3;даша;low;-0,5;2;;1;lb1.png;1
+3;даша;low;-0,5;5;;1;lb2.png;0
+3;даша;low;-0,5;1;;1;lb3.png;1
+3;даша;low;-0,5;10;;2;la1.png;1
+3;даша;low;-0,5;12;;2;la1.png;1
+3;даша;low;-0,5;15;;2;la2.png;0
+3;даша;low;-0,5;13;;2;la3.png;0
+3;даша;low;-0,5;8;;2;lb1.png;0
+3;даша;low;-0,5;9;;2;lb1.png;1
+3;даша;low;-0,5;11;;2;lb2.png;0
+3;даша;low;-0,5;14;;2;lb3.png;1
+3;даша;low;-0,5;20;;3;la1.png;1
+3;даша;low;-0,5;16;;3;la1.png;1
+3;даша;low;-0,5;21;;3;la2.png;0
+3;даша;low;-0,5;17;;3;la3.png;0
+3;даша;low;-0,5;18;;3;lb1.png;1
+3;даша;low;-0,5;22;;3;lb1.png;1
+3;даша;low;-0,5;23;;3;lb2.png;1
+3;даша;low;-0,5;19;;3;lb3.png;1
+3;таня;low;-0,5;1;;1;la1.png;1
+3;таня;low;-0,5;0;;1;la1.png;1
+3;таня;low;-0,5;5;;1;la2.png;1
+3;таня;low;-0,5;3;;1;la3.png;1
+3;таня;low;-0,5;7;;1;lb1.png;1
+3;таня;low;-0,5;2;;1;lb1.png;1
+3;таня;low;-0,5;4;;1;lb2.png;1
+3;таня;low;-0,5;6;;1;lb3.png;1
+3;таня;low;-0,5;10;;2;la1.png;1
+3;таня;low;-0,5;8;;2;la1.png;1
+3;таня;low;-0,5;11;;2;la2.png;1
+3;таня;low;-0,5;13;;2;la3.png;1
+3;таня;low;-0,5;14;;2;lb1.png;1
+3;таня;low;-0,5;15;;2;lb1.png;1
+3;таня;low;-0,5;9;;2;lb2.png;1
+3;таня;low;-0,5;12;;2;lb3.png;1
+3;таня;low;-0,5;16;;3;la1.png;1
+3;таня;low;-0,5;22;;3;la1.png;1
+3;таня;low;-0,5;19;;3;la2.png;1
+3;таня;low;-0,5;18;;3;la3.png;1
+3;таня;low;-0,5;20;;3;lb1.png;1
+3;таня;low;-0,5;21;;3;lb1.png;1
+3;таня;low;-0,5;23;;3;lb2.png;1
+3;таня;low;-0,5;17;;3;lb3.png;1
+3;Александра Шабоневич;high;0,5;3;;1;ha1.png;1
+3;Александра Шабоневич;high;0,5;0;;1;ha1.png;0
+3;Александра Шабоневич;high;0,5;2;;1;ha2.png;0
+3;Александра Шабоневич;high;0,5;4;;1;ha3.png;0
+3;Александра Шабоневич;high;0,5;5;;1;hb1.png;0
+3;Александра Шабоневич;high;0,5;7;;1;hb1.png;1
+3;Александра Шабоневич;high;0,5;1;;1;hb2.png;0
+3;Александра Шабоневич;high;0,5;6;;1;hb3.png;0
+3;Александра Шабоневич;high;0,5;12;;2;ha1.png;1
+3;Александра Шабоневич;high;0,5;9;;2;ha1.png;1
+3;Александра Шабоневич;high;0,5;8;;2;ha2.png;1
+3;Александра Шабоневич;high;0,5;15;;2;ha3.png;1
+3;Александра Шабоневич;high;0,5;14;;2;hb1.png;1
+3;Александра Шабоневич;high;0,5;13;;2;hb1.png;1
+3;Александра Шабоневич;high;0,5;11;;2;hb2.png;0
+3;Александра Шабоневич;high;0,5;10;;2;hb3.png;0
+3;Александра Шабоневич;high;0,5;18;;3;ha1.png;1
+3;Александра Шабоневич;high;0,5;22;;3;ha1.png;1
+3;Александра Шабоневич;high;0,5;19;;3;ha2.png;0
+3;Александра Шабоневич;high;0,5;20;;3;ha3.png;0
+3;Александра Шабоневич;high;0,5;21;;3;hb1.png;1
+3;Александра Шабоневич;high;0,5;23;;3;hb1.png;1
+3;Александра Шабоневич;high;0,5;17;;3;hb2.png;0
+3;Александра Шабоневич;high;0,5;16;;3;hb3.png;0
+3;варя;low;-0,5;5;;1;la1.png;1
+3;варя;low;-0,5;4;;1;la1.png;0
+3;варя;low;-0,5;1;;1;la2.png;1
+3;варя;low;-0,5;3;;1;la3.png;1
+3;варя;low;-0,5;2;;1;lb1.png;1
+3;варя;low;-0,5;7;;1;lb1.png;0
+3;варя;low;-0,5;6;;1;lb2.png;1
+3;варя;low;-0,5;0;;1;lb3.png;1
+3;варя;low;-0,5;11;;2;la1.png;1
+3;варя;low;-0,5;15;;2;la1.png;1
+3;варя;low;-0,5;8;;2;la2.png;0
+3;варя;low;-0,5;13;;2;la3.png;1
+3;варя;low;-0,5;12;;2;lb1.png;1
+3;варя;low;-0,5;9;;2;lb1.png;0
+3;варя;low;-0,5;14;;2;lb2.png;1
+3;варя;low;-0,5;10;;2;lb3.png;1
+3;варя;low;-0,5;16;;3;la1.png;1
+3;варя;low;-0,5;19;;3;la1.png;1
+3;варя;low;-0,5;23;;3;la2.png;1
+3;варя;low;-0,5;21;;3;la3.png;1
+3;варя;low;-0,5;17;;3;lb1.png;1
+3;варя;low;-0,5;18;;3;lb1.png;1
+3;варя;low;-0,5;20;;3;lb2.png;1
+3;варя;low;-0,5;22;;3;lb3.png;1
+3;георгий;low;-0,5;5;;1;la1.png;1
+3;георгий;low;-0,5;3;;1;la1.png;0
+3;георгий;low;-0,5;1;;1;la2.png;1
+3;георгий;low;-0,5;7;;1;la3.png;1
+3;георгий;low;-0,5;0;;1;lb1.png;0
+3;георгий;low;-0,5;2;;1;lb1.png;1
+3;георгий;low;-0,5;6;;1;lb2.png;1
+3;георгий;low;-0,5;4;;1;lb3.png;0
+3;георгий;low;-0,5;13;;2;la1.png;0
+3;георгий;low;-0,5;11;;2;la1.png;1
+3;георгий;low;-0,5;14;;2;la2.png;0
+3;георгий;low;-0,5;15;;2;la3.png;1
+3;георгий;low;-0,5;9;;2;lb1.png;1
+3;георгий;low;-0,5;8;;2;lb1.png;0
+3;георгий;low;-0,5;10;;2;lb2.png;1
+3;георгий;low;-0,5;12;;2;lb3.png;1
+3;георгий;low;-0,5;22;;3;la1.png;1
+3;георгий;low;-0,5;19;;3;la1.png;1
+3;георгий;low;-0,5;17;;3;la2.png;1
+3;георгий;low;-0,5;16;;3;la3.png;1
+3;георгий;low;-0,5;21;;3;lb1.png;0
+3;георгий;low;-0,5;23;;3;lb1.png;1
+3;георгий;low;-0,5;20;;3;lb2.png;1
+3;георгий;low;-0,5;18;;3;lb3.png;0
+4;ak7;verb;;0;;1;hb1.png;0
+4;ak7;verb;;1;;1;hb2.png;1
+4;ak7;verb;;2;;1;ha1.png;1
+4;ak7;verb;;3;;1;ha1.png;1
+4;ak7;verb;;4;;1;hb1.png;1
+4;ak7;verb;;5;;1;ha3.png;1
+4;ak7;verb;;6;;1;hb3.png;1
+4;ak7;verb;;7;;1;ha2.png;1
+4;ak7;verb;;8;;2;hb1.png;1
+4;ak7;verb;;9;;2;hb2.png;1
+4;ak7;verb;;10;;2;ha1.png;1
+4;ak7;verb;;11;;2;ha1.png;1
+4;ak7;verb;;12;;2;hb1.png;1
+4;ak7;verb;;13;;2;ha3.png;1
+4;ak7;verb;;14;;2;hb3.png;1
+4;ak7;verb;;15;;2;ha2.png;1
+4;ak7;verb;;16;;3;hb1.png;1
+4;ak7;verb;;17;;3;hb2.png;1
+4;ak7;verb;;18;;3;ha1.png;1
+4;ak7;verb;;19;;3;ha1.png;1
+4;ak7;verb;;20;;3;hb1.png;1
+4;ak7;verb;;21;;3;ha3.png;1
+4;ak7;verb;;22;;3;hb3.png;1
+4;ak7;verb;;23;;3;ha2.png;1
+4;am8_2i;silence;;0;;1;hb1.png;0
+4;am8_2i;silence;;1;;1;ha2.png;0
+4;am8_2i;silence;;2;;1;ha3.png;0
+4;am8_2i;silence;;3;;1;hb3.png;1
+4;am8_2i;silence;;4;;1;ha1.png;1
+4;am8_2i;silence;;5;;1;ha1.png;1
+4;am8_2i;silence;;6;;1;hb1.png;1
+4;am8_2i;silence;;7;;1;hb2.png;1
+4;am8_2i;silence;;8;;2;hb1.png;1
+4;am8_2i;silence;;9;;2;ha2.png;1
+4;am8_2i;silence;;10;;2;ha3.png;1
+4;am8_2i;silence;;11;;2;hb3.png;1
+4;am8_2i;silence;;12;;2;ha1.png;1
+4;am8_2i;silence;;13;;2;ha1.png;1
+4;am8_2i;silence;;14;;2;hb1.png;1
+4;am8_2i;silence;;15;;2;hb2.png;1
+4;am8_2i;silence;;16;;3;hb1.png;1
+4;am8_2i;silence;;17;;3;ha2.png;1
+4;am8_2i;silence;;18;;3;ha3.png;1
+4;am8_2i;silence;;19;;3;hb3.png;1
+4;am8_2i;silence;;20;;3;ha1.png;1
+4;am8_2i;silence;;21;;3;ha1.png;1
+4;am8_2i;silence;;22;;3;hb1.png;1
+4;am8_2i;silence;;23;;3;hb2.png;1
+4;am8;silence;;0;;1;ha1.png;1
+4;am8;silence;;1;;1;hb3.png;0
+4;am8;silence;;2;;1;hb1.png;1
+4;am8;silence;;3;;1;ha2.png;0
+4;am8;silence;;4;;1;ha1.png;1
+4;am8;silence;;5;;1;hb2.png;1
+4;am8;silence;;6;;1;hb1.png;1
+4;am8;silence;;7;;1;ha3.png;0
+4;am8;silence;;8;;2;ha1.png;0
+4;am8;silence;;9;;2;hb3.png;1
+4;am8;silence;;10;;2;hb1.png;0
+4;ap8_2;verb;;0;;1;ha2.png;1
+4;ap8_2;verb;;1;;1;ha1.png;1
+4;ap8_2;verb;;2;;1;hb1.png;0
+4;ap8_2;verb;;3;;1;hb1.png;1
+4;ap8_2;verb;;4;;1;ha3.png;1
+4;ap8_2;verb;;5;;1;hb3.png;1
+4;ap8_2;verb;;6;;1;ha1.png;1
+4;ap8_2;verb;;7;;1;hb2.png;0
+4;ap8_2;verb;;8;;2;ha2.png;1
+4;ap8_2;verb;;9;;2;ha1.png;0
+4;ap8_2;verb;;10;;2;hb1.png;0
+4;ap8_2;verb;;11;;2;hb1.png;1
+4;ap8_2;verb;;12;;2;ha3.png;1
+4;ap8_2;verb;;13;;2;hb3.png;0
+4;ap8_2;verb;;14;;2;ha1.png;1
+4;ap8_2;verb;;15;;2;hb2.png;1
+4;ap8_2;verb;;16;;3;ha2.png;1
+4;ap8_2;verb;;17;;3;ha1.png;0
+4;ap8_2;verb;;18;;3;hb1.png;1
+4;ap8_2;verb;;19;;3;hb1.png;1
+4;ap8_2;verb;;20;;3;ha3.png;1
+4;ap8_2;verb;;21;;3;hb3.png;1
+4;ap8_2;verb;;22;;3;ha1.png;1
+4;ap8_2;verb;;23;;3;hb2.png;1
+4;ap8;silence;;0;;1;hb2.png;0
+4;ap8;silence;;1;;1;hb3.png;0
+4;ap8;silence;;2;;1;ha1.png;0
+4;ap8;silence;;3;;1;ha3.png;1
+4;ap8;silence;;4;;1;hb1.png;1
+4;ap8;silence;;5;;1;ha1.png;0
+4;ap8;silence;;6;;1;ha2.png;1
+4;ap8;silence;;7;;1;hb1.png;1
+4;ap8;silence;;8;;2;hb2.png;1
+4;ap8;silence;;9;;2;hb3.png;1
+4;ap8;silence;;10;;2;ha1.png;0
+4;ap8;silence;;11;;2;ha3.png;1
+4;ap8;silence;;12;;2;hb1.png;1
+4;ap8;silence;;13;;2;ha1.png;1
+4;ap8;silence;;14;;2;ha2.png;1
+4;ap8;silence;;15;;2;hb1.png;1
+4;ap8;silence;;16;;3;hb2.png;1
+4;ap8;silence;;17;;3;hb3.png;1
+4;ap8;silence;;18;;3;ha1.png;1
+4;ap8;silence;;19;;3;ha3.png;1
+4;ap8;silence;;20;;3;hb1.png;1
+4;ap8;silence;;21;;3;ha1.png;1
+4;ap8;silence;;22;;3;ha2.png;1
+4;ap8;silence;;23;;3;hb1.png;1
+4;av7;silence;;0;;1;hb1.png;0
+4;av7;silence;;1;;1;hb2.png;0
+4;av7;silence;;2;;1;ha3.png;0
+4;av7;silence;;3;;1;ha1.png;1
+4;av7;silence;;4;;1;hb1.png;0
+4;av7;silence;;5;;1;ha1.png;0
+4;av7;silence;;6;;1;ha2.png;1
+4;av7;silence;;7;;1;hb3.png;1
+4;av7;silence;;8;;2;hb1.png;0
+4;av7;silence;;9;;2;hb2.png;1
+4;av7;silence;;10;;2;ha3.png;1
+4;av7;silence;;11;;2;ha1.png;1
+4;av7;silence;;12;;2;hb1.png;0
+4;av7;silence;;13;;2;ha1.png;0
+4;av7;silence;;14;;2;ha2.png;1
+4;av7;silence;;15;;2;hb3.png;1
+4;av7;silence;;16;;3;hb1.png;0
+4;av7;silence;;17;;3;hb2.png;1
+4;av7;silence;;18;;3;ha3.png;1
+4;av7;silence;;19;;3;ha1.png;1
+4;av7;silence;;20;;3;hb1.png;1
+4;av7;silence;;21;;3;ha1.png;1
+4;av7;silence;;22;;3;ha2.png;1
+4;av7;silence;;23;;3;hb3.png;1
+4;az8t;verb;;0;;1;ha1.png;1
+4;az8t;verb;;1;;1;hb3.png;0
+4;az8t;verb;;2;;1;hb1.png;1
+4;az8t;verb;;3;;1;ha1.png;1
+4;az8t;verb;;4;;1;hb1.png;1
+4;az8t;verb;;5;;1;ha2.png;1
+4;az8t;verb;;6;;1;ha3.png;0
+4;az8t;verb;;7;;1;hb2.png;1
+4;az8t;verb;;8;;2;ha1.png;1
+4;az8t;verb;;9;;2;hb3.png;1
+4;az8t;verb;;10;;2;hb1.png;1
+4;az8t;verb;;11;;2;ha1.png;1
+4;az8t;verb;;12;;2;hb1.png;1
+4;az8t;verb;;13;;2;ha2.png;1
+4;az8t;verb;;14;;2;ha3.png;1
+4;az8t;verb;;15;;2;hb2.png;1
+4;az8t;verb;;16;;3;ha1.png;1
+4;az8t;verb;;17;;3;hb3.png;1
+4;az8t;verb;;18;;3;hb1.png;1
+4;az8t;verb;;19;;3;ha1.png;1
+4;az8t;verb;;20;;3;hb1.png;1
+4;az8t;verb;;21;;3;ha2.png;1
+4;az8t;verb;;22;;3;ha3.png;1
+4;az8t;verb;;23;;3;hb2.png;1
+4;dg8;silence;;0;;1;hb1.png;0
+4;dg8;silence;;1;;1;ha1.png;1
+4;dg8;silence;;2;;1;ha1.png;0
+4;dg8;silence;;3;;1;hb2.png;0
+4;dg8;silence;;4;;1;ha2.png;0
+4;dg8;silence;;5;;1;hb1.png;0
+4;dg8;silence;;6;;1;hb3.png;0
+4;dg8;silence;;7;;1;ha3.png;0
+4;dg8;silence;;8;;2;hb1.png;0
+4;dg8;silence;;9;;2;ha1.png;1
+4;dg8;silence;;10;;2;ha1.png;1
+4;dg8;silence;;11;;2;hb2.png;1
+4;dg8;silence;;12;;2;ha2.png;1
+4;dg8;silence;;13;;2;hb1.png;1
+4;dg8;silence;;14;;2;hb3.png;0
+4;dg8;silence;;15;;2;ha3.png;1
+4;dg8;silence;;16;;3;hb1.png;0
+4;dg8;silence;;17;;3;ha1.png;1
+4;dg8;silence;;18;;3;ha1.png;1
+4;dg8;silence;;19;;3;hb2.png;1
+4;dg8;silence;;20;;3;ha2.png;1
+4;dg8;silence;;21;;3;hb1.png;1
+4;dg8;silence;;22;;3;hb3.png;1
+4;dg8;silence;;23;;3;ha3.png;1
+4;dk7;verb;;0;;1;ha2.png;1
+4;dk7;verb;;1;;1;hb2.png;0
+4;dk7;verb;;2;;1;ha1.png;0
+4;dk7;verb;;3;;1;ha1.png;1
+4;dk7;verb;;4;;1;hb1.png;1
+4;dk7;verb;;5;;1;ha3.png;1
+4;dk7;verb;;6;;1;hb1.png;1
+4;dk7;verb;;7;;1;hb3.png;1
+4;dk7;verb;;8;;2;ha2.png;1
+4;dk7;verb;;9;;2;hb2.png;1
+4;dk7;verb;;10;;2;ha1.png;1
+4;dk7;verb;;11;;2;ha1.png;1
+4;dk7;verb;;12;;2;hb1.png;1
+4;dk7;verb;;13;;2;ha3.png;1
+4;dk7;verb;;14;;2;hb1.png;1
+4;dk7;verb;;15;;2;hb3.png;1
+4;dk7;verb;;16;;3;ha2.png;1
+4;dk7;verb;;17;;3;hb2.png;1
+4;dk7;verb;;18;;3;ha1.png;1
+4;dk7;verb;;19;;3;ha1.png;1
+4;dk7;verb;;20;;3;hb1.png;1
+4;dk7;verb;;21;;3;ha3.png;1
+4;dk7;verb;;22;;3;hb1.png;1
+4;dk7;verb;;23;;3;hb3.png;1
+4;dt8;verb;;0;;1;hb1.png;0
+4;dt8;verb;;1;;1;hb3.png;0
+4;dt8;verb;;2;;1;ha2.png;0
+4;dt8;verb;;3;;1;ha1.png;1
+4;dt8;verb;;4;;1;hb2.png;1
+4;dt8;verb;;5;;1;ha3.png;0
+4;dt8;verb;;6;;1;ha1.png;1
+4;dt8;verb;;7;;1;hb1.png;1
+4;dt8;verb;;8;;2;hb1.png;1
+4;dt8;verb;;9;;2;hb3.png;0
+4;dt8;verb;;10;;2;ha2.png;1
+4;dt8;verb;;11;;2;ha1.png;0
+4;dt8;verb;;12;;2;hb2.png;1
+4;dt8;verb;;13;;2;ha3.png;1
+4;dt8;verb;;14;;2;ha1.png;1
+4;dt8;verb;;15;;2;hb1.png;1
+4;dt8;verb;;16;;3;hb1.png;1
+4;dt8;verb;;17;;3;hb3.png;0
+4;dt8;verb;;18;;3;ha2.png;0
+4;dt8;verb;;19;;3;ha1.png;1
+4;dt8;verb;;20;;3;hb2.png;1
+4;dt8;verb;;21;;3;ha3.png;1
+4;dt8;verb;;22;;3;ha1.png;0
+4;dt8;verb;;23;;3;hb1.png;1
+4;dz7;verb;;0;;1;hb3.png;0
+4;dz7;verb;;1;;1;hb2.png;0
+4;dz7;verb;;2;;1;ha3.png;0
+4;dz7;verb;;3;;1;ha2.png;0
+4;dz7;verb;;4;;1;hb1.png;1
+4;dz7;verb;;5;;1;ha1.png;0
+4;dz7;verb;;6;;1;ha1.png;0
+4;dz7;verb;;7;;1;hb1.png;1
+4;dz7;verb;;8;;2;hb3.png;1
+4;dz7;verb;;9;;2;hb2.png;0
+4;dz7;verb;;10;;2;ha3.png;1
+4;dz7;verb;;11;;2;ha2.png;0
+4;dz7;verb;;12;;2;hb1.png;0
+4;dz7;verb;;13;;2;ha1.png;0
+4;dz7;verb;;14;;2;ha1.png;1
+4;dz7;verb;;15;;2;hb1.png;1
+4;dz7;verb;;16;;3;hb3.png;0
+4;dz7;verb;;17;;3;hb2.png;0
+4;dz7;verb;;18;;3;ha3.png;0
+4;dz7;verb;;19;;3;ha2.png;1
+4;dz7;verb;;20;;3;hb1.png;1
+4;dz7;verb;;21;;3;ha1.png;0
+4;dz7;verb;;22;;3;ha1.png;1
+4;dz7;verb;;23;;3;hb1.png;1
+4;eh7;verb;;0;;1;hb1.png;0
+4;eh7;verb;;1;;1;ha2.png;0
+4;eh7;verb;;2;;1;ha1.png;1
+4;eh7;verb;;3;;1;hb1.png;1
+4;eh7;verb;;4;;1;ha3.png;1
+4;eh7;verb;;5;;1;hb3.png;1
+4;eh7;verb;;6;;1;ha1.png;1
+4;eh7;verb;;7;;1;hb2.png;1
+4;eh7;verb;;8;;2;hb1.png;1
+4;eh7;verb;;9;;2;ha2.png;1
+4;eh7;verb;;10;;2;ha1.png;0
+4;eh7;verb;;11;;2;hb1.png;1
+4;eh7;verb;;12;;2;ha3.png;1
+4;eh7;verb;;13;;2;hb3.png;0
+4;eh7;verb;;14;;2;ha1.png;0
+4;eh7;verb;;15;;2;hb2.png;0
+4;eh7;verb;;16;;3;hb1.png;1
+4;eh7;verb;;17;;3;ha2.png;1
+4;eh7;verb;;18;;3;ha1.png;0
+4;eh7;verb;;19;;3;hb1.png;1
+4;eh7;verb;;20;;3;ha3.png;1
+4;eh7;verb;;21;;3;hb3.png;1
+4;eh7;verb;;22;;3;ha1.png;1
+4;eh7;verb;;23;;3;hb2.png;1
+4;em7_1k;verb;;0;;1;ha3.png;1
+4;em7_1k;verb;;1;;1;hb3.png;1
+4;em7_1k;verb;;2;;1;hb2.png;0
+4;em7_1k;verb;;3;;1;ha2.png;1
+4;em7_1k;verb;;4;;1;hb1.png;1
+4;em7_1k;verb;;5;;1;hb1.png;1
+4;em7_1k;verb;;6;;1;ha1.png;1
+4;em7_1k;verb;;7;;1;ha1.png;1
+4;em7_1k;verb;;8;;2;ha3.png;1
+4;em7_1k;verb;;9;;2;hb3.png;1
+4;em7_1k;verb;;10;;2;hb2.png;1
+4;em7_1k;verb;;11;;2;ha2.png;1
+4;em7_1k;verb;;12;;2;hb1.png;1
+4;em7_1k;verb;;13;;2;hb1.png;1
+4;em7_1k;verb;;14;;2;ha1.png;1
+4;em7_1k;verb;;15;;2;ha1.png;1
+4;em7_1k;verb;;16;;3;ha3.png;1
+4;em7_1k;verb;;17;;3;hb3.png;1
+4;em7_1k;verb;;18;;3;hb2.png;1
+4;em7_1k;verb;;19;;3;ha2.png;1
+4;em7_1k;verb;;20;;3;hb1.png;1
+4;em7_1k;verb;;21;;3;hb1.png;1
+4;em7_1k;verb;;22;;3;ha1.png;1
+4;em7_1k;verb;;23;;3;ha1.png;1
+4;em7;verb;;0;;1;ha1.png;1
+4;em7;verb;;1;;1;ha1.png;1
+4;em7;verb;;2;;1;hb3.png;0
+4;em7;verb;;3;;1;hb1.png;1
+4;em7;verb;;4;;1;ha2.png;0
+4;em7;verb;;5;;1;hb1.png;1
+4;em7;verb;;6;;1;ha3.png;1
+4;em7;verb;;7;;1;hb2.png;0
+4;em7;verb;;8;;2;ha1.png;1
+4;em7;verb;;9;;2;ha1.png;0
+4;em7;verb;;10;;2;hb3.png;0
+4;em7;verb;;11;;2;hb1.png;1
+4;em7;verb;;12;;2;ha2.png;0
+4;em7;verb;;13;;2;hb1.png;1
+4;em7;verb;;14;;2;ha3.png;1
+4;em7;verb;;15;;2;hb2.png;1
+4;em7;verb;;16;;3;ha1.png;0
+4;em7;verb;;17;;3;ha1.png;1
+4;em7;verb;;18;;3;hb3.png;0
+4;em7;verb;;19;;3;hb1.png;1
+4;em7;verb;;20;;3;ha2.png;0
+4;em7;verb;;21;;3;hb1.png;1
+4;em7;verb;;22;;3;ha3.png;1
+4;em7;verb;;23;;3;hb2.png;1
+4;ep8;silence;;0;;1;ha1.png;1
+4;ep8;silence;;1;;1;hb1.png;1
+4;ep8;silence;;2;;1;ha1.png;1
+4;ep8;silence;;3;;1;hb1.png;1
+4;ep8;silence;;4;;1;hb2.png;1
+4;ep8;silence;;5;;1;ha2.png;1
+4;ep8;silence;;6;;1;ha3.png;1
+4;ep8;silence;;7;;1;hb3.png;1
+4;ep8;silence;;8;;2;ha1.png;1
+4;ep8;silence;;9;;2;hb1.png;1
+4;ep8;silence;;10;;2;ha1.png;1
+4;ep8;silence;;11;;2;hb1.png;1
+4;ep8;silence;;12;;2;hb2.png;0
+4;ep8;silence;;13;;2;ha2.png;0
+4;ep8;silence;;14;;2;ha3.png;1
+4;ep8;silence;;15;;2;hb3.png;1
+4;ep8;silence;;16;;3;ha1.png;1
+4;ep8;silence;;17;;3;hb1.png;1
+4;ep8;silence;;18;;3;ha1.png;1
+4;ep8;silence;;19;;3;hb1.png;1
+4;ep8;silence;;20;;3;hb2.png;0
+4;ep8;silence;;21;;3;ha2.png;0
+4;ep8;silence;;22;;3;ha3.png;1
+4;ep8;silence;;23;;3;hb3.png;1
+4;gs8;silence;;0;;1;ha1.png;1
+4;gs8;silence;;1;;1;ha3.png;0
+4;gs8;silence;;2;;1;hb2.png;1
+4;gs8;silence;;3;;1;hb3.png;0
+4;gs8;silence;;4;;1;ha1.png;1
+4;gs8;silence;;5;;1;ha2.png;0
+4;gs8;silence;;6;;1;hb1.png;0
+4;gs8;silence;;7;;1;hb1.png;1
+4;gs8;silence;;8;;2;ha1.png;1
+4;gs8;silence;;9;;2;ha3.png;0
+4;gs8;silence;;10;;2;hb2.png;1
+4;gs8;silence;;11;;2;hb3.png;0
+4;gs8;silence;;12;;2;ha1.png;1
+4;gs8;silence;;13;;2;ha2.png;1
+4;gs8;silence;;14;;2;hb1.png;1
+4;gs8;silence;;15;;2;hb1.png;1
+4;gs8;silence;;16;;3;ha1.png;1
+4;gs8;silence;;17;;3;ha3.png;0
+4;gs8;silence;;18;;3;hb2.png;1
+4;gs8;silence;;19;;3;hb3.png;1
+4;gs8;silence;;20;;3;ha1.png;1
+4;gs8;silence;;21;;3;ha2.png;0
+4;gs8;silence;;22;;3;hb1.png;1
+4;gs8;silence;;23;;3;hb1.png;1
+4;ha_7;verb;;0;;1;hb1.png;0
+4;ha_7;verb;;1;;1;hb3.png;0
+4;ha_7;verb;;2;;1;ha1.png;0
+4;ha_7;verb;;3;;1;ha1.png;1
+4;ha_7;verb;;4;;1;hb2.png;1
+4;ha_7;verb;;5;;1;hb1.png;1
+4;ha_7;verb;;6;;1;ha2.png;1
+4;ha_7;verb;;7;;1;ha3.png;1
+4;ha_7;verb;;8;;2;hb1.png;1
+4;ha_7;verb;;9;;2;hb3.png;1
+4;ha_7;verb;;10;;2;ha1.png;1
+4;ha_7;verb;;11;;2;ha1.png;1
+4;ha_7;verb;;12;;2;hb2.png;1
+4;ha_7;verb;;13;;2;hb1.png;1
+4;ha_7;verb;;14;;2;ha2.png;1
+4;ha_7;verb;;15;;2;ha3.png;1
+4;ha_7;verb;;16;;3;hb1.png;1
+4;ha_7;verb;;17;;3;hb3.png;1
+4;ha_7;verb;;18;;3;ha1.png;1
+4;ha_7;verb;;19;;3;ha1.png;1
+4;ha_7;verb;;20;;3;hb2.png;1
+4;ha_7;verb;;21;;3;hb1.png;1
+4;ha_7;verb;;22;;3;ha2.png;0
+4;ha_7;verb;;23;;3;ha3.png;1
+4;ih8;verb;;0;;1;hb2.png;0
+4;ih8;verb;;1;;1;ha1.png;0
+4;ih8;verb;;2;;1;hb1.png;0
+4;ih8;verb;;3;;1;ha2.png;1
+4;ih8;verb;;4;;1;ha1.png;0
+4;ih8;verb;;5;;1;hb1.png;0
+4;ih8;verb;;6;;1;ha3.png;0
+4;ih8;verb;;7;;1;hb3.png;1
+4;ih8;verb;;8;;2;hb2.png;0
+4;ih8;verb;;9;;2;ha1.png;1
+4;ih8;verb;;10;;2;hb1.png;1
+4;ih8;verb;;11;;2;ha2.png;0
+4;ih8;verb;;12;;2;ha1.png;0
+4;ih8;verb;;13;;2;hb1.png;0
+4;ih8;verb;;14;;2;ha3.png;1
+4;ih8;verb;;15;;2;hb3.png;1
+4;ih8;verb;;16;;3;hb2.png;0
+4;ih8;verb;;17;;3;ha1.png;0
+4;ih8;verb;;18;;3;hb1.png;0
+4;ih8;verb;;19;;3;ha2.png;0
+4;ih8;verb;;20;;3;ha1.png;1
+4;ih8;verb;;21;;3;hb1.png;0
+4;ih8;verb;;22;;3;ha3.png;1
+4;ih8;verb;;23;;3;hb3.png;1
+4;it8;silence;;0;;1;ha1.png;0
+4;it8;silence;;1;;1;hb3.png;1
+4;it8;silence;;2;;1;ha3.png;1
+4;it8;silence;;3;;1;hb1.png;1
+4;it8;silence;;4;;1;hb1.png;1
+4;it8;silence;;5;;1;ha2.png;1
+4;it8;silence;;6;;1;ha1.png;0
+4;it8;silence;;7;;1;hb2.png;0
+4;it8;silence;;8;;2;ha1.png;0
+4;it8;silence;;9;;2;hb3.png;0
+4;it8;silence;;10;;2;ha3.png;1
+4;it8;silence;;11;;2;hb1.png;1
+4;it8;silence;;12;;2;hb1.png;1
+4;it8;silence;;13;;2;ha2.png;1
+4;it8;silence;;14;;2;ha1.png;0
+4;it8;silence;;15;;2;hb2.png;1
+4;it8;silence;;16;;3;ha1.png;0
+4;it8;silence;;17;;3;hb3.png;0
+4;it8;silence;;18;;3;ha3.png;1
+4;it8;silence;;19;;3;hb1.png;1
+4;it8;silence;;20;;3;hb1.png;1
+4;it8;silence;;21;;3;ha2.png;1
+4;it8;silence;;22;;3;ha1.png;0
+4;it8;silence;;23;;3;hb2.png;0
+4;iz8;verb;;0;;1;ha3.png;1
+4;iz8;verb;;1;;1;ha1.png;0
+4;iz8;verb;;2;;1;hb2.png;0
+4;iz8;verb;;3;;1;hb3.png;1
+4;iz8;verb;;4;;1;ha1.png;0
+4;iz8;verb;;5;;1;hb1.png;1
+4;iz8;verb;;6;;1;ha2.png;1
+4;iz8;verb;;7;;1;hb1.png;1
+4;iz8;verb;;8;;2;ha3.png;1
+4;iz8;verb;;9;;2;ha1.png;0
+4;iz8;verb;;10;;2;hb2.png;0
+4;iz8;verb;;11;;2;hb3.png;1
+4;iz8;verb;;12;;2;ha1.png;1
+4;iz8;verb;;13;;2;hb1.png;1
+4;iz8;verb;;14;;2;ha2.png;1
+4;iz8;verb;;15;;2;hb1.png;1
+4;iz8;verb;;16;;3;ha3.png;0
+4;iz8;verb;;17;;3;ha1.png;1
+4;iz8;verb;;18;;3;hb2.png;1
+4;iz8;verb;;19;;3;hb3.png;0
+4;iz8;verb;;20;;3;ha1.png;1
+4;iz8;verb;;21;;3;hb1.png;1
+4;iz8;verb;;22;;3;ha2.png;1
+4;iz8;verb;;23;;3;hb1.png;1
+4;kb9;silence;;0;;1;hb3.png;0
+4;kb9;silence;;1;;1;ha1.png;0
+4;kb9;silence;;2;;1;hb1.png;1
+4;kb9;silence;;3;;1;hb1.png;1
+4;kb9;silence;;4;;1;ha2.png;0
+4;kb9;silence;;5;;1;hb2.png;1
+4;kb9;silence;;6;;1;ha1.png;1
+4;kb9;silence;;7;;1;ha3.png;0
+4;kb9;silence;;8;;2;hb3.png;1
+4;kb9;silence;;9;;2;ha1.png;1
+4;kb9;silence;;10;;2;hb1.png;1
+4;kb9;silence;;11;;2;hb1.png;1
+4;kb9;silence;;12;;2;ha2.png;1
+4;kb9;silence;;13;;2;hb2.png;1
+4;kb9;silence;;14;;2;ha1.png;1
+4;kb9;silence;;15;;2;ha3.png;1
+4;kb9;silence;;16;;3;hb3.png;1
+4;kb9;silence;;17;;3;ha1.png;1
+4;kb9;silence;;18;;3;hb1.png;1
+4;kb9;silence;;19;;3;hb1.png;1
+4;kb9;silence;;20;;3;ha2.png;1
+4;kb9;silence;;21;;3;hb2.png;1
+4;kb9;silence;;22;;3;ha1.png;1
+4;kb9;silence;;23;;3;ha3.png;1
+4;ky8;silence;;0;;1;hb1.png;0
+4;ky8;silence;;1;;1;ha1.png;1
+4;ky8;silence;;2;;1;hb2.png;1
+4;ky8;silence;;3;;1;hb3.png;1
+4;ky8;silence;;4;;1;ha2.png;0
+4;ky8;silence;;5;;1;ha1.png;1
+4;ky8;silence;;6;;1;hb1.png;1
+4;ky8;silence;;7;;1;ha3.png;0
+4;ky8;silence;;8;;2;hb1.png;1
+4;ky8;silence;;9;;2;ha1.png;1
+4;ky8;silence;;10;;2;hb2.png;1
+4;ky8;silence;;11;;2;hb3.png;0
+4;ky8;silence;;12;;2;ha2.png;0
+4;ky8;silence;;13;;2;ha1.png;1
+4;ky8;silence;;14;;2;hb1.png;1
+4;ky8;silence;;15;;2;ha3.png;1
+4;ky8;silence;;16;;3;hb1.png;1
+4;ky8;silence;;17;;3;ha1.png;1
+4;ky8;silence;;18;;3;hb2.png;1
+4;ky8;silence;;19;;3;hb3.png;0
+4;ky8;silence;;20;;3;ha2.png;0
+4;ky8;silence;;21;;3;ha1.png;1
+4;ky8;silence;;22;;3;hb1.png;1
+4;ky8;silence;;23;;3;ha3.png;0
+4;ma7_1k;verb;;0;;1;ha2.png;0
+4;ma7_1k;verb;;1;;1;hb3.png;1
+4;ma7_1k;verb;;2;;1;hb1.png;0
+4;ma7_1k;verb;;3;;1;ha1.png;1
+4;ma7_1k;verb;;4;;1;ha3.png;1
+4;ma7_1k;verb;;5;;1;hb2.png;1
+4;ma7_1k;verb;;6;;1;hb1.png;1
+4;ma7_1k;verb;;7;;1;ha1.png;1
+4;ma7_1k;verb;;8;;2;ha2.png;1
+4;ma7_1k;verb;;9;;2;hb3.png;1
+4;ma7_1k;verb;;10;;2;hb1.png;1
+4;ma7_1k;verb;;11;;2;ha1.png;1
+4;ma7_1k;verb;;12;;2;ha3.png;1
+4;ma7_1k;verb;;13;;2;hb2.png;1
+4;ma7_1k;verb;;14;;2;hb1.png;1
+4;ma7_1k;verb;;15;;2;ha1.png;1
+4;ma7_1k;verb;;16;;3;ha2.png;1
+4;ma7_1k;verb;;17;;3;hb3.png;1
+4;ma7_1k;verb;;18;;3;hb1.png;1
+4;ma7_1k;verb;;19;;3;ha1.png;1
+4;ma7_1k;verb;;20;;3;ha3.png;1
+4;ma7_1k;verb;;21;;3;hb2.png;1
+4;ma7_1k;verb;;22;;3;hb1.png;1
+4;ma7_1k;verb;;23;;3;ha1.png;1
+4;ma7;verb;;0;;1;hb3.png;0
+4;ma7;verb;;1;;1;hb1.png;1
+4;ma7;verb;;2;;1;ha1.png;1
+4;ma7;verb;;3;;1;ha1.png;0
+4;ma7;verb;;4;;1;hb2.png;1
+4;ma7;verb;;5;;1;ha2.png;1
+4;ma7;verb;;6;;1;ha3.png;0
+4;ma7;verb;;7;;1;hb1.png;0
+4;ma7;verb;;8;;2;hb3.png;1
+4;ma7;verb;;9;;2;hb1.png;1
+4;ma7;verb;;10;;2;ha1.png;1
+4;ma7;verb;;11;;2;ha1.png;1
+4;ma7;verb;;12;;2;hb2.png;1
+4;ma7;verb;;13;;2;ha2.png;0
+4;ma7;verb;;14;;2;ha3.png;1
+4;ma7;verb;;15;;2;hb1.png;0
+4;ma7;verb;;16;;3;hb3.png;1
+4;ma7;verb;;17;;3;hb1.png;1
+4;ma7;verb;;18;;3;ha1.png;1
+4;ma7;verb;;19;;3;ha1.png;1
+4;ma7;verb;;20;;3;hb2.png;1
+4;ma7;verb;;21;;3;ha2.png;1
+4;ma7;verb;;22;;3;ha3.png;0
+4;ma7;verb;;23;;3;hb1.png;1
+4;mg8;silence;;0;;1;ha1.png;1
+4;mg8;silence;;1;;1;ha1.png;1
+4;mg8;silence;;2;;1;hb1.png;1
+4;mg8;silence;;3;;1;hb1.png;1
+4;mg8;silence;;4;;1;ha2.png;1
+4;mg8;silence;;5;;1;ha3.png;0
+4;mg8;silence;;6;;1;hb2.png;1
+4;mg8;silence;;7;;1;hb3.png;0
+4;mg8;silence;;8;;2;ha1.png;1
+4;mg8;silence;;9;;2;ha1.png;1
+4;mg8;silence;;10;;2;hb1.png;1
+4;mg8;silence;;11;;2;hb1.png;1
+4;mg8;silence;;12;;2;ha2.png;1
+4;mg8;silence;;13;;2;ha3.png;1
+4;mg8;silence;;14;;2;hb2.png;0
+4;mg8;silence;;15;;2;hb3.png;1
+4;mg8;silence;;16;;3;ha1.png;1
+4;mg8;silence;;17;;3;ha1.png;1
+4;mg8;silence;;18;;3;hb1.png;1
+4;mg8;silence;;19;;3;hb1.png;1
+4;mg8;silence;;20;;3;ha2.png;1
+4;mg8;silence;;21;;3;ha3.png;1
+4;mg8;silence;;22;;3;hb2.png;1
+4;mg8;silence;;23;;3;hb3.png;1
+4;mm8;silence;;0;;1;ha1.png;1
+4;mm8;silence;;1;;1;ha1.png;0
+4;mm8;silence;;2;;1;hb3.png;1
+4;mm8;silence;;3;;1;hb1.png;0
+4;mm8;silence;;4;;1;ha3.png;1
+4;mm8;silence;;5;;1;hb2.png;1
+4;mm8;silence;;6;;1;ha2.png;1
+4;mm8;silence;;7;;1;hb1.png;1
+4;mm8;silence;;8;;2;ha1.png;1
+4;mm8;silence;;9;;2;ha1.png;1
+4;mm8;silence;;10;;2;hb3.png;1
+4;mm8;silence;;11;;2;hb1.png;1
+4;mm8;silence;;12;;2;ha3.png;1
+4;mm8;silence;;13;;2;hb2.png;1
+4;mm8;silence;;14;;2;ha2.png;1
+4;mm8;silence;;15;;2;hb1.png;1
+4;mm8;silence;;16;;3;ha1.png;1
+4;mm8;silence;;17;;3;ha1.png;1
+4;mm8;silence;;18;;3;hb3.png;1
+4;mm8;silence;;19;;3;hb1.png;1
+4;mm8;silence;;20;;3;ha3.png;1
+4;mm8;silence;;21;;3;hb2.png;1
+4;mm8;silence;;22;;3;ha2.png;1
+4;mm8;silence;;23;;3;hb1.png;1
+4;ms7;verb;;0;;1;hb1.png;0
+4;ms7;verb;;1;;1;ha3.png;0
+4;ms7;verb;;2;;1;ha1.png;0
+4;ms7;verb;;3;;1;hb1.png;1
+4;ms7;verb;;4;;1;hb2.png;0
+4;ms7;verb;;5;;1;ha1.png;1
+4;ms7;verb;;6;;1;hb3.png;1
+4;ms7;verb;;7;;1;ha2.png;1
+4;ms7;verb;;8;;2;hb1.png;0
+4;ms7;verb;;9;;2;ha3.png;0
+4;ms7;verb;;10;;2;ha1.png;0
+4;ms7;verb;;11;;2;hb1.png;0
+4;ms7;verb;;12;;2;hb2.png;0
+4;ms7;verb;;13;;2;ha1.png;1
+4;ms7;verb;;14;;2;hb3.png;1
+4;ms7;verb;;15;;2;ha2.png;0
+4;ms7;verb;;16;;3;hb1.png;1
+4;ms7;verb;;17;;3;ha3.png;1
+4;ms7;verb;;18;;3;ha1.png;1
+4;ms7;verb;;19;;3;hb1.png;1
+4;ms7;verb;;20;;3;hb2.png;1
+4;ms7;verb;;21;;3;ha1.png;1
+4;ms7;verb;;22;;3;hb3.png;1
+4;ms7;verb;;23;;3;ha2.png;1
+4;nd8;silence;;0;;1;ha3.png;0
+4;nd8;silence;;1;;1;hb3.png;1
+4;nd8;silence;;2;;1;hb1.png;0
+4;nd8;silence;;3;;1;ha1.png;1
+4;nd8;silence;;4;;1;ha2.png;1
+4;nd8;silence;;5;;1;hb2.png;0
+4;nd8;silence;;6;;1;ha1.png;0
+4;nd8;silence;;7;;1;hb1.png;1
+4;nd8;silence;;8;;2;ha3.png;1
+4;nd8;silence;;9;;2;hb3.png;1
+4;nd8;silence;;10;;2;hb1.png;0
+4;nd8;silence;;11;;2;ha1.png;1
+4;nd8;silence;;12;;2;ha2.png;0
+4;nd8;silence;;13;;2;hb2.png;0
+4;nd8;silence;;14;;2;ha1.png;1
+4;nd8;silence;;15;;2;hb1.png;1
+4;nd8;silence;;16;;3;ha3.png;0
+4;nd8;silence;;17;;3;hb3.png;1
+4;nd8;silence;;18;;3;hb1.png;0
+4;nd8;silence;;19;;3;ha1.png;1
+4;nd8;silence;;20;;3;ha2.png;0
+4;nd8;silence;;21;;3;hb2.png;1
+4;nd8;silence;;22;;3;ha1.png;1
+4;nd8;silence;;23;;3;hb1.png;0
+4;pt9;silence;;0;;1;hb1.png;1
+4;pt9;silence;;1;;1;ha3.png;1
+4;pt9;silence;;2;;1;ha1.png;1
+4;pt9;silence;;3;;1;hb2.png;0
+4;pt9;silence;;4;;1;hb3.png;1
+4;pt9;silence;;5;;1;ha1.png;1
+4;pt9;silence;;6;;1;hb1.png;1
+4;pt9;silence;;7;;1;ha2.png;0
+4;pt9;silence;;8;;2;hb1.png;1
+4;pt9;silence;;9;;2;ha3.png;1
+4;pt9;silence;;10;;2;ha1.png;1
+4;pt9;silence;;11;;2;hb2.png;1
+4;pt9;silence;;12;;2;hb3.png;0
+4;pt9;silence;;13;;2;ha1.png;1
+4;pt9;silence;;14;;2;hb1.png;1
+4;pt9;silence;;15;;2;ha2.png;0
+4;pt9;silence;;16;;3;hb1.png;1
+4;pt9;silence;;17;;3;ha3.png;1
+4;pt9;silence;;18;;3;ha1.png;1
+4;pt9;silence;;19;;3;hb2.png;1
+4;pt9;silence;;20;;3;hb3.png;1
+4;pt9;silence;;21;;3;ha1.png;1
+4;pt9;silence;;22;;3;hb1.png;1
+4;pt9;silence;;23;;3;ha2.png;0
+4;sl7;verb;;0;;1;ha1.png;0
+4;sl7;verb;;1;;1;hb1.png;0
+4;sl7;verb;;2;;1;hb1.png;1
+4;sl7;verb;;3;;1;ha1.png;1
+4;sl7;verb;;4;;1;ha2.png;0
+4;sl7;verb;;5;;1;hb2.png;1
+4;sl7;verb;;6;;1;ha3.png;1
+4;sl7;verb;;7;;1;hb3.png;1
+4;sl7;verb;;8;;2;ha1.png;1
+4;sl7;verb;;9;;2;hb1.png;1
+4;sl7;verb;;10;;2;hb1.png;0
+4;sl7;verb;;11;;2;ha1.png;0
+4;sl7;verb;;12;;2;ha2.png;1
+4;sl7;verb;;13;;2;hb2.png;1
+4;sl7;verb;;14;;2;ha3.png;1
+4;sl7;verb;;15;;2;hb3.png;1
+4;sl7;verb;;16;;3;ha1.png;1
+4;sl7;verb;;17;;3;hb1.png;1
+4;sl7;verb;;18;;3;hb1.png;1
+4;sl7;verb;;19;;3;ha1.png;1
+4;sl7;verb;;20;;3;ha2.png;0
+4;sl7;verb;;21;;3;hb2.png;1
+4;sl7;verb;;22;;3;ha3.png;1
+4;sl7;verb;;23;;3;hb3.png;1
+4;sr9;silence;;0;;1;ha1.png;1
+4;sr9;silence;;1;;1;hb2.png;0
+4;sr9;silence;;2;;1;hb3.png;1
+4;sr9;silence;;3;;1;ha1.png;1
+4;sr9;silence;;4;;1;hb1.png;1
+4;sr9;silence;;5;;1;ha3.png;1
+4;sr9;silence;;6;;1;ha2.png;1
+4;sr9;silence;;7;;1;hb1.png;0
+4;sr9;silence;;8;;2;ha1.png;1
+4;sr9;silence;;9;;2;hb2.png;0
+4;sr9;silence;;10;;2;hb3.png;1
+4;sr9;silence;;11;;2;ha1.png;1
+4;sr9;silence;;12;;2;hb1.png;1
+4;sr9;silence;;13;;2;ha3.png;1
+4;sr9;silence;;14;;2;ha2.png;1
+4;sr9;silence;;15;;2;hb1.png;1
+4;sr9;silence;;16;;3;ha1.png;1
+4;sr9;silence;;17;;3;hb2.png;0
+4;sr9;silence;;18;;3;hb3.png;1
+4;sr9;silence;;19;;3;ha1.png;1
+4;sr9;silence;;20;;3;hb1.png;1
+4;sr9;silence;;21;;3;ha3.png;1
+4;sr9;silence;;22;;3;ha2.png;0
+4;sr9;silence;;23;;3;hb1.png;1
+4;uf_7_1k;silence;;0;;1;hb3.png;0
+4;uf_7_1k;silence;;1;;1;ha1.png;1
+4;uf_7_1k;silence;;2;;1;ha3.png;0
+4;uf_7_1k;silence;;3;;1;hb2.png;1
+4;uf_7_1k;silence;;4;;1;ha2.png;0
+4;uf_7_1k;silence;;5;;1;hb1.png;1
+4;uf_7_1k;silence;;6;;1;ha1.png;1
+4;uf_7_1k;silence;;7;;1;hb1.png;1
+4;uf_7_1k;silence;;8;;2;hb3.png;1
+4;uf_7_1k;silence;;9;;2;ha1.png;1
+4;uf_7_1k;silence;;10;;2;ha3.png;0
+4;uf_7_1k;silence;;11;;2;hb2.png;1
+4;uf_7_1k;silence;;12;;2;ha2.png;1
+4;uf_7_1k;silence;;13;;2;hb1.png;0
+4;uf_7_1k;silence;;14;;2;ha1.png;1
+4;uf_7_1k;silence;;15;;2;hb1.png;1
+4;uf_7_1k;silence;;16;;3;hb3.png;1
+4;uf_7_1k;silence;;17;;3;ha1.png;1
+4;uf_7_1k;silence;;18;;3;ha3.png;0
+4;uf_7_1k;silence;;19;;3;hb2.png;1
+4;uf_7_1k;silence;;20;;3;ha2.png;1
+4;uf_7_1k;silence;;21;;3;hb1.png;1
+4;uf_7_1k;silence;;22;;3;ha1.png;1
+4;uf_7_1k;silence;;23;;3;hb1.png;1
+4;va8;silence;;0;;1;hb1.png;1
+4;va8;silence;;1;;1;ha1.png;0
+4;va8;silence;;2;;1;hb1.png;1
+4;va8;silence;;3;;1;ha3.png;1
+4;va8;silence;;4;;1;hb2.png;0
+4;va8;silence;;5;;1;ha1.png;1
+4;va8;silence;;6;;1;ha2.png;0
+4;va8;silence;;7;;1;hb3.png;1
+4;va8;silence;;8;;2;hb1.png;1
+4;va8;silence;;9;;2;ha1.png;1
+4;va8;silence;;10;;2;hb1.png;1
+4;va8;silence;;11;;2;ha3.png;1
+4;va8;silence;;12;;2;hb2.png;0
+4;va8;silence;;13;;2;ha1.png;1
+4;va8;silence;;14;;2;ha2.png;0
+4;va8;silence;;15;;2;hb3.png;1
+4;va8;silence;;16;;3;hb1.png;1
+4;va8;silence;;17;;3;ha1.png;1
+4;va8;silence;;18;;3;hb1.png;1
+4;va8;silence;;19;;3;ha3.png;1
+4;va8;silence;;20;;3;hb2.png;1
+4;va8;silence;;21;;3;ha1.png;1
+4;va8;silence;;22;;3;ha2.png;1
+4;va8;silence;;23;;3;hb3.png;1
+4;vb7;verb;;0;;1;ha1.png;1
+4;vb7;verb;;1;;1;hb2.png;0
+4;vb7;verb;;2;;1;ha2.png;1
+4;vb7;verb;;3;;1;hb3.png;1
+4;vb7;verb;;4;;1;hb1.png;0
+4;vb7;verb;;5;;1;ha1.png;1
+4;vb7;verb;;6;;1;ha3.png;1
+4;vb7;verb;;7;;1;hb1.png;1
+4;vb7;verb;;8;;2;ha1.png;1
+4;vb7;verb;;9;;2;hb2.png;1
+4;vb7;verb;;10;;2;ha2.png;1
+4;vb7;verb;;11;;2;hb3.png;1
+4;vb7;verb;;12;;2;hb1.png;1
+4;vb7;verb;;13;;2;ha1.png;1
+4;vb7;verb;;14;;2;ha3.png;1
+4;vb7;verb;;15;;2;hb1.png;1
+4;vb7;verb;;16;;3;ha1.png;1
+4;vb7;verb;;17;;3;hb2.png;1
+4;vb7;verb;;18;;3;ha2.png;1
+4;vb7;verb;;19;;3;hb3.png;1
+4;vb7;verb;;20;;3;hb1.png;1
+4;vb7;verb;;21;;3;ha1.png;1
+4;vb7;verb;;22;;3;ha3.png;1
+4;vb7;verb;;23;;3;hb1.png;1
+4;vp8_2i;silence;;0;;1;ha2.png;1
+4;vp8_2i;silence;;1;;1;hb1.png;0
+4;vp8_2i;silence;;2;;1;ha3.png;0
+4;vp8_2i;silence;;3;;1;ha1.png;1
+4;vp8_2i;silence;;4;;1;hb2.png;0
+4;vp8_2i;silence;;5;;1;ha1.png;0
+4;vp8_2i;silence;;6;;1;hb1.png;0
+4;vp8_2i;silence;;7;;1;hb3.png;0
+4;vp8_2i;silence;;8;;2;ha2.png;1
+4;vp8_2i;silence;;9;;2;hb1.png;1
+4;vp8_2i;silence;;10;;2;ha3.png;0
+4;vp8_2i;silence;;11;;2;ha1.png;0
+4;vp8_2i;silence;;12;;2;hb2.png;0
+4;vp8_2i;silence;;13;;2;ha1.png;1
+4;vp8_2i;silence;;14;;2;hb1.png;1
+4;vp8_2i;silence;;15;;2;hb3.png;0
+4;vp8_2i;silence;;16;;3;ha2.png;0
+4;vp8_2i;silence;;17;;3;hb1.png;1
+4;vp8_2i;silence;;18;;3;ha3.png;0
+4;vp8_2i;silence;;19;;3;ha1.png;1
+4;vp8_2i;silence;;20;;3;hb2.png;0
+4;vp8_2i;silence;;21;;3;ha1.png;1
+4;vp8_2i;silence;;22;;3;hb1.png;1
+4;vp8_2i;silence;;23;;3;hb3.png;0
+4;vp8;verb;;0;;1;hb2.png;1
+4;vp8;verb;;1;;1;ha1.png;1
+4;vp8;verb;;2;;1;ha3.png;0
+4;vp8;verb;;3;;1;hb1.png;0
+4;vp8;verb;;4;;1;ha1.png;0
+4;vp8;verb;;5;;1;hb1.png;0
+4;vp8;verb;;6;;1;ha2.png;0
+4;vp8;verb;;7;;1;hb3.png;1
+4;vp8;verb;;8;;2;hb2.png;0
+4;vp8;verb;;9;;2;ha1.png;0
+4;vp8;verb;;10;;2;ha3.png;0
+4;vp8;verb;;11;;2;hb1.png;0
+4;vp8;verb;;12;;2;ha1.png;1
+4;vp8;verb;;13;;2;hb1.png;1
+4;vp8;verb;;14;;2;ha2.png;0
+4;vp8;verb;;15;;2;hb3.png;0
+4;vp8;verb;;16;;3;hb2.png;0
+4;vp8;verb;;17;;3;ha1.png;0
+4;vp8;verb;;18;;3;ha3.png;1
+4;vp8;verb;;19;;3;hb1.png;1
+4;vp8;verb;;20;;3;ha1.png;1
+4;vp8;verb;;21;;3;hb1.png;1
+4;vp8;verb;;22;;3;ha2.png;0
+4;vp8;verb;;23;;3;hb3.png;0
+4;vs8;silence;;0;;1;ha1.png;1
+4;vs8;silence;;1;;1;hb1.png;0
+4;vs8;silence;;2;;1;hb1.png;1
+4;vs8;silence;;3;;1;ha3.png;1
+4;vs8;silence;;4;;1;hb3.png;0
+4;vs8;silence;;5;;1;ha2.png;0
+4;vs8;silence;;6;;1;hb2.png;0
+4;vs8;silence;;7;;1;ha1.png;0
+4;vs8;silence;;8;;2;ha1.png;1
+4;vs8;silence;;9;;2;hb1.png;1
+4;vs8;silence;;10;;2;hb1.png;1
+4;vs8;silence;;11;;2;ha3.png;1
+4;vs8;silence;;12;;2;hb3.png;0
+4;vs8;silence;;13;;2;ha2.png;1
+4;vs8;silence;;14;;2;hb2.png;0
+4;vs8;silence;;15;;2;ha1.png;0
+4;vs8;silence;;16;;3;ha1.png;1
+4;vs8;silence;;17;;3;hb1.png;1
+4;vs8;silence;;18;;3;hb1.png;1
+4;vs8;silence;;19;;3;ha3.png;1
+4;vs8;silence;;20;;3;hb3.png;0
+4;vs8;silence;;21;;3;ha2.png;0
+4;vs8;silence;;22;;3;hb2.png;0
+4;vs8;silence;;23;;3;ha1.png;1
+4;vy7;verb;;0;;1;hb2.png;0
+4;vy7;verb;;1;;1;ha1.png;0
+4;vy7;verb;;2;;1;ha2.png;1
+4;vy7;verb;;3;;1;hb1.png;1
+4;vy7;verb;;4;;1;ha1.png;1
+4;vy7;verb;;5;;1;hb1.png;1
+4;vy7;verb;;6;;1;ha3.png;1
+4;vy7;verb;;7;;1;hb3.png;1
+4;vy7;verb;;8;;2;hb2.png;0
+4;vy7;verb;;9;;2;ha1.png;1
+4;vy7;verb;;10;;2;ha2.png;0
+4;vy7;verb;;11;;2;hb1.png;1
+4;vy7;verb;;12;;2;ha1.png;0
+4;vy7;verb;;13;;2;hb1.png;1
+4;vy7;verb;;14;;2;ha3.png;0
+4;vy7;verb;;15;;2;hb3.png;1
+4;vy7;verb;;16;;3;hb2.png;1
+4;vy7;verb;;17;;3;ha1.png;1
+4;vy7;verb;;18;;3;ha2.png;0
+4;vy7;verb;;19;;3;hb1.png;1
+4;vy7;verb;;20;;3;ha1.png;1
+4;vy7;verb;;21;;3;hb1.png;0
+4;vy7;verb;;22;;3;ha3.png;1
+4;vy7;verb;;23;;3;hb3.png;0
+4;vy8;silence;;0;;1;hb1.png;1
+4;vy8;silence;;1;;1;hb2.png;0
+4;vy8;silence;;2;;1;ha3.png;1
+4;vy8;silence;;3;;1;ha1.png;0
+4;vy8;silence;;4;;1;hb3.png;0
+4;vy8;silence;;5;;1;ha1.png;1
+4;vy8;silence;;6;;1;ha2.png;0
+4;vy8;silence;;7;;1;hb1.png;1
+4;vy8;silence;;8;;2;hb1.png;1
+4;vy8;silence;;9;;2;hb2.png;0
+4;vy8;silence;;10;;2;ha3.png;0
+4;vy8;silence;;11;;2;ha1.png;0
+4;vy8;silence;;12;;2;hb3.png;0
+4;vy8;silence;;13;;2;ha1.png;0
+4;vy8;silence;;14;;2;ha2.png;0
+4;vy8;silence;;15;;2;hb1.png;1
+4;vy8;silence;;16;;3;hb1.png;1
+4;vy8;silence;;17;;3;hb2.png;0
+4;vy8;silence;;18;;3;ha3.png;1
+4;vy8;silence;;19;;3;ha1.png;1
+4;vy8;silence;;20;;3;hb3.png;0
+4;vy8;silence;;21;;3;ha1.png;0
+4;vy8;silence;;22;;3;ha2.png;1
+4;vy8;silence;;23;;3;hb1.png;1
